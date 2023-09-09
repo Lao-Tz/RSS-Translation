@@ -17,3 +17,4 @@
  - source004 [http://feeds.bbci.co.uk/news/rss.xml](http://feeds.bbci.co.uk/news/rss.xml) -> [BBC_Top_Stories_rss.xml](rss/BBC_Top_Stories_rss.xml)
  - source005 [https://www.billboard.com/feed](https://www.billboard.com/feed) -> [billboard_rss.xml](rss/billboard_rss.xml)
  - source006 [https://www.seqanswers.com/external?type=rss2&nodeid=36](https://www.seqanswers.com/external?type=rss2&nodeid=36) -> [bioimformatcs_rss.xml](rss/bioimformatcs_rss.xml)
+ - source007 [https://newapps.f-droid.othing.xyz/new_apps.zh-CN.xml](https://newapps.f-droid.othing.xyz/new_apps.zh-CN.xml) -> [Froid_rss.xml](rss/Froid_rss.xml)
