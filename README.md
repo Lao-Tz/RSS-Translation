@@ -18,4 +18,4 @@
  - source005 [https://www.billboard.com/feed](https://www.billboard.com/feed) -> [billboard_rss.xml](rss/billboard_rss.xml)
  - source006 [https://www.seqanswers.com/external?type=rss2&nodeid=36](https://www.seqanswers.com/external?type=rss2&nodeid=36) -> [bioimformatcs_rss.xml](rss/bioimformatcs_rss.xml)
  - source007 [https://newapps.f-droid.othing.xyz/new_apps.zh-CN.xml](https://newapps.f-droid.othing.xyz/new_apps.zh-CN.xml) -> [Froid_rss.xml](rss/Froid_rss.xml)
- - source008 [https://rss-seven-iota.vercel.app/oup/journals/biostatistics](https://rss-seven-iota.vercel.app/oup/journals/biostatistics) -> [biostatistics.xml](rss/biostatistics.xml)
+ - source008 [https://rsseverything.com/feed/5a44e712-2dce-412c-8683-f6fa58f0280c.xml](https://rsseverything.com/feed/5a44e712-2dce-412c-8683-f6fa58f0280c.xml) -> [biostatistics.xml](rss/biostatistics.xml)
