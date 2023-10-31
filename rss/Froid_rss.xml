@@ -1,1 +1,454 @@
-<feed xml:lang="zh-CN" xmlns="http://www.w3.org/2005/Atom"><id>https://newapps.f-droid.othing.xyz/new_apps.zh-CN.xml</id><title> F-Droid (zh-CN) 上的新应用程序</title><updated>2023-10-30T08:38:18.233157+00:00</updated><author><name> yzqzss</name><email> yzqzss@yandex.com </email></author><link href="https://newapps.f-droid.othing.xyz/new_apps.zh-CN.xml" rel="self"/><link href="https://f-droid.org/packages/" rel="alternate"/><generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0"> python-feedgen</generator><subtitle> F-Droid (zh-CN) 上的新应用程序</subtitle><entry><id>https://f-droid.org/packages/cz.slaby.dpc/</id><title>数字PC</title><updated> 2023-10-27T21:59:11+00:00</updated><author><name>雅库布·斯拉比</name></author><content type="html">使用该应用程序可以在 Github 上进行同步操作，并在 Git 上进行同步操作。</content><link href="https://f-droid.org/packages/cz.slaby.dpc/" rel="alternate"/><summary>数字谱系和编年史</summary><published>2023-10-27T21:59:11+00:00</published></entry><entry><id> https://f-droid.org/packages/com.adilhanney.ricochlime/</id><title>蓖麻石灰</title><updated>2023-10-27T21:49:24+00:00</updated><author><name>阿迪尔·汉尼</name></author><content type="html">Ricochlime 是一款游戏，您可以用弹射弹丸攻击前进的史莱姆。该游戏是使用Flame游戏引擎和Flutter制作的。&lt;br>; </content><link href="https://f-droid.org/packages/com.adilhanney.ricochlime/" rel="alternate"/><summary>令人满意的史莱姆射手</summary><published>2023-10-27T21:49:17+00:00</published></entry><entry><id> https://f-droid.org/packages/be.bhasher.mobileinpact/</id><title>移动影响</title><updated>2023-10-27T21:48:13+00:00</updated><author><name>巴舍尔</name></author><content type="html">MobileInpact 是 NextInpact 的非官方客户端。它从 RSS 源下载文章，组织它们并允许事后查阅它们，甚至可以离线查阅。 </content><link href="https://f-droid.org/packages/be.bhasher.mobileinpact/" rel="alternate"/><summary> MobileInpact 是 NextInpact 的非官方客户端。</summary><published> 2023-10-27T21:48:13+00:00</published></entry><entry><id> https://f-droid.org/packages/xyz.crucitti.friendalert/</id><title>好友提醒</title><updated>2023-10-25T18:09:07+00:00</updated><author><name>达维多斯基</name></author><content type="html">&lt;h1>;FriendAlert：无论相距多远，都让友谊蓬勃发展&lt;/h1>;&lt;br>;&lt;p>;生活中的冒险让我们结识了跨越城市、国家甚至大陆的友谊。虽然&lt;br>;这些联系为我们的生活增添了不可估量的价值，但保持它们跨越距离的活力可能是一个挑战&lt;br>;。 FriendAlert 诞生于这场普遍的斗争，是您维持这些&lt;br>;重要友谊的首选解决方案。&lt;/p>;&lt;br>;&lt;p>;🌍 &lt;strong>;您的全球友谊中心&lt;/strong>;&lt; br>;无论您的友谊是在操场上还是在国际旅行中建立的，&lt;br>;FriendAlert 都可以作为您维持这些宝贵纽带的统一平台。有了&lt;br>;FriendAlert，里程和时区都不会削弱您的联系。&lt;/p>;&lt;br>;&lt;p>;🗣️ &lt;strong>;培养真实的联系：不仅仅是签到&lt;/strong>;&lt;br>;社交媒体可能会提供有关人们生活的粗略更新，但它不能替代真正的&lt;br>;对话。 FriendAlert 鼓励您进行超越肤浅的有意义的对话。&lt;/p>;&lt;br>;&lt;h1 id=&quot;a-personal-perspective&quot;>;个人观点&lt;/h1>;&lt;br>;&lt;p>;我创建 FriendAlert 的目的是与对我最重要的人保持联系。&lt;br>;虽然该应用程序的实用程序可能有所不同，但以下是我遵循的一些个人准则：&lt;/p>;&lt;br>;&lt;ul>;&lt; br>;&lt;li>;使用 FriendAlert 来跟踪那些您发现失去联系的人，而不是您&lt;br>;经常见面的朋友。&lt;/li>;&lt;br>;&lt;li>;尽管面对面的会议是不可替代的，但电话会议或视频通话是&lt;br>;在不可行时的绝佳选择。&lt;/li>;&lt;br>;&lt;li>;短信虽然方便，但在传达情感细微差别方面存在不足，不应该成为您的主要模式&lt;br>; &lt;/li>;&lt;br>;&lt;li>;通过社交媒体进行互动（例如点赞照片或发表评论）对于&lt;br>;培养真正的友谊来说根本无济于事。&lt;/li>;&lt;br>;&lt; /ul>;&lt;br>;&lt;h1 id=&quot;elevate-your-social-ecosystem&quot;>;提升您的社交生态系统&lt;/h1>;&lt;br>;&lt;p>;FriendAlert 的出现源于个人对一种易于访问、经济实惠的方式来维持的需求我的社交&lt;br>;圈子。虽然像 nouri.ai 这样的平台有其优点，但 FriendAlert 提供了一个免费且用户友好的&lt;br>;替代方案。&lt;/p>;&lt;br>;&lt;p>;分享美好时光是件好事。让我们&lt;br>;通过更强大、更有意义的联系，不仅丰富我们的对话，还丰富我们的生活和社区。&lt;/​​p>; </content><link href="https://f-droid.org/packages/xyz.crucitti.friendalert/" rel="alternate"/><summary>通过及时提醒培养远方友谊</summary><published>2023-10-25T18:09:07+00:00</published></entry><entry><id> https://f-droid.org/packages/ru.aleshin.timeplanner/</id><title>时间规划器</title><updated>2023-10-25T18:08:21+00:00</updated><author><name>斯坦尼斯拉夫·阿列辛</name></author><content type="html">时间规划器是一款方便规划和跟踪您的日程的应用程序。&lt;br>;该应用程序包含模板，可让您快速制定日程，您还可以启用模板的自动重复，不再担心手动添加它。&lt; br>;日程表中的每项任务都有自己的类别和子类别，用于构建您的行动。&lt;br>;根据此内容，应用程序中的分析功能将帮助您更有效地制定当天的计划&lt;br>;&lt; br>;可用语言 🌍&lt;br>;- 俄语 🇷🇺&lt;br>;- 英语 🇬🇧&lt;br>;- 德语 🇩🇪&lt;br>;- 西班牙语 🇪🇸&lt;br>;- 法语 🇫🇷&lt;br>;- 波斯语 🇮🇷（测试版） &lt;br>;&lt;br>;支持 📱&lt;br>;- 本地时间和任务分析 📊&lt;br>;- 日常任务模板 🏃‍♂️&lt;br>;- 通过模板重复执行任务 🔁&lt;br>;- 数据备份和恢复 💾&lt;br>; - 预定通知 ⏰&lt;br>;- 优先级和防止重叠任务的保护 📐&lt;br>;- 主题：黑暗 |光 🖤🤍&lt;br>;- 动态颜色或 4 种不同的颜色变化 🎨 </content><link href="https://f-droid.org/packages/ru.aleshin.timeplanner/" rel="alternate"/><summary>方便快捷地规划当天的任务</summary><published>2023-10-25T18:08:21+00:00</published></entry><entry><id> https://f-droid.org/packages/io.github.wh201906.serialpipe/</id><title>串行管道</title><updated>2023-10-25T18:00:52+00:00</updated><author><name> wh201906</name></author><content type="html">一款USB串口转UDP应用&lt;br>;&lt;br>;此应用用于将USB串口转接至UDP连接上以便于远程调用，相当于以下Linux命令：&lt;br>;```&lt;br>;socat -dd /dev/ttyACM0,raw,echo=0,b&lt;波特率>; udp4-listen:&lt;端口>;,reuseaddr,fork&lt;br>;```&lt;br>;</content><link href="https://f-droid.org/packages/io.github.wh201906.serialpipe/" rel="alternate"/><summary>一款USB串口转UDP应用</summary><published>2023-10-25T18:00:52+00:00</published></entry><entry><id> https://f-droid.org/packages/com.mrsep.musicrecognizer/</id><title>奥迪勒</title><updated>2023-10-25T17:52:55+00:00</updated><author><name>阿列克谢·萨恩科</name></author><content type="html">&lt;b>;Audile&lt;/b>; 是一款音乐识别应用程序，可以帮助您快速准确地识别您附近正在播放的音乐曲目。&lt;br>;此应用程序使用 AudD® 服务作为音乐识别 API。&lt;br>;&lt;br >;&lt;b>;功能：&lt;/b>;&lt;br>;&lt;br>;&lt;b>;识别&lt;/b>; - Audile 允许您一键执行歌曲识别。如果没有网络，应用程序会保存录音，并在您重新联网时执行识别过程。您可以通过首选项自定义识别不成功的默认行为（无互联网、无匹配、再次失败）。&lt;br>;&lt;b>;通知服务&lt;/b>; - 您可以从通知抽屉中使用该应用程序。管理识别过程并接收有关曲目的信息。&lt;br>;&lt;b>;关于曲目&lt;/b>; - 如果成功识别，有关曲目的信息，例如名称、艺术家、专辑和年份、艺术作品、链接到此曲目在流行音乐服务上提供歌词。&lt;br>;&lt;b>;库&lt;/b>; - 所有识别的曲目都存储在应用程序的库中。您可以过滤曲目列表、创建收藏夹、搜索曲目或删除曲目。&lt;br>;&lt;b>;首选项&lt;/b>; - 该应用程序有许多用于自定义其行为和外观的选项，可以在在设置屏幕上。&lt;br>; </content><link href="https://f-droid.org/packages/com.mrsep.musicrecognizer/" rel="alternate"/><summary>音乐识别应用程序</summary><published>2023-10-25T17:52:55+00:00</published></entry><entry><id> https://f-droid.org/packages/com.gmail.blandilyte.silverdict/</id><title>银词典</title><updated>2023-10-25T17:50:39+00:00</updated><author><name>宜兴</name></author><content type="html">这是SilverDict 搜索服务器的Android 客户端，是基于Web 技术的GoldenDict 替代产品。该移动客户端具有搜索应用程序的所有预期功能，包括查找、历史记录、输入建议、搜索管理等。&lt;br>;&lt;br >;您可以在其 GitHub 仓库中阅读有关该服务器的更多信息：https://github.com/Crissium/SilverDict&lt;br>; </content><link href="https://f-droid.org/packages/com.gmail.blandilyte.silverdict/" rel="alternate"/><summary> SilverDict 搜索服务器 Android 客户端</summary><published>2023-10-25T17:50:29+00:00</published></entry><entry><id> https://f-droid.org/packages/com.github.librerandonaut.librerandonaut/</id><title>自由随机人</title><updated>2023-10-25T17:49:38+00:00</updated><author><name>自由随机人</name></author><content type="html">LibreRandonaut 是一款开源 Android 应用程序，用于生成真正的随机坐标，允许用户探索周围环境并执行“随机导航”活动。 &lt;br>;&lt;br>;它与澳大利亚国立大学的 QRNG 接口，获取量子随机数列表，将它们转换为坐标，然后计算这些坐标的高斯核密度估计，以找到具有统计分布的点异常密度。&lt;br>; </content><link href="https://f-droid.org/packages/com.github.librerandonaut.librerandonaut/" rel="alternate"/><summary>随机导航 - 用量子随机性探索周围环境</summary><published>2023-10-25T17:49:38+00:00</published></entry><entry><id> https://f-droid.org/packages/com.github.emavgl.piggybankpro/</id><title>奥因科因</title><updated>2023-10-25T17:49:24+00:00</updated><author><name>埃马夫格尔</name></author><content type="html">Oinkoin Money Manager 让个人财务管理变得简单、安全。它轻便且易于使用。您只需轻按几下即可跟踪您的支出。简单性和安全性是我们的两个主要驱动力：Oinkoin 是一款离线且无广告的应用程序。&lt;br>;&lt;br>;* 隐私关怀&lt;br>;我们相信您应该是唯一控制您的数据的人。 Oinkoin 关心您的隐私，因此它完全离线运行，没有任何广告！无需特殊权限。&lt;br>;&lt;br>;* 节省电量&lt;br>;该应用程序仅在使用时消耗电池，后台不执行任何耗电操作。&lt;br>;&lt;br>;* 统计信息&lt;br>;可以理解以及清晰的统计数据和图表！ </content><link href="https://f-droid.org/packages/com.github.emavgl.piggybankpro/" rel="alternate"/><summary>Oinkoin Money Manager 让个人财务管理变得简单、安全。</summary><published> 2023-10-25T17:49:24+00:00</published></entry><entry><id> https://f-droid.org/packages/com.elishaazaria.sayboard/</id><title>赛博德</title><updated>2023-10-27T21:51:19+00:00</updated><content type="html"> &lt;p>;该项目使用 &lt;a href=&quot;https://alphacephei.com/vosk/android&quot;>;Vosk&lt;/a>; 提供语音键盘。它基于 &lt;a href=&quot;https://github.com/Felicis/vosk-android-demo&quot;>;https://github.com/Felicis/vosk-android-demo&lt;/a>;。&lt;/p>; &lt;br>;&lt;p>;此应用程序需要 Vosk 模型才能运行。您可以使用内置下载器或从 &lt;a href=&quot;https://alphacephei.com/vosk/models&quot;>;https://alphacephei.com/vosk/models&lt;/a>; 手动下载，然后导入到应用程序。&lt;/p>;&lt;br>;&lt;br/>;&lt;br>;&lt;p>;Sayboard 使用以下权限：&lt;/p>;&lt;br>;&lt;ul>;&lt;br>; &lt;li>;INTERNET - 下载模型。此权限不是必需的，可以通过兼容 ROM 中的设备设置撤销。 &lt;strong>;Sayboard 不会、也永远不会通过互联网发送您的任何信息！&lt;/strong>;。&lt;/li>;&lt;br>; &lt;li>;RECORD_AUDIO - 好吧，毕竟这是一个语音键盘。&lt;/li >;&lt;br>; &lt;li>;POST_NOTIFICATIONS - 显示下载和导入进度。&lt;/li>;&lt;br>; &lt;li>;FOREGROUND_SERVICE - 在后台下载和导入模型。&lt;/li>;&lt;br>;&lt;/ul>;&lt;br >;&lt;br/>;&lt;br>;&lt;p>;由于文件大小限制，这里仅包含64位ARM架构。其他设备的 APK 可以从该项目的 &lt;a href=&quot;https://github.com/ElishaAz/Sayboard/releases&quot;>;Github 页面&lt;/a>;下载。 </content><link href="https://f-droid.org/packages/com.elishaazaria.sayboard/" rel="alternate"/><summary>使用 Vosk 库的 Android 开源设备上语音 IME（键盘）</summary><published> 2023-10-25T17:48:29+00:00</published></entry><entry><id> https://f-droid.org/packages/com.elasticrock.candle/</id><title>蜡烛</title><updated>2023-10-25T17:48:24+00:00</updated><author><name>弹性岩</name></author><content type="html">一个非常简单的应用程序，可让您将显示器用作手电筒。可以调整亮度，并且可以从快速设置图块启动应用程序。&lt;br>; </content><link href="https://f-droid.org/packages/com.elasticrock.candle/" rel="alternate"/><summary>展示手电筒</summary><published>2023-10-25T17:48:24+00:00</published></entry><entry><id> https://f-droid.org/packages/be.chvp.nanoledger/</id><title>纳米账本</title><updated>2023-10-25T17:45:22+00:00</updated><author><name>夏洛特·范·佩特海姆</name></author><content type="html">NanoLedger 是一款用于纯文本会计的数据输入应用程序。它支持ledger和hledger语法。&lt;br>;&lt;br>;您可以查看文件中的所有交易，并轻松添加新交易。添加时，支持自动完成收款人、备注和帐户名称。&lt;br>;</content><link href="https://f-droid.org/packages/be.chvp.nanoledger/" rel="alternate"/><summary>用于纯文本会计的数据输入应用程序</summary><published>2023-10-25T17:45:22+00:00</published></entry><entry><id> https://f-droid.org/packages/app.prav.client/</id><title>普拉夫</title><updated>2023-10-25T17:45:07+00:00</updated><author><name>专业团队</name></author><content type="html">无论您是想给朋友和家人发短信，还是打电话，prav 应用程序都能让您轻松实现。它提供了方便的入门和用户友好的界面。&lt;br>;&lt;br>;我们相信隐私是一项基本权利，任何人都应该轻松行使。&lt;br>;&lt;br>;使用 prav，您的聊天内容是私密的，只有您可以阅读它们https://prav.app/privacy-policy/。它基于 XMPP 协议，因此用户可以与世界各地的任何其他 XMPP 用户进行通信，而无需被锁定到某个服务。 &lt;br>;&lt;br>;Prav 的源代码可在免费许可下公开获取，提供透明度和可审计性。我们得到印度合作社的支持，从而实现民主决策。&lt;br>;&lt;br>;了解更多信息，请访问 https://prav.app。&lt;br>;</content><link href="https://f-droid.org/packages/app.prav.client/" rel="alternate"/><summary>一个用户友好的信使，适合每个人，注重隐私和自由！</summary><published> 2023-10-25T17:44:49+00:00</published></entry><entry><id> https://f-droid.org/packages/org.woheller69.hugassist/</id><title>拥抱辅助</title><updated>2023-10-22T07:51:25+00:00</updated><author><name>沃赫勒69</name></author><content type="html"> HuggingAssist 是 HuggingChat 的 WebView-Wrapper。该应用程序会阻止所有 URL，但该功能根本不存在。 </content><link href="https://f-droid.org/packages/org.woheller69.hugassist/" rel="alternate"/><summary> HuggingChat 的 WebView 包装器</summary><published>2023-10-22T07:51:25+00:00</published></entry><entry><id> https://f-droid.org/packages/org.gsmlg.semaphore/</id><title> Ansible 信号量客户端</title><updated>2023-10-20T16:15:08+00:00</updated><author><name>高乔纳森</name></author><content type="html">使用 ansible 信号量服务器从您的手机运行 Ansible Playbook。&lt;br>;&lt;br>;通过此链接安装 ansible 信号量服务器，https://github.com/ansible-semaphore/semaphore。&lt;br>;</content><link href="https://f-droid.org/packages/org.gsmlg.semaphore/" rel="alternate"/><summary> Ansible Sempahore 的客户端应用程序</summary><published>2023-10-20T16:14:59+00:00</published></entry><entry><id> https://f-droid.org/packages/io.github.petlyh.jsdict/</id><title> JS字典</title><updated>2023-10-20T16:10:15+00:00</updated><content type="html"> JS-Dict 是一个方便的应用程序，用于访问强大的日英词典 Jisho.org。&lt;br>;&lt;br>;该应用程序是免费的开源软件。源代码可在 https://github.com/petlyh/JS-Dict 获取。 </content><link href="https://f-droid.org/packages/io.github.petlyh.jsdict/" rel="alternate"/><summary>由 Jisho.org 提供支持的日英词典应用程序。</summary><published> 2023-10-20T16:10:15+00:00</published></entry><entry><id> https://f-droid.org/packages/com.wqar.quran_mem_helper/</id><title>古兰经 16 行 - 古兰经复习助手</title><updated>2023-10-20T16:05:15+00:00</updated><author><name>瓦卡尔·艾哈迈德</name></author><content type="html">《古兰经》16 Line 是一款专为正在背诵或已经背诵《古兰经》的人而设计的应用程序。这些页面采用 16 行格式，这是印巴地区最流行的格式。&lt;br>;&lt;br>;您可以使用此应用程序来：&lt;br>;- 阅读古兰经&lt;br>;- 标记您想要更频繁地复习的经文或者有错误&lt;br>;- 参加测验&lt;br>;- 查看每个 para/juz 的 mutashabihas 列表&lt;br>; </content><link href="https://f-droid.org/packages/com.wqar.quran_mem_helper/" rel="alternate"/><summary>古兰经 16 行页格式，带有 mutashabihas 和错误标记</summary><published>2023-10-20T16:05:13+00:00</published></entry><entry><id> https://f-droid.org/packages/com.slavabarkov.tidy/</id><title> TIDY 文本到图像发现</title><updated>2023-10-20T16:04:04+00:00</updated><author><name>维亚切斯拉夫·巴尔科夫</name></author><content type="html">Android 上的离线文本到图像和图像到图像搜索。&lt;br>;通过文本描述和其他视觉上相似的图像在图库中搜索图像。 TIDY 完全离线工作，确保您的隐私和安全。&lt;br>;&lt;br>;功能：&lt;br>;&lt;br>;* 文本到图像搜索 - 只需输入您要查找的图像的描述，TIDY 就会检索本地图像库中最相关的匹配项。 TIDY 中的文本到图像搜索功能超越了传统的基于关键字的搜索！您可以使用更长、更详细的描述来查找您想要的确切图像。&lt;br>;* 图像到图像搜索 - 通过从设备图库中选择照片来搜索视觉上相似的图像。 TIDY 将分析图像并检索具有相似视觉特征的图像，使您能够以全新的方式探索和发现新图像。&lt;br>;&lt;br>;首次启动：&lt;br>;在首次启动期间，TIDY 将需要扫描您的照片库并创建图像索引。此索引过程可能需要一些时间，但它是一次性事件。初始索引过程完成后，应用程序会将索引存储在您的设备上，并且您添加到照片库中的任何新照片都将在后续应用程序启动时自动添加到索引中。&lt;br>;</content><link href="https://f-droid.org/packages/com.slavabarkov.tidy/" rel="alternate"/><summary>Android 上的离线语义文本到图像和图像到图像搜索</summary><published>2023-10-20T16:04:04+00:00</published></entry><entry><id> https://f-droid.org/packages/de.rainerhock.eightbitwonders/</id><title> 8 位奇迹</title><updated>2023-10-16T20:55:21+00:00</updated><author><name>莱纳·霍克</name></author><content type="html">Mit 8-Bit-Wonders kannst du mit den Computern deiner Jugend (oder der deiner Eltern oder der deiner Großeltern) arbeiten und spielen und dabei alle Vorteile der Modernen Technik behalten:&lt;br>;&lt;ul>;&lt;br>; &lt;li>;Externe Tastaturen,游戏手柄和操纵杆可通过 USB 或蓝牙连接。&lt;/li>;&lt;br>; &lt;li>;Es gibt eine vollständige pleasurelle Tastatur, einen Joystick und ein Lenkrad für den Touchscreen.&lt;/li>;&lt;br>; &lt;li>;Alle Disketten- und Kassettenformate von VICE werden unterstützt。&lt;/li>;&lt;br>; &lt;li>;Dateien können im Gerätespeichern und in der Cloud abgelegt sein。&lt;/li>;&lt;br>; &lt;li>;Spielstände können gespeichert，auf dem Startbildschirm der App abgelegt und geteilt werden。&lt;/li>;&lt;br>;&lt;/ul>;&lt;br>;&lt;br>;Zur Zeit werden der C64，der beliebteste Computer der 80er und sein Vorgänger，der VC20，unterstützt。</content><link href="https://f-droid.org/packages/de.rainerhock.eightbitwonders/" rel="alternate"/><summary> 8-Bit Wonders 是适用于 Android 设备的 C64 和 VIC20 模拟器。</summary><published> 2023-10-16T20:55:21+00:00</published></entry><entry><id> https://f-droid.org/packages/com.toasterofbread.spmp/</id><title>脉压</title><updated>2023-10-16T20:52:48+00:00</updated><author><name>面包烤面包机</name></author><content type="html">&lt;b>;功能：&lt;/b>;&lt;br>;&lt;br>;- 编辑歌曲、艺术家和播放列表标题&lt;br>;- 为应用 UI 和元数据（例如歌曲标题）设置单独的语言&lt;br>;- 应用内 YouTube Music 登录&lt; br>;- 显示来自[酷狗](https://www.kugou.com/)的时间同步歌词&lt;br>;- 定时歌词显示在每个应用页面上方的可切换栏中&lt;br>;- 上方显示汉字注音（读音）歌词中的日语汉字&lt;br>;- 选择多首歌曲以在任何屏幕上进行批量操作&lt;br>;- 将任何歌曲、播放列表、专辑或艺术家固定到主页顶部&lt;br>;- 可自定义的 Discord 丰富的存在&lt;br>;-轻松地将歌曲插入队列中的任何位置&lt;br>; </content><link href="https://f-droid.org/packages/com.toasterofbread.spmp/" rel="alternate"/><summary>专注于语言和元数据自定义的 YouTube Music 客户端</summary><published>2023-10-16T20:52:48+00:00</published></entry><entry><id> https://f-droid.org/packages/com.openathena/</id><title>适用于 Android 的 OpenAthena™</title><updated> 2023-10-20T16:02:23+00:00</updated><author><name>马修·克鲁普扎克</name></author><content type="html">Android版OpenAthena™是免费的开源软件，可让普通无人机精准定位&lt;br>;&lt;br>;🖼️👨‍💻 + 🧮⛰️ = 🎯📍&lt;br>;&lt;br>;请访问&lt;a href=&#39;https: //OpenAthena.com/&#39;>;https://OpenAthena.com&lt;/a>; 了解更多信息&lt;br>;</content><link href="https://f-droid.org/packages/com.openathena/" rel="alternate"/><summary> OpenAthena™让普通无人机能够精准定位</summary><published>2023-10-16T20:51:10+00:00</published></entry><entry><id> https://f-droid.org/packages/app.vger.voyager/</id><title>莱米的航行者</title><updated>2023-10-27T21:48:02+00:00</updated><content type="html"> Voyager 是 Lemmy 的免费开源客户端。 Voyager 尊重您的隐私：没有跟踪器，没有广告。&lt;br>;&lt;br>;应用程序开发由社区驱动。参与 Github！&lt;br>;&lt;br>;Voyager 提供什么？&lt;br>;&lt;br>;- 永远没有跟踪器或广告&lt;br>;- 多帐户支持&lt;br>;- 手势驱动的 UI&lt;br>;- 紧凑和大帖子提要模式&lt;br>;- 将帖子标记为滚动阅读&lt;br>;- 隐藏已读帖子，或单独隐藏&lt;br>;- 漂亮的私人消息 UI&lt;br>;- 根据您的愿望自定义 Voyager 的设置&lt;br>;-快速社区切换器&lt;br>;- 开源：代码可在 Github 上获取</content><link href="https://f-droid.org/packages/app.vger.voyager/" rel="alternate"/><summary>加入讨论</summary><published>2023-10-16T20:43:47+00:00</published></entry><entry><id> https://f-droid.org/packages/org.samo_lego.canta/</id><title>康塔</title><updated>2023-10-20T16:17:42+00:00</updated><content type="html"> Canta 允许您从设备上卸载*任何*应用程序&lt;br>;，即使您没有 root 访问权限。&lt;br>;&lt;br>;您需要安装 [Shizuku](https://shizuku.rikka。 app/download/)&lt;br>;并在使用 Canta 之前[激活它](https://shizuku.rikka.app/guide/setup/)。&lt;br>;&lt;br>;使用[通用 debloat 列表](https:// github.com/0x192/universal-android-debloater/) 获取徽章。&lt;br>;请阅读关于[如何选择建议]的指南&lt;br>;(https://github.com/0x192/universal-android-debloater/ wiki/FAQ#how-are-the-recommendations-chosen)&lt;br>;&lt;br>;功能&lt;br>;* 无设备变砖 - 但如果您删除重要的应用程序，&lt;br>;您仍然需要执行恢复出厂设置&lt; br>;* 无需 root&lt;br>;</content><link href="https://f-droid.org/packages/org.samo_lego.canta/" rel="alternate"/><summary>无需root即可卸载任何应用程序！</summary><published> 2023-10-15T05:07:26+00:00</published></entry><entry><id> https://f-droid.org/packages/org.cosmicide/</id><title>宇宙IDE</title><updated> 2023-10-15T05:04:13+00:00</updated><author><name>普拉纳夫·普瓦尔</name></author><content type="html">没有说明。</content><link href="https://f-droid.org/packages/org.cosmicide/" rel="alternate"/><summary>适用于 Android 设备的成熟 Java 和 Kotlin IDE。</summary><published> 2023-10-15T05:04:13+00:00</published></entry><entry><id> https://f-droid.org/packages/peterfajdiga.fastdraw/</id><title>快速抽奖</title><updated>2023-10-20T16:19:06+00:00</updated><author><name>彼得·法伊迪加</name></author><content type="html">一个简单的 Android 启动器，以占用小部件的空间为代价优先访问应用程序（仍然支持添加单个小部件）。&lt;br>;您可以添加快捷方式。&lt;br>;您的应用程序和快捷方式可以按类别排列。&lt;br>;那就是关于它。&lt;br>; </content><link href="https://f-droid.org/packages/peterfajdiga.fastdraw/" rel="alternate"/><summary>一个带有类别的简单 Android 启动器</summary><published>2023-10-10T13:03:44+00:00</published></entry><entry><id> https://f-droid.org/packages/com.elfeedcljsrn/</id><title> Elfeed移动</title><updated>2023-10-10T12:43:30+00:00</updated><author><name>托尼·雷纳</name></author><content type="html">从设备读取您的提要条目并将其与您的&lt;br>;Emacs 同步。该应用程序远程连接到 Elfeed Web API，并通过它获取提要内容。&lt;br>;&lt;br>;该应用程序要求您在计算机中运行 elfeed，并且可以远程访问 elfeed api。查看项目页面以获取更多信息：http://github.com/areina/elfeed-cljsrn&lt;br>;&lt;br>;&lt;br>;该应用程序是开源的，源代码可在项目页面中找到。&lt;br>;</content><link href="https://f-droid.org/packages/com.elfeedcljsrn/" rel="alternate"/><summary> Elfeed 移动客户端，Emacs 的可扩展网络提要阅读器</summary><published>2023-10-10T12:43:30+00:00</published></entry><entry><id> https://f-droid.org/packages/com.crawlmb/</id><title>地牢探索：石头汤（Android 版）</title><updated> 2023-10-10T12:42:53+00:00</updated><author><name>迈克尔·巴洛</name></author><content type="html">经典 Roguelike 地牢爬行：石头汤的 Android 版非官方移植版。这是 ASCII 版本。 &lt;br>;你能取回佐特宝珠吗？可能不是！&lt;br>;&lt;br>;---------------------------------------------------- --------&lt;br>;&lt;br>;正在寻找瓷砖版本？官方瓷砖版本（不是我制作的）可以从这里下载：http://crawl.develz.org/download.htm&lt;br>;</content><link href="https://f-droid.org/packages/com.crawlmb/" rel="alternate"/><summary> Dungeon Crawl: Stone Soup 的 ASCII 版本。</summary><published> 2023-10-10T12:42:53+00:00</published></entry><entry><id> https://f-droid.org/packages/quest.faraday.tip_calculator/</id><title>小费计算器</title><updated>2023-10-08T18:49:06+00:00</updated><content type="html">非常简单的小费计算器，根据税前小计计算小费。这也是我的第一个应用程序，所以缺少一些东西，我还不知道如何实现。&lt;br>; </content><link href="https://f-droid.org/packages/quest.faraday.tip_calculator/" rel="alternate"/><summary>根据税前金额进行操作的简单小费计算器</summary><published>2023-10-08T18:49:06+00:00</published></entry><entry><id> https://f-droid.org/packages/org.talkingpanda.osram_remote/</id><title>欧司朗遥控器</title><updated>2023-10-08T18:47:58+00:00</updated><content type="html">一款使用红外线控制欧司朗 RGB 灯的 Android 应用程序。&lt;br>;您的手机需要有红外发射器才能使用此应用程序。&lt;br>;目前仅支持内置红外发射器。&lt;br>;</content><link href="https://f-droid.org/packages/org.talkingpanda.osram_remote/" rel="alternate"/><summary>一款可以将手机变成灯光遥控器的应用程序</summary><published>2023-10-08T18:47:58+00:00</published></entry><entry><id> https://f-droid.org/packages/io.naox.inbe/</id><title>内心微风</title><updated>2023-10-08T18:39:24+00:00</updated><author><name>钠盐</name></author><content type="html">使用 Inner Breeze 探索呼吸的简单性，这是一款用于指导和跟踪您的 Wim Hof 呼吸法之旅的专用应用程序。 Inner Breeze 专为新手和经验丰富的练习者量身定制，提供直观的功能来增强您的呼吸练习。从个性化的节奏设置到富有洞察力的跟踪，提升您的正念并释放呼吸的变革力量。 Inner Breeze 不仅仅是一个应用程序；这是您每天平静和充满活力的绿洲。</content><link href="https://f-droid.org/packages/io.naox.inbe/" rel="alternate"/><summary>提升您的 Wim Hof 呼吸练习。</summary><published> 2023-10-08T18:39:24+00:00</published></entry><entry><id> https://f-droid.org/packages/com.xayah.databackup.foss/</id><title>数据备份</title><updated>2023-10-08T18:32:28+00:00</updated><author><name>霞苏苏苏</name></author><content type="html">&lt;i>;DataBackup&lt;/i>; 基于&lt;a href=&#39;https://github.com/YAWAsau/backup_script&#39; target=&#39;_blank&#39; rel=&#39;nofollow&#39;>;速度备份&lt;/a>;。它的诞生得到了作者的同意。&lt;br>;&lt;br>;&lt;i>;DataBackup&lt;/i>;旨在备份和恢复您的应用程序的数据。它适用于运行 Android 9 或更高版本的 arm64-v8a、armeabi-v7a、x86 和 x86_64 设备。&lt;br>;&lt;br>;&lt;br>;&lt;b>;功能包括：&lt;/b>;&lt;br>;&lt;br>;* &lt;b>;多用户支持&lt;/b>;&lt;br>;* &lt;b>;100% 数据完整性&lt;/b>;&lt;br>;* &lt;b>;快速&lt;b>;&lt;br>;* &lt;b>;简单&lt;/b>;&lt;br>;* &lt;b>;...&lt;/b>;&lt;br>; </content><link href="https://f-droid.org/packages/com.xayah.databackup.foss/" rel="alternate"/><summary>备份/恢复您的数据。</summary><published> 2023-10-08T18:32:21+00:00</published></entry><entry><id> https://f-droid.org/packages/com.lucinhu.bili_you/</id><title>比利友</title><updated>2023-10-08T18:27:41+00:00</updated><author><name>卢辛胡</name></author><content type="html">&lt;b>;功能&lt;/b>;&lt;br>;&lt;br>;&lt;ul>;&lt;br>;&lt;li>;主页视频推荐&lt;/li>;&lt;br>;&lt;li>;视频搜索&lt;/li>;&lt;br>;&lt;li>;评论区&lt;/li>;&lt;br>;&lt;li>;评论区楼中楼&lt;/li>;&lt;br>;&lt;li>;评论图片及笔记&lt;/li>;&lt;br>;&lt;li>;相关视频&lt;/li>;&lt;br>;&lt;li >;热搜&lt;/li>;&lt;br>;&lt;li>;视频播放&lt;/li>;&lt;br>;&lt;li>;弹幕&lt;/li>;&lt;br>;&lt;li>;用户投稿&lt;/li>;&lt;br>;&lt;li>;番剧搜索&lt;/li>;&lt;br>;&lt;li>;番剧播放&lt;/li>;&lt;br>;&lt;/ul>;&lt;br>;&lt;br>;</content><link href="https://f-droid.org/packages/com.lucinhu.bili_you/" rel="alternate"/><summary>第三方B站客户端</summary><published>2023-10-08T18:27:41+00:00</published></entry><entry><id> https://f-droid.org/packages/app.ladefuchs.android/</id><title>拉德富克斯</title><updated>2023-10-15T04:45:53+00:00</updated><content type="html"> KOSTET DER STROM FÜR DEIN E-AUTO？&lt;br>;Blitzschnell die günstigste Ladekarte finden。&lt;br>;&lt;br>;Mit einem Fingerwischen zeigt Dir der Ladefuchs die günstigste Ladekarte an der EV-Ladesäule。&lt;br>;&lt;br>;Nicht mehr， nicht weniger。&lt;br>;&lt;br>;Dank chargeprice.app sind die Daten immer aktuell。&lt;br>;&lt;br>;Die App ist kostenlos。 Der kleine Ladefuchs freut sich allerdings wie ein junger Dachs über Futterspenden。&lt;br>;&lt;br>;Er fiepst dann immer ein bisschen。&lt;br>;&lt;br>;Wer ist eigentlich schuld？&lt;br>;------------ ----------------&lt;br>;* Malik &amp; Flowinho von audiodump.de&lt;br>;* Bastian &#39;Schlingel&#39; Wölfle von bitsundso.de&lt;br>;* Dominic Wrege&lt;br>;*托尔斯滕·罗斯勒&lt;br>;* Illu：Aga und Marcel-André&lt;br>;&lt;br>;想法？ Bug？&lt;br>;--------------&lt;br>;咬住 android@ladefuchs.app&lt;br>;&lt;br>;Falls du Vorschläge für Fußnotentexte hast，lass es uns wissen auf https:// /ladefuchs.app/fussnote&lt;br>;&lt;br>;反功能/Unerwünschte Merkmale&lt;br>;---------------------------------------- ------&lt;br>;&lt;br>;* 非免费网络服务 / Proprietäre Netzwerkdienste - Die App greift auf einen eigenen API-Server zu, der wiederum Daten von chargeprice.app bezieht。&lt;br>;&lt;br>;权限 / Berechtigungen&lt;br>;----------------------------------------&lt;br>;&lt;br>;* 互联网 - Zugriff auf den eigenen API 服务器&lt;br >;* ACCESS_NETWORK_STATE - 权限，获得 Internetverbindung besteht，bevor versucht wird auf，den API-Server zuzugreifen&lt;br>; </content><link href="https://f-droid.org/packages/app.ladefuchs.android/" rel="alternate"/><summary>显示最便宜的充电卡 - 只需在充电点刷卡一次即可。</summary><published> 2023-10-08T18:20:01+00:00</published></entry><entry><id> https://f-droid.org/packages/app.crossword.yourealwaysbe.forkyzscanner/</id><title> Forkyz 扫描仪</title><updated>2023-10-08T18:19:57+00:00</updated><content type="html"> Forkyz 填字游戏应用程序的填字游戏扫描配套应用程序。&lt;br>;&lt;br>;支持从相机、图像文件或 PDF 扫描谜题。&lt;br>;&lt;br>;扫描是一个多步骤过程：扫描网格，然后扫描列的线索。可以编辑扫描结果以进行更正。然后可以与其他应用程序（例如 Forkyz）共享拼图来玩。&lt;br>;&lt;br>;该应用程序有点重量级：它包括用于图像处理的 OpenCV 和用于文本识别的 Tesseract。必须先从设置中下载用于文本识别的语言包，然后才能使用此功能。&lt;br>;&lt;br>; </content><link href="https://f-droid.org/packages/app.crossword.yourealwaysbe.forkyzscanner/" rel="alternate"/><summary> Forkyz 填字游戏应用程序的填字游戏扫描配套应用程序。</summary><published> 2023-10-08T18:19:57+00:00</published></entry><entry><id> https://f-droid.org/packages/com.ammar.wallflow.plus/</id><title>壁流加</title><updated>2023-10-08T18:22:23+00:00</updated><author><name>阿马尔·吉瑟姆</name></author><content type="html">来自 wallhaven.cc 的精美壁纸（将来会添加更多来源）。采用 Material Design 3 设计，支持平板电脑等宽屏设备。&lt;br>;&lt;br>;功能&lt;br>;&lt;br>;* 使用由 Tensorflow Lite 提供支持的设备上对象检测进行智能壁纸裁剪。&lt;br>; * 支持添加您自己的 TFLite楷模。您可以在 Tensorflow Hub 上找到更多模型。&lt;br>;* 适用于平板电脑和其他宽屏设备的多窗格布局&lt;br>;* 自动壁纸更换器&lt;br>;* 保存搜索&lt;br>;* 将壁纸标记为收藏夹&lt;br>;* 本地壁纸&lt;br>;* 在自动壁纸中使用保存的搜索、收藏夹和本地壁纸&lt;br>;* 搜索历史记录&lt;br>;* 支持 wallhaven.cc 提供的所有过滤器&lt;br>;* 搜索结果缓存以减少 api 调用&lt;br>;*调整壁纸网格布局的选项&lt;br>;* 动态主题（Material You）&lt;br>;* 支持多显示器环境（例如，当连接到外部显示器时）&lt;br>; </content><link href="https://f-droid.org/packages/com.ammar.wallflow.plus/" rel="alternate"/><summary>来自 wallhaven.cc 的漂亮壁纸，具有对象检测功能</summary><published>2023-10-04T23:23:23+00:00</published></entry><entry><id> https://f-droid.org/packages/se.arctosoft.vault/</id><title>阀门</title><updated>2023-09-30T09:32:43+00:00</updated><author><name>阿克托软件公司</name></author><content type="html">适用于 Android 设备的加密图库保管库。&lt;br>;&lt;br>;&lt;b>;功能&lt;/b>;&lt;br>;* 支持图像、GIF 和视频&lt;br>;* 使用文件夹进行组织&lt;br>;* 该应用无需任何权限&lt;br >;* 加密文件存储在磁盘上，以便在设备之间轻松备份和传输&lt;br>;* 通过使用不同的密码支持多个保管库&lt;br>;* 日间/夜间模式&lt;br>;&lt;br>;&lt;b>;加密&lt;/ b>;&lt;br>;文件使用 ChaCha20 加密，密钥使用 PBKDF2 和 HMAC-SHA512 派生。</content><link href="https://f-droid.org/packages/se.arctosoft.vault/" rel="alternate"/><summary> 适用于 Android 设备的加密图库库</summary><published>2023-09-30T09:32:43+00:00</published></entry><entry><id> https://f-droid.org/packages/io.github.jd1378.otphelper/</id><title>短信验证码自动复制</title><updated>2023-10-25T18:00:42+00:00</updated><author><name>京东1378</name></author><content type="html">这是一个开源自动密码和 SMS 代码和 Benachrichtigungen kopiert 代码。 &lt;br>;&lt;br>;该应用程序已离线并可在 Internet 上使用。 So kannst du sicher sein dass alle deine Daten auf deinem Gerät bleiben.&lt;br>;&lt;br>;解决问题或解决问题，在 GitHub 上解决：&lt;br>;https://github.com/jd1378/otphelper/issues&lt;br >; </content><link href="https://f-droid.org/packages/io.github.jd1378.otphelper/" rel="alternate"/><summary>一款帮助您自动复制验证码的应用开源</summary><published>2023-09-30T09:23:20+00:00</published></entry><entry><id> https://f-droid.org/packages/de.wivewa.android/</id><title>无线网络</title><updated>2023-09-30T09:20:26+00:00</updated><content type="html">嗯，这是关于 WiVeWa 的 Android 客户端的说明。这是浏览器的主要部分，在 WiVeWa 中，不可用：&lt;br>;&lt;br>;- 应用程序已被私有化 Schlüssel zur Authentifizierung，在硬件生成器和 gespeichert wird&lt;br>;- 应用程序已从地址簿中获取并保存es als “Wontakte” zur Verfügung&lt;br>;- 该应用程序可查看 Anrufterinformationen anzeigen（名称和门票），wenn das Welefon oder eine andere kompatible Telefon-App verwendet wird&lt;br>;- 该应用程序可查看详细信息 von eingehenden und ausgehenden Anrufen and das WiVeWa-Telefonsystem übermitteln (Korrespondenzliste)&lt;br>;</content><link href="https://f-droid.org/packages/de.wivewa.android/" rel="alternate"/><summary> WiVeWa 系统的客户端</summary><published>2023-09-30T09:20:26+00:00</published></entry><entry><id> https://f-droid.org/packages/app.pachli/</id><title>帕赫利</title><updated>2023-10-27T21:47:56+00:00</updated><author><name>帕赫利</name></author><content type="html">Pachli 是 Mastodon 和类似服务器的全功能客户端。&lt;br>;&lt;br>;• 阅读、回复、过滤、发帖、收藏和推送帖子&lt;br>;• 您的时间线在本地缓存，因此您可以在离线时阅读&lt; br>;• 现在起草帖子，稍后完成&lt;br>;• 现在撰写帖子，安排稍后发送&lt;br>;• 从多个帐户阅读和发帖&lt;br>;• 多个主题&lt;br>;• 专注于确保所有功能均可用可供有无障碍需求的人使用&lt;br>;• 开源，https://github.com/pachli&lt;br>;</content><link href="https://f-droid.org/packages/app.pachli/" rel="alternate"/><summary>适用于 Mastodon 和类似服务器的全功能 Android 客户端。</summary><published> 2023-09-30T09:04:07+00:00</published></entry></feed>
+<feed xml:lang="zh-CN" xmlns="http://www.w3.org/2005/Atom">
+<id>https://newapps.f-droid.othing.xyz/new_apps.zh-CN.xml</id>
+<title>New apps on F-Droid (zh-CN)</title>
+<updated>2023-10-31T08:38:21.482160+00:00</updated>
+<author>
+<name>yzqzss</name>
+<email>yzqzss@yandex.com</email>
+</author>
+<link href="https://newapps.f-droid.othing.xyz/new_apps.zh-CN.xml" rel="self"/>
+<link href="https://f-droid.org/packages/" rel="alternate"/>
+<generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
+<subtitle>New apps on F-Droid (zh-CN)</subtitle>
+<entry>
+<id>https://f-droid.org/packages/org.joinmastodon.android.moshinda/</id>
+<title>Moshidon</title>
+<updated>2023-10-30T11:51:16+00:00</updated>
+<author>
+<name>LucasGGamerM</name>
+</author>
+<content type="html">Moshidon 是&lt;a href="https://github.com/mastodon/mastodon-android">;官方 Mastodon Android 应用&lt;/a>;的修改版本，添加了官方应用中缺少的重要功能，例如联合时间轴、不公开发帖和图像描述查看器。&lt;br>;&lt;br>;&lt;b>;主要特点&lt;/b>;&lt;br>;&lt;br>;- &lt;b>;许多颜色&lt;/b>;：为您提供 material you 主题和许多丰富多彩的主题选项！&lt;br>;- &lt;b>;过滤贴文&lt;/b>;：可为带过滤内容标记的贴文显示敏感内容警告！&lt;br>;- &lt;b>;翻译按钮&lt;/b>;：带来翻译按钮！&lt;br>;- &lt;b>;嘟文语言选择器&lt;/b>;：引入了嘟文语言选择器！&lt;br>;- &lt;b>;不公开发帖&lt;/b>;：公开发布而不让您的嘟文出现在趋势、主题标签或公共时间轴中。&lt;br>;- &lt;b>;跨站时间轴&lt;/b>;：查看您的主实例连接到的所有其他联邦宇宙社区的人们的所有公开帖文。&lt;br>;- &lt;b>;图片描述查看器&lt;/b>;：快速检查图片或视频是否附加了替代文字。&lt;br>;- &lt;b>;置顶帖文&lt;/b>;：将您最重要的帖文置顶到您的个人资料，并使用“已置顶”选项卡查看其他人置顶的内容。&lt;br>;- &lt;b>;关注主题标签&lt;/b>;：通过关注直接在您的主页时间线中查看来自特定主题标签的新帖文。&lt;br>;- &lt;b>;回应关注请求&lt;/b>;：接受或拒绝来自您的通知或专用关注请求列表的关注请求。&lt;br>;- &lt;b>;删除和重新起草&lt;/b>;：这个备受喜爱的功能使编辑成为可能，而无需实际的编辑功能。&lt;br>;- &lt;b>;更多&lt;/b>;：带来许多额外的 UI 功能，例如通知上的交互图标，并消除了原始 UI 的许多烦恼！&lt;br>;</content>
+<link href="https://f-droid.org/packages/org.joinmastodon.android.moshinda/" rel="alternate"/>
+<summary>面向 Mastodon 的 Android 客户端，适配 Material You 并且提供更多功能</summary>
+<published>2023-10-30T11:51:16+00:00</published>
+</entry>
+<entry>
+<id>https://f-droid.org/packages/eu.toldi.infinityforlemmy/</id>
+<title>Eternity</title>
+<updated>2023-10-30T11:44:19+00:00</updated>
+<content type="html">&lt;h1>;Eternity&lt;/h1>;&lt;br>;&lt;p>;A client for Lemmy, specifically designed for Android and written in Java. This project is a fork of the Infinity for&lt;br>;    Reddit project, and it is currently in the early stages of development. As such, expect many unfinished features and&lt;br>;    potential bugs!&lt;/p>;&lt;br>;&lt;br>;&lt;h2>;Features&lt;/h2>;&lt;br>;&lt;p>;Eternity is currently in the early stages of development. Expect many&lt;br>;    unfinished features and bugs!&lt;/p>;&lt;br>;&lt;h3>;Browsing Lemmy&lt;/h3>;&lt;br>;&lt;ul>;&lt;br>;    &lt;li>;Explore various feeds (Subscribed/Local/All) and communities&lt;/li>;&lt;br>;    &lt;li>;Subscribe or unsubscribe from specific communities, with the option&lt;br>;        to block&lt;/li>;&lt;br>;    &lt;li>;Discover communities federated with the current instance&lt;/li>;&lt;br>;    &lt;li>;Favorite a community for quick access&lt;/li>;&lt;br>;    &lt;li>;Manage your subscriptions and blocked communities&lt;/li>;&lt;br>;&lt;/ul>;&lt;br>;&lt;h3>;Content Engagement&lt;/h3>;&lt;br>;&lt;ul>;&lt;br>;    &lt;li>;Engage with content by voting, saving, sharing, and creating posts&lt;br>;        or comments&lt;/li>;&lt;br>;    &lt;li>;Enjoy endless scrolling through feeds and posts&lt;/li>;&lt;br>;    &lt;li>;Tailor the view settings for posts (card,compact, gallery)&lt;/li>;&lt;br>;    &lt;li>;Set default preferences for post and comment sorting&lt;/li>;&lt;br>;    &lt;li>;Stay updated with notifications for replies&lt;/li>;&lt;br>;&lt;/ul>;&lt;br>;&lt;h3>;Account Management&lt;/h3>;&lt;br>;&lt;ul>;&lt;br>;    &lt;li>;Sign in to multiple accounts or instances, and effortlessly switch&lt;br>;        between them&lt;/li>;&lt;br>;    &lt;li>;Use the inbox features to view replies, mentions, and private&lt;br>;        messages&lt;/li>;&lt;br>;    &lt;li>;Access your profile to view your posts, comments, and saved&lt;br>;        content&lt;/li>;&lt;br>;&lt;/ul>;&lt;br>;&lt;h3>;Customization&lt;/h3>;&lt;br>;&lt;ul>;&lt;br>;    &lt;li>;Choose between various theme options including Light, Dark,&lt;br>;        OLED&lt;/li>;&lt;br>;    &lt;li>;Support Material You theming&lt;/li>;&lt;br>;    &lt;li>;Explore user-created themes&lt;/li>;&lt;br>;    &lt;li>;Customize font settings&lt;/li>;&lt;br>;    &lt;li>;Optional bottom navigation bar&lt;/li>;&lt;br>;    &lt;li>;Discover a plethora of other customization features&lt;/li>;&lt;br>;&lt;/ul>;</content>
+<link href="https://f-droid.org/packages/eu.toldi.infinityforlemmy/" rel="alternate"/>
+<summary>An Lemmy client for Android, forked from the Infinity for Reddit project.</summary>
+<published>2023-10-30T11:44:19+00:00</published>
+</entry>
+<entry>
+<id>https://f-droid.org/packages/com.dot.gallery/</id>
+<title>Gallery</title>
+<updated>2023-10-30T11:32:59+00:00</updated>
+<author>
+<name>IacobIonut</name>
+</author>
+<content type="html">&lt;p>;&lt;strong>;Gallery&amp;nbsp;&lt;/strong>;for Android is a light-weight Media Gallery app for Android made with Jetpack Compose. It supports albums, favorites and more. It also features an integrated video player.&lt;/p>;&lt;br>;&lt;br>;&lt;p>;&amp;nbsp;&lt;/p>;&lt;br>;&lt;br>;&lt;p>;&lt;strong>;Features&lt;/strong>;&lt;/p>;&lt;br>;&lt;br>;&lt;ul>;&lt;br>;	&lt;li>;Media Timeline screen where you can see all the photos videos&lt;br>;	&lt;ul>;&lt;br>;		&lt;li>;The Timeline screen is visible from the Main screen and inside each album&lt;/li>;&lt;br>;		&lt;li>;Media is separated in groups by date&lt;/li>;&lt;br>;	&lt;/ul>;&lt;br>;	&lt;/li>;&lt;br>;	&lt;li>;Multi-Select photos and videos to perform batch operations like&lt;br>;	&lt;ul>;&lt;br>;		&lt;li>;Mark as favorite&lt;/li>;&lt;br>;		&lt;li>;Move to trash&lt;/li>;&lt;br>;		&lt;li>;Share&lt;/li>;&lt;br>;	&lt;/ul>;&lt;br>;	&lt;/li>;&lt;br>;	&lt;li>;Sort and Pin Albums&lt;br>;	&lt;ul>;&lt;br>;		&lt;li>;Sort&amp;nbsp; by Date, Label&lt;/li>;&lt;br>;		&lt;li>;Pin on top most loved albums&lt;/li>;&lt;br>;	&lt;/ul>;&lt;br>;	&lt;/li>;&lt;br>;	&lt;li>;Quickly Access all the Favorites&amp;nbsp;&lt;/li>;&lt;br>;	&lt;li>;Manage the Trashed Items from a single screen&lt;/li>;&lt;br>;	&lt;li>;Custom Video Player powered by &lt;em>;Media3 ExoPlayer&lt;/em>;&lt;/li>;&lt;br>;	&lt;li>;Modern &lt;strong>;Material 3&lt;/strong>; Design Guidelines powered by &lt;strong>;Jetpack Compose&lt;/strong>;&lt;/li>;&lt;br>;	&lt;li>;&lt;strong>;&lt;u>;Open Source&lt;/u>;&lt;/strong>;&lt;/li>;&lt;br>;	&lt;li>;Active Development&lt;/li>;&lt;br>;&lt;/ul>;&lt;br>;</content>
+<link href="https://f-droid.org/packages/com.dot.gallery/" rel="alternate"/>
+<summary>Light-weight Media Gallery</summary>
+<published>2023-10-30T11:32:59+00:00</published>
+</entry>
+<entry>
+<id>https://f-droid.org/packages/cz.slaby.dpc/</id>
+<title>DPC</title>
+<updated>2023-10-27T21:59:11+00:00</updated>
+<author>
+<name>Jakub Slabý</name>
+</author>
+<content type="html">Otevřená aplikace pro záznam rodinného rodokmenu, kroniky a jejich synchronizaci pomocí Git s podporou autentikace přes Github.</content>
+<link href="https://f-droid.org/packages/cz.slaby.dpc/" rel="alternate"/>
+<summary>Digital pedigree and chronicle</summary>
+<published>2023-10-27T21:59:11+00:00</published>
+</entry>
+<entry>
+<id>https://f-droid.org/packages/com.adilhanney.ricochlime/</id>
+<title>Ricochlime</title>
+<updated>2023-10-27T21:49:24+00:00</updated>
+<author>
+<name>Adil Hanney</name>
+</author>
+<content type="html">Ricochlime is a game where you attack the advancing slimes with your ricocheting projectiles. The game is made with the Flame game engine and Flutter.&lt;br>;</content>
+<link href="https://f-droid.org/packages/com.adilhanney.ricochlime/" rel="alternate"/>
+<summary>Satisfying slime shooter</summary>
+<published>2023-10-27T21:49:17+00:00</published>
+</entry>
+<entry>
+<id>https://f-droid.org/packages/be.bhasher.mobileinpact/</id>
+<title>MobileInpact</title>
+<updated>2023-10-27T21:48:13+00:00</updated>
+<author>
+<name>Bhasher</name>
+</author>
+<content type="html">MobileInpact is an unofficial client for NextInpact. It downloads articles from RSS feed, organize them and allows to consult them afterwards, even offline. </content>
+<link href="https://f-droid.org/packages/be.bhasher.mobileinpact/" rel="alternate"/>
+<summary>MobileInpact is an unofficial client for NextInpact.</summary>
+<published>2023-10-27T21:48:13+00:00</published>
+</entry>
+<entry>
+<id>https://f-droid.org/packages/xyz.crucitti.friendalert/</id>
+<title>Friend Alert</title>
+<updated>2023-10-25T18:09:07+00:00</updated>
+<author>
+<name>Davidoskky</name>
+</author>
+<content type="html">&lt;h1>;FriendAlert: Keep Your Friendships Thriving, No Matter How Far Apart&lt;/h1>;&lt;br>;&lt;p>;Life&amp;#39;s adventures lead us to friendships that cross cities, countries, and even continents. While&lt;br>;these connections add immeasurable value to our lives, keeping them vibrant across distances can be&lt;br>;a challenge. Born from this universal struggle, FriendAlert is your go-to solution for keeping those&lt;br>;important friendships alive and well.&lt;/p>;&lt;br>;&lt;p>;🌍 &lt;strong>;Your Central Hub for Global Friendships&lt;/strong>;&lt;br>;Whether your friendships were formed on the playground or during an international journey,&lt;br>;FriendAlert functions as your unified platform for sustaining these invaluable bonds. With&lt;br>;FriendAlert, neither miles nor time zones can weaken your connections.&lt;/p>;&lt;br>;&lt;p>;🗣️ &lt;strong>;Foster Authentic Connections: More than Just Check-ins&lt;/strong>;&lt;br>;Social media may offer cursory updates about people&amp;#39;s lives, but it&amp;#39;s no substitute for genuine&lt;br>;conversation. FriendAlert encourages you to engage in meaningful dialogues that go beyond the&lt;br>;superficial.&lt;/p>;&lt;br>;&lt;h1 id="a-personal-perspective">;A Personal Perspective&lt;/h1>;&lt;br>;&lt;p>;I created FriendAlert with the aim of maintaining contact with the people who matter most to me.&lt;br>;While the app&amp;#39;s utility can vary, here are some personal guidelines I follow:&lt;/p>;&lt;br>;&lt;ul>;&lt;br>;&lt;li>;Use FriendAlert to track those you find you&amp;#39;re losing touch with, not the friends you see&lt;br>;regularly.&lt;/li>;&lt;br>;&lt;li>;Although in-person meetings are irreplaceable, phone or video calls serve as excellent&lt;br>;alternatives when that&amp;#39;s not feasible.&lt;/li>;&lt;br>;&lt;li>;Texting, though convenient, falls short in conveying emotional nuance and should not be your&lt;br>;primary mode of communication.&lt;/li>;&lt;br>;&lt;li>;Engaging via social media—such as liking photos or commenting—simply doesn’t cut it when it comes&lt;br>;to nurturing real friendships.&lt;/li>;&lt;br>;&lt;/ul>;&lt;br>;&lt;h1 id="elevate-your-social-ecosystem">;Elevate Your Social Ecosystem&lt;/h1>;&lt;br>;&lt;p>;FriendAlert emerged from a personal need for an accessible, budget-friendly way to sustain my social&lt;br>;circle. While platforms like nouri.ai have their merits, FriendAlert offers a free and user-friendly&lt;br>;alternative.&lt;/p>;&lt;br>;&lt;p>;Sharing good moments is nice. Let&amp;#39;s enrich not just our conversations, but our lives and communities&lt;br>;through stronger, more meaningful connections.&lt;/p>;</content>
+<link href="https://f-droid.org/packages/xyz.crucitti.friendalert/" rel="alternate"/>
+<summary>Nurture distant friendships with timely reminders</summary>
+<published>2023-10-25T18:09:07+00:00</published>
+</entry>
+<entry>
+<id>https://f-droid.org/packages/ru.aleshin.timeplanner/</id>
+<title>TimePlanner</title>
+<updated>2023-10-25T18:08:21+00:00</updated>
+<author>
+<name>Stanislav Aleshin</name>
+</author>
+<content type="html">Time planner is an application for convenient planning and tracking of your schedule.&lt;br>;The application contains templates that allow you to quickly make a schedule, you can also enable auto-repeat of the template and no longer worry about manually adding it.&lt;br>;Each task in the schedule has its own category and subcategory for structuring your actions.&lt;br>;According to the mimio of this, there is analytics in the application that will help you make your plans for the day more effectively&lt;br>;&lt;br>;Available languages 🌍&lt;br>;- Russian 🇷🇺&lt;br>;- English 🇬🇧&lt;br>;- German 🇩🇪&lt;br>;- Spanish 🇪🇸&lt;br>;- French 🇫🇷&lt;br>;- Persian 🇮🇷 (beta)&lt;br>;&lt;br>;Support 📱&lt;br>;- Local time and task analytics 📊&lt;br>;- Templates for everyday tasks 🏃‍♂️&lt;br>;- Recurring tasks by templates 🔁&lt;br>;- Data Backup &amp; Recovery 💾&lt;br>;- Scheduled Notifications ⏰&lt;br>;- Priorities and protection from overlaying tasks 📐&lt;br>;- Theme: Dark | Light 🖤🤍&lt;br>;- Dynamic Color or 4 different color variations 🎨</content>
+<link href="https://f-droid.org/packages/ru.aleshin.timeplanner/" rel="alternate"/>
+<summary>Convenient and fast task planning for the day</summary>
+<published>2023-10-25T18:08:21+00:00</published>
+</entry>
+<entry>
+<id>https://f-droid.org/packages/io.github.wh201906.serialpipe/</id>
+<title>SerialPipe</title>
+<updated>2023-10-25T18:00:52+00:00</updated>
+<author>
+<name>wh201906</name>
+</author>
+<content type="html">一款USB串口转UDP应用&lt;br>;&lt;br>;此应用用于将USB串口设备转接至UDP连接上以便于远程调试，相当于以下Linux命令：&lt;br>;```&lt;br>;socat -dd /dev/ttyACM0,raw,echo=0,b&lt;baudrate>; udp4-listen:&lt;port>;,reuseaddr,fork&lt;br>;```&lt;br>;</content>
+<link href="https://f-droid.org/packages/io.github.wh201906.serialpipe/" rel="alternate"/>
+<summary>一款USB串口转UDP应用</summary>
+<published>2023-10-25T18:00:52+00:00</published>
+</entry>
+<entry>
+<id>https://f-droid.org/packages/com.mrsep.musicrecognizer/</id>
+<title>Audile</title>
+<updated>2023-10-30T11:36:57+00:00</updated>
+<author>
+<name>Aleksey Saenko</name>
+</author>
+<content type="html">&lt;b>;Audile&lt;/b>; is a music recognition application, that can help you quickly and accurately recognize a music track playing nearby you.&lt;br>;This application uses the AudD® service as a Music Recognition API.&lt;br>;&lt;br>;&lt;b>;Features:&lt;/b>;&lt;br>;&lt;br>;&lt;b>;Recognition&lt;/b>; - Audile allows you to perform song recognition in one click. The app will save the recording if there is no internet, and the recognition process will be executed when you come back online. You can customize the default behavior for unsuccessful recognition (no internet, no matches, another failure) via the preferences.&lt;br>;&lt;b>;Notification service&lt;/b>; - You can use the app from the notification drawer. Manage the recognition process and receive information about the track.&lt;br>;&lt;b>;About track&lt;/b>; - In case of successful recognition, information about the track, such as the name, artist, album and year, artwork, links to this track on popular music services, lyrics is provided.&lt;br>;&lt;b>;Library&lt;/b>; - All recognized tracks are stored in the application's library. You can filter the track list, create a favorites collection, search for tracks, or delete tracks.&lt;br>;&lt;b>;Preferences&lt;/b>; - The app has a number of options for customizing its behavior and appearance, which can be found on the settings screen.&lt;br>;</content>
+<link href="https://f-droid.org/packages/com.mrsep.musicrecognizer/" rel="alternate"/>
+<summary>Music recognition app</summary>
+<published>2023-10-25T17:52:55+00:00</published>
+</entry>
+<entry>
+<id>https://f-droid.org/packages/com.gmail.blandilyte.silverdict/</id>
+<title>SilverDict</title>
+<updated>2023-10-25T17:50:39+00:00</updated>
+<author>
+<name>Yi Xing</name>
+</author>
+<content type="html">这是 SilverDict 词典服务器的 Android 客户端，是基于 Web 技术的 GoldenDict 替代品。 该移动客户端具有词典应用程序的所有预期功能，包括查找、历史记录、输入建议、词典管理等。&lt;br>;&lt;br>;您可以在其 GitHub 仓库中阅读有关该服务器的更多信息：https://github.com/Crissium/SilverDict&lt;br>;</content>
+<link href="https://f-droid.org/packages/com.gmail.blandilyte.silverdict/" rel="alternate"/>
+<summary>SilverDict 词典服务器 Android 客户端</summary>
+<published>2023-10-25T17:50:29+00:00</published>
+</entry>
+<entry>
+<id>https://f-droid.org/packages/com.github.librerandonaut.librerandonaut/</id>
+<title>LibreRandonaut</title>
+<updated>2023-10-25T17:49:38+00:00</updated>
+<author>
+<name>LibreRandonaut</name>
+</author>
+<content type="html">LibreRandonaut is an open-source Android app for generating true random coordinates that allow users to explore their surroundings and perform the activity "randonauting". &lt;br>;&lt;br>;It interfaces with the QRNG at the Australian National University, where it obtains a list of quantum random numbers, converts them to coordinates, and then computes the Gaussian kernel density estimate of those coordinates to find a point with a statistically anomalous density.&lt;br>;</content>
+<link href="https://f-droid.org/packages/com.github.librerandonaut.librerandonaut/" rel="alternate"/>
+<summary>Randonauting - explore your surroundings with quantum randomness</summary>
+<published>2023-10-25T17:49:38+00:00</published>
+</entry>
+<entry>
+<id>https://f-droid.org/packages/com.github.emavgl.piggybankpro/</id>
+<title>Oinkoin</title>
+<updated>2023-10-25T17:49:24+00:00</updated>
+<author>
+<name>emavgl</name>
+</author>
+<content type="html">Oinkoin Money Manager makes managing personal finances easy and secure. It is light and easy to use. You need just few taps to keep track of your expenses. Simplicity and Security are our two main drivers: Oinkoin is an offline and ad-free app.&lt;br>;&lt;br>;* Privacy caring&lt;br>;We believe you should be the only person in control of your data. Oinkoin cares about your privacy, therefore it works completely offline and without any ads! No special permissions are required.&lt;br>;&lt;br>;* Save your battery&lt;br>;The app only consumes battery when you use it, no power consuming operations are performed in background.&lt;br>;&lt;br>;* Statistics&lt;br>;Understandable and clean statistics and charts!</content>
+<link href="https://f-droid.org/packages/com.github.emavgl.piggybankpro/" rel="alternate"/>
+<summary>Oinkoin Money Manager makes managing personal finances easy and secure.</summary>
+<published>2023-10-25T17:49:24+00:00</published>
+</entry>
+<entry>
+<id>https://f-droid.org/packages/com.elishaazaria.sayboard/</id>
+<title>Sayboard</title>
+<updated>2023-10-27T21:51:19+00:00</updated>
+<content type="html">&lt;p>;This project provides a voice keyboard using &lt;a href="https://alphacephei.com/vosk/android">;Vosk&lt;/a>;. It is based on &lt;a href="https://github.com/Felicis/vosk-android-demo">;https://github.com/Felicis/vosk-android-demo&lt;/a>;.&lt;/p>;&lt;br>;&lt;p>;This app requires a Vosk model to run. You can use the built-in downloader or download manually from &lt;a href="https://alphacephei.com/vosk/models">;https://alphacephei.com/vosk/models&lt;/a>;, and then import into the app.&lt;/p>;&lt;br>;&lt;br/>;&lt;br>;&lt;p>;Sayboard uses for the following permissions:&lt;/p>;&lt;br>;&lt;ul>;&lt;br>;  &lt;li>;INTERNET - to download the models. This permission is not required, and can be revoked through the device settings in compatible ROMs. &lt;strong>;Sayboard does not, and never will, send any of your information over the internet!&lt;/strong>;.&lt;/li>;&lt;br>;  &lt;li>;RECORD_AUDIO - well, this is a voice keyboard after all.&lt;/li>;&lt;br>;  &lt;li>;POST_NOTIFICATIONS - to show download and import progress.&lt;/li>;&lt;br>;  &lt;li>;FOREGROUND_SERVICE - to download and import models in the background.&lt;/li>;&lt;br>;&lt;/ul>;&lt;br>;&lt;br/>;&lt;br>;&lt;p>;Due to file size limits, only 64bit ARM architecture is included here. APKs for other devices can be downloaded from the project's &lt;a href="https://github.com/ElishaAz/Sayboard/releases">;Github page&lt;/a>;.</content>
+<link href="https://f-droid.org/packages/com.elishaazaria.sayboard/" rel="alternate"/>
+<summary>An open-source on-device voice IME (keyboard) for Android using the Vosk library</summary>
+<published>2023-10-25T17:48:29+00:00</published>
+</entry>
+<entry>
+<id>https://f-droid.org/packages/com.elasticrock.candle/</id>
+<title>Candle</title>
+<updated>2023-10-25T17:48:24+00:00</updated>
+<author>
+<name>Elastic Rock</name>
+</author>
+<content type="html">A very simple app that allows you to use your display as a torch. The brightness can be adjusted and the app can be started from a quick settings tile.&lt;br>;</content>
+<link href="https://f-droid.org/packages/com.elasticrock.candle/" rel="alternate"/>
+<summary>A display torch</summary>
+<published>2023-10-25T17:48:24+00:00</published>
+</entry>
+<entry>
+<id>https://f-droid.org/packages/be.chvp.nanoledger/</id>
+<title>NanoLedger</title>
+<updated>2023-10-25T17:45:22+00:00</updated>
+<author>
+<name>Charlotte Van Petegem</name>
+</author>
+<content type="html">NanoLedger is a data entry app for plain text accounting. It supports the ledger and hledger syntax.&lt;br>;&lt;br>;You can view all transactions in a file, and easily add a new one. While adding, auto-completion is supported for payee, note and account names.&lt;br>;</content>
+<link href="https://f-droid.org/packages/be.chvp.nanoledger/" rel="alternate"/>
+<summary>Data entry app for plain text accounting</summary>
+<published>2023-10-25T17:45:22+00:00</published>
+</entry>
+<entry>
+<id>https://f-droid.org/packages/app.prav.client/</id>
+<title>Prav</title>
+<updated>2023-10-25T17:45:07+00:00</updated>
+<author>
+<name>Prav Team</name>
+</author>
+<content type="html">Whether you want to text your friends and family, or to make calls, prav app makes it easy for you. It provides convenient onboarding and user-friendly interface.&lt;br>;&lt;br>;We believe privacy is a fundamental right and should be easily exercised by anyone.&lt;br>;&lt;br>;With prav, your chats are private and only you can read them https://prav.app/privacy-policy/. It is based on XMPP protocol, so users can talk to any other XMPP users all over the world, without being locked-in to a service. &lt;br>;&lt;br>;Prav's source code is available publicly under a free license, providing transparency and audatibility. We are backed by a cooperative society in India, leading to democratic decision making.&lt;br>;&lt;br>;Learn more at https://prav.app.&lt;br>;</content>
+<link href="https://f-droid.org/packages/app.prav.client/" rel="alternate"/>
+<summary>A user-friendly messenger for everyone with a focus on privacy and freedom!</summary>
+<published>2023-10-25T17:44:49+00:00</published>
+</entry>
+<entry>
+<id>https://f-droid.org/packages/org.woheller69.hugassist/</id>
+<title>huggingAssist</title>
+<updated>2023-10-22T07:51:25+00:00</updated>
+<author>
+<name>woheller69</name>
+</author>
+<content type="html">huggingAssist ist ein WebView-Wrapper für HuggingChat. Die App blockiert alle URLs, die für die Funktion nicht essentiell sind.</content>
+<link href="https://f-droid.org/packages/org.woheller69.hugassist/" rel="alternate"/>
+<summary>WebView wrapper for HuggingChat</summary>
+<published>2023-10-22T07:51:25+00:00</published>
+</entry>
+<entry>
+<id>https://f-droid.org/packages/org.gsmlg.semaphore/</id>
+<title>Ansible Sempahore Client</title>
+<updated>2023-10-20T16:15:08+00:00</updated>
+<author>
+<name>Jonathan Gao</name>
+</author>
+<content type="html">Run Ansible Playbook from  your phone by using ansible semaphore server.&lt;br>;&lt;br>;Install ansible semaphore server by this link, https://github.com/ansible-semaphore/semaphore.&lt;br>;</content>
+<link href="https://f-droid.org/packages/org.gsmlg.semaphore/" rel="alternate"/>
+<summary>Client App for Ansible Sempahore</summary>
+<published>2023-10-20T16:14:59+00:00</published>
+</entry>
+<entry>
+<id>https://f-droid.org/packages/io.github.petlyh.jsdict/</id>
+<title>JS-Dict</title>
+<updated>2023-10-30T11:45:44+00:00</updated>
+<content type="html">JS-Dict is a convenient app for accessing the powerful Japanese-English dictionary Jisho.org.&lt;br>;&lt;br>;This app is Free and Open-Source Software. The source code is available at https://github.com/petlyh/JS-Dict.</content>
+<link href="https://f-droid.org/packages/io.github.petlyh.jsdict/" rel="alternate"/>
+<summary>Japanese-English dictionary app powered by Jisho.org.</summary>
+<published>2023-10-20T16:10:15+00:00</published>
+</entry>
+<entry>
+<id>https://f-droid.org/packages/com.wqar.quran_mem_helper/</id>
+<title>Quran 16 Line - Quran Revision Helper</title>
+<updated>2023-10-20T16:05:15+00:00</updated>
+<author>
+<name>Waqar Ahmed</name>
+</author>
+<content type="html">Quran 16 Line is an app for people that are memorizing or have already memorized the holy quran. The pages are in 16 Line format which is the most popular format in the Indopak region.&lt;br>;&lt;br>;You can use this app to:&lt;br>;- Read quran&lt;br>;- Mark ayahs that you want to revise more often or that have mistakes&lt;br>;- Take quiz&lt;br>;- See list of mutashabihas for each para/juz&lt;br>;</content>
+<link href="https://f-droid.org/packages/com.wqar.quran_mem_helper/" rel="alternate"/>
+<summary>Quran in 16 line page format with mutashabihas and mistake marking</summary>
+<published>2023-10-20T16:05:13+00:00</published>
+</entry>
+<entry>
+<id>https://f-droid.org/packages/com.slavabarkov.tidy/</id>
+<title>TIDY Text-to-Image Discovery</title>
+<updated>2023-10-20T16:04:04+00:00</updated>
+<author>
+<name>Viacheslav Barkov</name>
+</author>
+<content type="html">Offline Text-to-Image and Image-to-Image search on Android.&lt;br>;Search for images in your Gallery by text description and other visually similar images. TIDY works entirely offline, ensuring your privacy and security.&lt;br>;&lt;br>;Features:&lt;br>;&lt;br>;* Text-to-Image Search - Simply type in a description of the image you are looking for, and TIDY will retrieve the most relevant matches from your local image library. Text-to-Image search functionality in TIDY goes beyond traditional keyword-based searches! You can use longer and more detailed descriptions to find the exact image you have in mind.&lt;br>;* Image-to-Image Search - Search for visually similar images by choosing a photo from your device's gallery. TIDY will analyze the image and retrieve images with similar visual features, allowing you to explore and discover new images in a whole new way.&lt;br>;&lt;br>;First launch:&lt;br>;During the first launch TIDY will need to scan through your photo library and create an index of your images. This indexing process may take some time, but it's a one-time event. Once this initial indexing process is complete, the app will store the index on your device, and any new photos you add to your photo library will be automatically added to the index on the subsequent app launches.&lt;br>;</content>
+<link href="https://f-droid.org/packages/com.slavabarkov.tidy/" rel="alternate"/>
+<summary>Offline semantic Text-to-Image and Image-to-Image search on Android</summary>
+<published>2023-10-20T16:04:04+00:00</published>
+</entry>
+<entry>
+<id>https://f-droid.org/packages/de.rainerhock.eightbitwonders/</id>
+<title>8-Bit Wonders</title>
+<updated>2023-10-16T20:55:21+00:00</updated>
+<author>
+<name>Rainer Hock</name>
+</author>
+<content type="html">Mit 8-Bit-Wonders kannst du mit den Computern deiner Jugend (oder der deiner Eltern oder der deiner Großeltern) arbeiten und spielen und dabei alle Vorteile der modernen Technik behalten:&lt;br>;&lt;ul>;&lt;br>;    &lt;li>;Externe Tastaturen, Gamepads und Joystick können über USB oder Bluetooth verwendet werden.&lt;/li>;&lt;br>;    &lt;li>;Es gibt eine vollständige virtuelle Tastatur, einen Joystick und ein Lenkrad für den Touchscreen.&lt;/li>;&lt;br>;    &lt;li>;Alle Disketten- und Kassettenformate von VICE werden unterstützt.&lt;/li>;&lt;br>;    &lt;li>;Dateien können im Gerätespeichern und in der Cloud abgelegt sein.&lt;/li>;&lt;br>;    &lt;li>;Spielstände können gespeichert, auf dem Startbildschirm der App abgelegt und geteilt werden.&lt;/li>;&lt;br>;&lt;/ul>;&lt;br>;&lt;br>;Zur Zeit werden der C64, der beliebteste Computer der 80er und sein Vorgänger, der VC20, unterstützt.</content>
+<link href="https://f-droid.org/packages/de.rainerhock.eightbitwonders/" rel="alternate"/>
+<summary>8-Bit Wonders is a C64 and VIC20 emulator for your Android device.</summary>
+<published>2023-10-16T20:55:21+00:00</published>
+</entry>
+<entry>
+<id>https://f-droid.org/packages/com.toasterofbread.spmp/</id>
+<title>SpMp</title>
+<updated>2023-10-16T20:52:48+00:00</updated>
+<author>
+<name>toasterofbread</name>
+</author>
+<content type="html">&lt;b>;Features:&lt;/b>;&lt;br>;&lt;br>;- Edit song, artist, and playlist titles&lt;br>;- Set separate languages for app UI and metadata like song titles&lt;br>;- In-app YouTube Music login&lt;br>;- Display time-synchronised lyrics from [KuGou](https://www.kugou.com/)&lt;br>;    - Timed lyrics are displayed in a toggleable bar above every app page&lt;br>;    - Furigana (readings) display above Japanese kanji within lyrics&lt;br>;- Select multiple songs for batch actions on any screen&lt;br>;- Pin any song, playlist, album, or artist to the top of the main page&lt;br>;- Customisable Discord rich presence&lt;br>;- Easily insert songs at any position in the queue&lt;br>;</content>
+<link href="https://f-droid.org/packages/com.toasterofbread.spmp/" rel="alternate"/>
+<summary>A YouTube Music client with a focus on language and metadata customisation</summary>
+<published>2023-10-16T20:52:48+00:00</published>
+</entry>
+<entry>
+<id>https://f-droid.org/packages/com.openathena/</id>
+<title>OpenAthena™ for Android</title>
+<updated>2023-10-20T16:02:23+00:00</updated>
+<author>
+<name>Matthew Krupczak</name>
+</author>
+<content type="html">Android 版 OpenAthena™ 是免费的开源软件，可让普通无人机定位精确位置&lt;br>;&lt;br>;🖼️👨‍💻 + 🧮⛰️ = 🎯📍&lt;br>;&lt;br>;请访问 &lt;a href='https://OpenAthena.com/'>;https://OpenAthena.com&lt;/a>; 了解更多信息&lt;br>;</content>
+<link href="https://f-droid.org/packages/com.openathena/" rel="alternate"/>
+<summary>OpenAthena™ 让普通无人机能够定位精确位置</summary>
+<published>2023-10-16T20:51:10+00:00</published>
+</entry>
+<entry>
+<id>https://f-droid.org/packages/app.vger.voyager/</id>
+<title>Voyager for Lemmy</title>
+<updated>2023-10-27T21:48:02+00:00</updated>
+<content type="html">Voyager is a free and open source client for Lemmy. Voyager respects your privacy: no trackers and no advertisements.&lt;br>;&lt;br>;App development is driven by the community. Get involved on Github!&lt;br>;&lt;br>;What does Voyager offer?&lt;br>;&lt;br>;- No trackers or advertisements, ever&lt;br>;- Multi-account support&lt;br>;- Gesture-driven UI&lt;br>;- Compact and large post feed mode&lt;br>;- Mark posts as read on scroll&lt;br>;- Hide read posts, or hide individually&lt;br>;- A beautiful private messages UI&lt;br>;- Settings to customize Voyager to your desire&lt;br>;- Quick community switcher&lt;br>;- Open source: code is available on Github</content>
+<link href="https://f-droid.org/packages/app.vger.voyager/" rel="alternate"/>
+<summary>Join the discussion</summary>
+<published>2023-10-16T20:43:47+00:00</published>
+</entry>
+<entry>
+<id>https://f-droid.org/packages/org.samo_lego.canta/</id>
+<title>Canta</title>
+<updated>2023-10-20T16:17:42+00:00</updated>
+<content type="html">Canta allows you to uninstall *any* app&lt;br>;from your device, even if you don't have root access.&lt;br>;&lt;br>;You'll need to install [Shizuku](https://shizuku.rikka.app/download/)&lt;br>;and [activate it](https://shizuku.rikka.app/guide/setup/) before using Canta.&lt;br>;&lt;br>;Uses [universal debloat list](https://github.com/0x192/universal-android-debloater/) for badges.&lt;br>;Please read the guide&lt;br>;on [how recommendations are chosen](https://github.com/0x192/universal-android-debloater/wiki/FAQ#how-are-the-recommendations-chosen)&lt;br>;&lt;br>;Features&lt;br>;* no device bricking - though if you remove an important app,&lt;br>;you will still need to perform a factory reset&lt;br>;* no root required&lt;br>;</content>
+<link href="https://f-droid.org/packages/org.samo_lego.canta/" rel="alternate"/>
+<summary>Uninstall any app without root!</summary>
+<published>2023-10-15T05:07:26+00:00</published>
+</entry>
+<entry>
+<id>https://f-droid.org/packages/org.cosmicide/</id>
+<title>Cosmic IDE</title>
+<updated>2023-10-15T05:04:13+00:00</updated>
+<author>
+<name>Pranav Purwar</name>
+</author>
+<content type="html">No description.</content>
+<link href="https://f-droid.org/packages/org.cosmicide/" rel="alternate"/>
+<summary>A full fledged Java and Kotlin IDE for Android devices.</summary>
+<published>2023-10-15T05:04:13+00:00</published>
+</entry>
+<entry>
+<id>https://f-droid.org/packages/peterfajdiga.fastdraw/</id>
+<title>Fast Draw</title>
+<updated>2023-10-20T16:19:06+00:00</updated>
+<author>
+<name>Peter Fajdiga</name>
+</author>
+<content type="html">A simple Android launcher that prioritizes access to apps at the cost of space for widgets (still supports adding a single widget).&lt;br>;You can add shortcuts.&lt;br>;Your apps and shortcuts can be arranged into categories.&lt;br>;That's about it.&lt;br>;</content>
+<link href="https://f-droid.org/packages/peterfajdiga.fastdraw/" rel="alternate"/>
+<summary>A simple Android launcher with categories</summary>
+<published>2023-10-10T13:03:44+00:00</published>
+</entry>
+<entry>
+<id>https://f-droid.org/packages/com.elfeedcljsrn/</id>
+<title>Elfeed Mobile</title>
+<updated>2023-10-10T12:43:30+00:00</updated>
+<author>
+<name>Toni Reina</name>
+</author>
+<content type="html">Read your feed entries from the device and have them synchronized with your&lt;br>;Emacs. The app connects remotely to Elfeed web API and it gets the feeds content&lt;br>;through it.&lt;br>;&lt;br>;This app requires that you have elfeed running in your computer and elfeed api&lt;br>;accessible remotely. Check the project page for more info: http://github.com/areina/elfeed-cljsrn&lt;br>;&lt;br>;&lt;br>;The app is open source and the source code is available in the project page.&lt;br>;</content>
+<link href="https://f-droid.org/packages/com.elfeedcljsrn/" rel="alternate"/>
+<summary>Mobile client for Elfeed, an extensible web feed reader for Emacs</summary>
+<published>2023-10-10T12:43:30+00:00</published>
+</entry>
+<entry>
+<id>https://f-droid.org/packages/com.crawlmb/</id>
+<title>Dungeon Crawl: Stone Soup for Android</title>
+<updated>2023-10-10T12:42:53+00:00</updated>
+<author>
+<name>Michael Barlow</name>
+</author>
+<content type="html">An unofficial port of the classic roguelike Dungeon Crawl: Stone Soup for Android. This is the ASCII version. &lt;br>;Can you retrieve the Orb of Zot? Probably not!&lt;br>;&lt;br>;------------------------------------------------&lt;br>;&lt;br>;Looking for the tiles version? The official tiles version (not made by me) can be downloaded from here: http://crawl.develz.org/download.htm&lt;br>;</content>
+<link href="https://f-droid.org/packages/com.crawlmb/" rel="alternate"/>
+<summary>An ASCII port of Dungeon Crawl: Stone Soup.</summary>
+<published>2023-10-10T12:42:53+00:00</published>
+</entry>
+<entry>
+<id>https://f-droid.org/packages/quest.faraday.tip_calculator/</id>
+<title>Tip Calculator</title>
+<updated>2023-10-08T18:49:06+00:00</updated>
+<content type="html">Dead simple tip calculator that computes tip based on the subtotal, pre-tax. It's also my first app, so some things are missing that I don't know how to implement just yet.&lt;br>;</content>
+<link href="https://f-droid.org/packages/quest.faraday.tip_calculator/" rel="alternate"/>
+<summary>Simple tip calculator that operates on pre-tax amount</summary>
+<published>2023-10-08T18:49:06+00:00</published>
+</entry>
+<entry>
+<id>https://f-droid.org/packages/org.talkingpanda.osram_remote/</id>
+<title>Osram Remote</title>
+<updated>2023-10-08T18:47:58+00:00</updated>
+<content type="html">An android app for controlling Osram RGB lights using infrared.&lt;br>;Your phone needs to have an IR emitter use this app.&lt;br>;Currently only supports built-in IR emitters.&lt;br>;</content>
+<link href="https://f-droid.org/packages/org.talkingpanda.osram_remote/" rel="alternate"/>
+<summary>An app to turn your phone into a remote for lights</summary>
+<published>2023-10-08T18:47:58+00:00</published>
+</entry>
+<entry>
+<id>https://f-droid.org/packages/io.naox.inbe/</id>
+<title>Inner Breeze</title>
+<updated>2023-10-08T18:39:24+00:00</updated>
+<author>
+<name>NaoX</name>
+</author>
+<content type="html">Discover the simplicity of breath with Inner Breeze, a dedicated app to guide and track your Wim Hof Breathing Method journey. Tailored to both novices and experienced practitioners, Inner Breeze offers intuitive features to enhance your breathing exercises. From personalized tempo settings to insightful tracking, elevate your mindfulness and unlock the transformative power of breath. Inner Breeze is more than just an app; it's your daily oasis of calm and invigoration.</content>
+<link href="https://f-droid.org/packages/io.naox.inbe/" rel="alternate"/>
+<summary>Elevate your Wim Hof breathing practice.</summary>
+<published>2023-10-08T18:39:24+00:00</published>
+</entry>
+<entry>
+<id>https://f-droid.org/packages/com.xayah.databackup.foss/</id>
+<title>DataBackup</title>
+<updated>2023-10-08T18:32:28+00:00</updated>
+<author>
+<name>XayahSuSuSu</name>
+</author>
+<content type="html">&lt;i>;DataBackup&lt;/i>; is based on &lt;a href='https://github.com/YAWAsau/backup_script' target='_blank' rel='nofollow'>;speed-backup&lt;/a>;. It was born with the consent of the author.&lt;br>;&lt;br>;&lt;i>;DataBackup&lt;/i>; is intended to back up and restore the data of your apps. It works on arm64-v8a, armeabi-v7a, x86 and x86_64 devices with Android 9 or higher.&lt;br>;&lt;br>;&lt;br>;&lt;b>;Features include:&lt;/b>;&lt;br>;&lt;br>;* &lt;b>;Multi-user Support&lt;/b>;&lt;br>;* &lt;b>;100% Data Integrity&lt;/b>;&lt;br>;* &lt;b>;Fast&lt;b>;&lt;br>;* &lt;b>;Easy&lt;/b>;&lt;br>;* &lt;b>;...&lt;/b>;&lt;br>;</content>
+<link href="https://f-droid.org/packages/com.xayah.databackup.foss/" rel="alternate"/>
+<summary>Back up/Restore your data.</summary>
+<published>2023-10-08T18:32:21+00:00</published>
+</entry>
+<entry>
+<id>https://f-droid.org/packages/com.lucinhu.bili_you/</id>
+<title>BiliYou</title>
+<updated>2023-10-08T18:27:41+00:00</updated>
+<author>
+<name>Lucinhu</name>
+</author>
+<content type="html">&lt;b>;功能&lt;/b>;&lt;br>;&lt;br>;&lt;ul>;&lt;br>;&lt;li>;主页视频推荐&lt;/li>;&lt;br>;&lt;li>;视频搜索&lt;/li>;&lt;br>;&lt;li>;评论区&lt;/li>;&lt;br>;&lt;li>;评论区楼中楼&lt;/li>;&lt;br>;&lt;li>;评论图片及笔记&lt;/li>;&lt;br>;&lt;li>;相关视频&lt;/li>;&lt;br>;&lt;li>;热搜&lt;/li>;&lt;br>;&lt;li>;视频播放&lt;/li>;&lt;br>;&lt;li>;弹幕&lt;/li>;&lt;br>;&lt;li>;用户投稿&lt;/li>;&lt;br>;&lt;li>;番剧搜索&lt;/li>;&lt;br>;&lt;li>;番剧播放&lt;/li>;&lt;br>;&lt;/ul>;&lt;br>;&lt;br>;</content>
+<link href="https://f-droid.org/packages/com.lucinhu.bili_you/" rel="alternate"/>
+<summary>第三方 Bilibili 客户端</summary>
+<published>2023-10-08T18:27:41+00:00</published>
+</entry>
+<entry>
+<id>https://f-droid.org/packages/app.ladefuchs.android/</id>
+<title>Ladefuchs</title>
+<updated>2023-10-15T04:45:53+00:00</updated>
+<content type="html">WAS KOSTET DER STROM FÜR DEIN E-AUTO?&lt;br>;Blitzschnell die günstigste Ladekarte finden.&lt;br>;&lt;br>;Mit einem Fingerwischen zeigt Dir der Ladefuchs die günstigste Ladekarte an der EV-Ladesäule.&lt;br>;&lt;br>;Nicht mehr, nicht weniger.&lt;br>;&lt;br>;Dank chargeprice.app sind die Daten immer aktuell.&lt;br>;&lt;br>;Die App ist kostenlos. Der kleine Ladefuchs freut sich allerdings wie ein junger Dachs über Futterspenden.&lt;br>;&lt;br>;Er fiepst dann immer ein bisschen.&lt;br>;&lt;br>;Wer ist eigentlich schuld?&lt;br>;--------------------------&lt;br>;* Malik &amp; Flowinho von audiodump.de&lt;br>;* Bastian ’Schlingel‘ Wölfle von bitsundso.de&lt;br>;* Dominic Wrege&lt;br>;* Thorsten Roesler&lt;br>;* Illu: Aga und Marcel-André&lt;br>;&lt;br>;Ideen? Bugs?&lt;br>;--------------&lt;br>;Bitte an android@ladefuchs.app&lt;br>;&lt;br>;Falls du Vorschläge für Fußnotentexte hast, lass es uns wissen auf https://ladefuchs.app/fussnote&lt;br>;&lt;br>;Anti-Features/Unerwünschte Merkmale&lt;br>;-----------------------------------&lt;br>;&lt;br>;* Non-Free Network Services / Proprietäre Netzwerkdienste - Die App greift auf einen eigenen API-Server zu, der wiederum Daten von chargeprice.app bezieht.&lt;br>;&lt;br>;Permissions / Berechtigungen&lt;br>;----------------------------&lt;br>;&lt;br>;* INTERNET - Zugriff auf den eigenen API-Server&lt;br>;* ACCESS_NETWORK_STATE - Überprüfen, ob eine Internetverbindung besteht, bevor versucht wird auf, den API-Server zuzugreifen&lt;br>;</content>
+<link href="https://f-droid.org/packages/app.ladefuchs.android/" rel="alternate"/>
+<summary>Shows the cheapest charging card - with only one swipe at the charging point.</summary>
+<published>2023-10-08T18:20:01+00:00</published>
+</entry>
+<entry>
+<id>https://f-droid.org/packages/app.crossword.yourealwaysbe.forkyzscanner/</id>
+<title>Forkyz Scanner</title>
+<updated>2023-10-08T18:19:57+00:00</updated>
+<content type="html">Crossword-scanning companion app to Forkyz crossword app.&lt;br>;&lt;br>;Supports scanning puzzles from the camera, image files, or PDF.&lt;br>;&lt;br>;Scanning is a multi-step process: scan the grid, then the columns of clues. The scan results can be edited to make corrections. The puzzle can then be shared with other apps (e.g. Forkyz) for playing.&lt;br>;&lt;br>;The app is somewhat heavyweight: it includes OpenCV for image processing and Tesseract for text recognition. Language packs for text recognition must be downloaded from settings before this feature can be used.&lt;br>;&lt;br>;</content>
+<link href="https://f-droid.org/packages/app.crossword.yourealwaysbe.forkyzscanner/" rel="alternate"/>
+<summary>Crossword-scanning companion app to Forkyz crossword app.</summary>
+<published>2023-10-08T18:19:57+00:00</published>
+</entry>
+<entry>
+<id>https://f-droid.org/packages/com.ammar.wallflow.plus/</id>
+<title>WallFlow Plus</title>
+<updated>2023-10-08T18:22:23+00:00</updated>
+<author>
+<name>Ammar Githam</name>
+</author>
+<content type="html">Beautiful wallpapers from wallhaven.cc (more sources to be added in the future). Designed with Material Design 3 and supports wide screen devices like tablets.&lt;br>;&lt;br>;Features&lt;br>;&lt;br>;* Smart wallpaper cropping using on-device object detection powered by Tensorflow Lite.&lt;br>;  * Supports adding your own TFLite models. You can find more models on Tensorflow Hub.&lt;br>;* Multi-pane layout for tablets and other wide screen devices&lt;br>;* Auto wallpaper changer&lt;br>;* Save searches&lt;br>;* Mark wallpapers as favorite&lt;br>;* Local Wallpapers&lt;br>;* Use saved searches, favorites, and local wallpapers in auto wallpaper&lt;br>;* Search history&lt;br>;* Supports all filters provided by wallhaven.cc&lt;br>;* Search results caching to reduce api calls&lt;br>;* Options to tweak the wallpaper grid layout&lt;br>;* Dynamic theme (Material You)&lt;br>;* Supports multi-display environments (eg. when connected to external monitors)&lt;br>;</content>
+<link href="https://f-droid.org/packages/com.ammar.wallflow.plus/" rel="alternate"/>
+<summary>Beautiful wallpapers from wallhaven.cc with object detection feature</summary>
+<published>2023-10-04T23:23:23+00:00</published>
+</entry>
+</feed>
