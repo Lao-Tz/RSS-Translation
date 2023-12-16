@@ -1,7 +1,7 @@
 <feed xml:lang="zh-CN" xmlns="http://www.w3.org/2005/Atom">
 <id>https://newapps.f-droid.othing.xyz/new_apps.zh-CN.xml</id>
 <title>New apps on F-Droid (zh-CN)</title>
-<updated>2023-12-15T08:42:45.345583+00:00</updated>
+<updated>2023-12-16T08:43:14.796977+00:00</updated>
 <author>
 <name>yzqzss</name>
 <email>yzqzss@yandex.com</email>
@@ -232,50 +232,5 @@ Android 5 (or +)</summary>
 <link href="https://f-droid.org/packages/business.braid.f_wallet/" rel="alternate"/>
 <summary>A beautiful cross-platform wallet application.</summary>
 <published>2023-11-17T22:04:53+00:00</published>
-</entry>
-<entry>
-<id>https://f-droid.org/packages/org.woheller69.browser/</id>
-<title>FREE Browser</title>
-<updated>2023-12-08T14:27:02+00:00</updated>
-<author>
-<name>woheller69</name>
-</author>
-<content type="html">„FREE Browser“ ist ein Webbrowser für optimale Privatsphäre&lt;br>;&lt;br>;• Vollständig Open Source&lt;br>;• keine Tracker, keine Werbung&lt;br>;• Keine unnötigen Berechtigungen&lt;br>;&lt;br>;Diese App basiert auf dem integrierten Android WebView. Stellen Sie sicher, dass er auf dem neuesten Stand ist.&lt;br>;&lt;br>;-------------------------------------------------&lt;br>;&lt;b>;FUNKTIONEN&lt;/b>;&lt;br>;-------------------------------------------------&lt;br>;&lt;br>;• AdBlocker basierend auf StevenBlack Hosts&lt;br>;• Maßnahmen gegen Browser-Fingerprinting&lt;br>;• Erweiterte Einstellungen für Javascript, Cookies und DOM-Speicher (domain-/lesezeichenbasiert)&lt;br>;• Cookies von Drittanbietern werden grundsätzlich nicht unterstützt.&lt;br>;• Unterstützung für Skripte im Greasemonkey-Stil  (unterstützt: @match, @name, @run-at)&lt;br>;• Optimiert für die Einhandbedienung (Symbolleiste unten)&lt;br>;• TAB-Steuerung (wechseln, öffnen, schließen, unbegrenzte Tabs)&lt;br>;• Schnelles Umschalten für die wichtigsten Einstellungen&lt;br>;• Vergrößern / Verkleinern&lt;br>;• Aktuelle Webseite durchsuchen&lt;br>;• Websuche (aus markiertem Text über Kontextmenü)&lt;br>;• Als PDF speichern&lt;br>;• Links in anderen Apps öffnen (z. B. YouTube)&lt;br>;• Sicherung&lt;br>;• etc&lt;br>;</content>
-<link href="https://f-droid.org/packages/org.woheller69.browser/" rel="alternate"/>
-<summary>A privacy oriented web browser with Greasemonkey style script support</summary>
-<published>2023-11-15T09:12:11+00:00</published>
-</entry>
-<entry>
-<id>https://f-droid.org/packages/org.fcitx.fcitx5.android.plugin.chewing/</id>
-<title>Fcitx5 for Android (Chewing Plugin)</title>
-<updated>2023-11-15T09:08:22+00:00</updated>
-<author>
-<name>Fcitx5 for Android Contributors</name>
-</author>
-<content type="html">No description.</content>
-<link href="https://f-droid.org/packages/org.fcitx.fcitx5.android.plugin.chewing/" rel="alternate"/>
-<summary>No summary.</summary>
-<published>2023-11-15T09:08:19+00:00</published>
-</entry>
-<entry>
-<id>https://f-droid.org/packages/io.github.pastthepixels.freepaint/</id>
-<title>FreePaint</title>
-<updated>2023-11-15T09:04:42+00:00</updated>
-<author>
-<name>PastThePixels</name>
-</author>
-<content type="html">FreePaint is a vector graphics drawing program for Android. Select a tool and turn your ideas into SVGs!&lt;br>;&lt;br>;# FEATURING&lt;br>;- Material Design 3 with dynamic colors&lt;br>;- Custom document sizes, fill/stroke colors, and stroke sizes&lt;br>;- Eraser tool erases shapes from closed paths, or points from open paths&lt;br>;- Saving/loading SVG files&lt;br>;&lt;br>;# Using FreePaint&lt;br>;&lt;br>;## Paint tool&lt;br>;Using this tool, you can either draw open or closed paths. Simply go to the overflow menu >; Settings to access this and more options.&lt;br>;&lt;br>;## Eraser tool&lt;br>;When you select this tool, you can draw a shape to define the area you wish to erase. One of two things can happen depending on which path you want to erase from:&lt;br>;For closed paths, the entire path will become green, and you can draw a shape to erase from the path.&lt;br>;For open paths, individual points will become highlighted, and if those points are included in your eraser path, they will be deleted. Erasing a point inside a path will create 2 new paths.&lt;br>;&lt;br>;## Pan/zoom tool&lt;br>;With one finger, you can pan across the document. If you pinch the screen with two, it'll zoom in and out from the center.&lt;br>;&lt;br>;## Selection tool&lt;br>;You can draw a rectangle for an area you wish to select (marquee select). If any paths overlap that area, they will become "selected" and the rectangle will resize to include the selected paths.&lt;br>;You can drag on that rectangle to move those paths, or draw on an empty space to create a new selection.&lt;br>;</content>
-<link href="https://f-droid.org/packages/io.github.pastthepixels.freepaint/" rel="alternate"/>
-<summary>A vector graphics drawing app for Android.</summary>
-<published>2023-11-15T09:04:42+00:00</published>
-</entry>
-<entry>
-<id>https://f-droid.org/packages/com.orgzlyrevived/</id>
-<title>Orgzly Revived</title>
-<updated>2023-12-01T09:52:02+00:00</updated>
-<content type="html">Orgzly is an outliner for taking notes and managing to-do lists.&lt;br>;&lt;br>;You can keep notebooks stored in plain-text and have them synchronized with a directory on your mobile device, SD card or over WebDAV.&lt;br>;&lt;br>;Notebooks are saved in Org mode's file format. “Org mode is for keeping notes, maintaining TODO lists, planning projects, and authoring documents with a fast and effective plain-text system.” See http://orgmode.org for more information.&lt;br>;&lt;br>;Orgzly Revived is a community fork of the original Orgzly app.&lt;br>;</content>
-<link href="https://f-droid.org/packages/com.orgzlyrevived/" rel="alternate"/>
-<summary>Outliner for taking notes and managing to-do lists</summary>
-<published>2023-11-15T08:57:31+00:00</published>
 </entry>
 </feed>
