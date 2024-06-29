@@ -1,7 +1,7 @@
 <feed xml:lang="zh-CN" xmlns="http://www.w3.org/2005/Atom">
 <id>https://newapps.f-droid.othing.xyz/new_apps.zh-CN.xml</id>
 <title>New apps on F-Droid (zh-CN)</title>
-<updated>2024-06-28T08:41:30.543821+00:00</updated>
+<updated>2024-06-29T08:40:11.584681+00:00</updated>
 <author>
 <name>yzqzss</name>
 <email>yzqzss@yandex.com</email>
@@ -369,77 +369,5 @@
 <link href="https://f-droid.org/packages/alt.nainapps.sharepaste.fdroid/"/>
 <summary>Share pastes privately, with end to end encryption.</summary>
 <published>2024-06-02T01:56:34+00:00</published>
-</entry>
-<entry>
-<id>https://f-droid.org/packages/org.kirkezz.rttt/</id>
-<title>RTTT</title>
-<updated>2024-05-30T00:40:52+00:00</updated>
-<author>
-<name>Kirkezz</name>
-</author>
-<content type="html">This app is a recursive version of the popular game Tic-Tac-Toe (also known as Xs and Os), based on the Ultimate Tic-Tac-Toe game.&lt;br>;The game supports customization of the width and height of the playing field, the victory condition, and the number of players.&lt;br>;</content>
-<link href="https://f-droid.org/packages/org.kirkezz.rttt/"/>
-<summary>Recursive Tic-Tac-Toe game</summary>
-<published>2024-05-30T00:40:52+00:00</published>
-</entry>
-<entry>
-<id>https://f-droid.org/packages/io.gitlab.derjosef.jigsaw/</id>
-<title>Jigsaw</title>
-<updated>2024-05-30T00:34:54+00:00</updated>
-<author>
-<name>Josef Ott</name>
-</author>
-<content type="html">A jigsaw puzzle game using your own pictures&lt;br>;</content>
-<link href="https://f-droid.org/packages/io.gitlab.derjosef.jigsaw/"/>
-<summary>A Jigsaw Puzzle Game</summary>
-<published>2024-05-30T00:34:51+00:00</published>
-</entry>
-<entry>
-<id>https://f-droid.org/packages/com.yozachar.apps.soundcraftmixer/</id>
-<title>Mixer Controller</title>
-<updated>2024-05-30T00:28:00+00:00</updated>
-<author>
-<name>Yozachar</name>
-</author>
-<content type="html">Connect your phone's WiFi to the digital mixer. Launch this app, it should&lt;br>;automatically detect your IP network. Enter the MixerID, which we define as the&lt;br>;last bit of the IP address assigned to your Mixer. Hit `->;` button, and it'll&lt;br>;let you access the digital mixer control page. This app will remember the mixer&lt;br>;URL, so next time you launch the app, it'll take you directly to the controller&lt;br>;page, given that you're already connected to the mixer's network.&lt;br>;</content>
-<link href="https://f-droid.org/packages/com.yozachar.apps.soundcraftmixer/"/>
-<summary>Access digital audio mixer's via WebUI.</summary>
-<published>2024-05-30T00:28:00+00:00</published>
-</entry>
-<entry>
-<id>https://f-droid.org/packages/com.password.monitor/</id>
-<title>Password Monitor</title>
-<updated>2024-05-30T00:23:55+00:00</updated>
-<author>
-<name>StellarSand</name>
-</author>
-<content type="html">本应用程序与 &lt;a href="https://haveibeenpwned.com">;Have I Been Pwned?&lt;/a>; 无缝集成，帮助您验证您的密码是否在任何公开披露的数据泄露事件中被泄露。&lt;br>;您的密码保持私密，绝不会在任何地方共享。&lt;br>;&lt;br>;功能特点&lt;br>;&lt;br>;- 完全开源&lt;br>;- Material design 3 和 Material You&lt;br>;- 支持浅色和深色主题&lt;br>;- 无广告&lt;br>;- 不收集个人数据</content>
-<link href="https://f-droid.org/packages/com.password.monitor/"/>
-<summary>扫描潜在漏洞，确保密码安全。</summary>
-<published>2024-05-30T00:23:55+00:00</published>
-</entry>
-<entry>
-<id>https://f-droid.org/packages/com.kin.easynotes/</id>
-<title>Easy Notes</title>
-<updated>2024-06-05T16:51:55+00:00</updated>
-<author>
-<name>Kin69</name>
-</author>
-<content type="html">Easy Notes: Effortless Note-Taking, Modernized&lt;br>;&lt;br>;Features:&lt;br>;&lt;br>;• Modern Material Design&lt;br>;• Support Images,Code Blocks and more&lt;br>;• Simple Interface&lt;br>;• Weekly Updates</content>
-<link href="https://f-droid.org/packages/com.kin.easynotes/"/>
-<summary>A modern notes app with material design</summary>
-<published>2024-05-30T00:21:46+00:00</published>
-</entry>
-<entry>
-<id>https://f-droid.org/packages/com.github.mdeluise.plantit/</id>
-<title>Plant-it</title>
-<updated>2024-06-17T10:19:39+00:00</updated>
-<author>
-<name>MDeLuise</name>
-</author>
-<content type="html">This is a client app for the self-hostable Plant-it Server (which can be found with the app's source repo). You will need to run/manage the server on your own in order to use the app.&lt;br>;&lt;br>;Once set up, this app can be used for keeping track of plant care, receiving notifications about when to water plants, uploading plant images, and more.&lt;br>;&lt;br>;&lt;b>;Features highlight:&lt;/b>;&lt;br>;* Add existing plants or user created plants to your collection&lt;br>;* Log events like watering, fertilizing, biostimulating, etc. for your plants&lt;br>;* View all the logged events, filtering by plant and event type&lt;br>;* Upload photos of your plants&lt;br>;* Set reminder for some actions on your plants (e.g. notify if not watered every 4 days)&lt;br>;</content>
-<link href="https://f-droid.org/packages/com.github.mdeluise.plantit/"/>
-<summary>This is a client app for the self-hostable Plant-it Server</summary>
-<published>2024-05-30T00:19:18+00:00</published>
 </entry>
 </feed>
