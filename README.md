@@ -20,3 +20,4 @@
  - source007 [https://newapps.f-droid.othing.xyz/new_apps.zh-CN.xml](https://newapps.f-droid.othing.xyz/new_apps.zh-CN.xml) -> [Froid_rss.xml](rss/Froid_rss.xml)
  - source008 [https://rsseverything.com/feed/5a44e712-2dce-412c-8683-f6fa58f0280c.xml](https://rsseverything.com/feed/5a44e712-2dce-412c-8683-f6fa58f0280c.xml) -> [biostatistics.xml](rss/biostatistics.xml)
  - source009 [http://hmg.oxfordjournals.org/rss/ahead.xml](http://hmg.oxfordjournals.org/rss/ahead.xml) -> [Human_Molecular_Genetics_Advance_Access.xml](rss/Human_Molecular_Genetics_Advance_Access.xml)
+ - source010 [http://feeds.nature.com/jhg/rss/current](http://feeds.nature.com/jhg/rss/current) -> [Journal_of_Human_Genetics.xml](rss/Journal_of_Human_Genetics.xml)
