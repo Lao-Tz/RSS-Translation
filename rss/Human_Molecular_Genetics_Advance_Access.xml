@@ -1,1 +1,63 @@
-<rss version="2.0" xmlns:prism="http://purl.org/rss/1.0/modules/prism/"><channel><title>人类分子遗传学高级访问</title><link/>http://academic.oup.com/hmg<description></description><language> en-us</language><pubDate> Wed, 24 Jul 2024 00:00:00 GMT</pubDate><lastbuilddate> 2024 年 7 月 24 日星期三 04:43:38 GMT</lastbuilddate><generator>银椅</generator><item><title>CTCF 环、甲基化组和转录组的整合在区分 LUHMES 作为人类神经元 15q11-q13 基因座印记动态模型中的应用</title><link/>https://academic.oup.com/hmg/advance-article/doi/10.1093/hmg/ddae111/7718882?rss=1<pubDate> Wed, 24 Jul 2024 00:00:00 GMT</pubDate><description> &lt;span class=&quot;paragraphSection&quot;>;&lt;div class=&quot;boxTitle&quot;>;摘要&lt;/div>;人类细胞系模型，包括神经元前体细胞系 LUHMES，对于研究印迹区域内的发育转录动力学非常重要，特别是 15q11-q13 Angelman (AS) 和 Prader-Willi (PWS) 综合征位点。 AS 是由于神经元中母源 &lt;span style=&quot;font-style:italic;&quot;>;UBE3A&lt;/span>; 缺失造成的，其中父源等位基因被聚合反义转录本沉默&lt;span style=&quot;font-style:italic;&quot; >;UBE3A-ATS&lt;/span>;，一种在非神经元中终止于 &lt;span style=&quot;font-style:italic;&quot;>;PWAR1&lt;/span>; 的 lncRNA。 qRT-PCR 分析证实了 &lt;span style=&quot;font-style:italic;&quot;>;UBE3A-ATS&lt;/span>; 在分化 LUHMES 神经元方面的独特且渐进的增加，验证了它们在研究中的用途&lt;span style=&quot;font-style:斜体;&quot;>;UBE3A&lt;/span>; 沉默。全基因组转录组分析揭示了神经元分化过程中 11 834 个基因的变化，包括 15q11-q13 位点内大多数基因的上调。为了识别与转录活性相关的染色质环的动态变化，我们进行了 4C 验证的 HiChIP，它识别了 &lt;span style=&quot;font-style:italic;&quot;>;MAGEL2-SNRPN&lt;/span>; 和&lt;span style=&quot;font-style:italic;&quot;>;PWAR1-UBE3A&lt;/span>;。为了确定等位基因特异性差异甲基化区域 (DMR) 是否可能与 CTCF 环锚相关，进行了全基因组长读长纳米孔测序。我们在神经元专有的 &lt;span style=&quot;font-style:italic;&quot;>;SNRPN&lt;/span>; 上游环锚点附近发现了一个父系低甲基化的 DMR，在 &lt;span style=&quot;font-style:italic;&quot;>;SNRPN&lt;/span>; 上游环锚附近发现了一个父系高甲基化的 DMR。 &quot;>;PWAR1&lt;/span>; CTCF 锚定于未分化细胞，与神经元转录的增加一致。此外，在两种细胞类型中都观察到 CTCF 环锚附近的 DMR，表明调节印记转录的染色质环中存在等位基因特异性差异。这些结果提供了 LUHMES 神经元分化过程中 15q11-q13 表观遗传景观的综合视图，强调了转录、染色质环和 DNA 甲基化的复杂相互作用。它们还为 AS 和 PWS 的未来治疗方法提供了见解。&lt;/span>;</description><prism:startingpage xmlns:prism="prism"> DDAE111</prism:startingpage><prism:doi xmlns:prism="prism"> 10.1093/hmg/ddae111</prism:doi><guid> http://doi.org/10.1093/hmg/ddae111</guid></item><item><title>用于识别 P53 和 cMYC 驱动疾病中病因非编码 DNA 变异的序列到表达方法</title><link/>https://academic.oup.com/hmg/advance-article/doi/10.1093/hmg/ddae109/7715752?rss=1<pubDate> Wed, 17 Jul 2024 00:00:00 GMT</pubDate><description> &lt;span class=&quot;paragraphSection&quot;>;&lt;div class=&quot;boxTitle&quot;>;Abstract&lt;/div>;基于基因组序列和转录谱的疾病风险预测可以改善疾病筛查和预防。尽管识别出许多与疾病相关的 DNA 变异，但对于大多数常见疾病来说，区分有害的非编码 DNA 变异仍然很困难。在本研究中，我们设计了&lt;span style=&quot;font-style:italic;&quot;>;体外&lt;/span>;实验来揭示P53和cMYC对共同靶基因的占据和竞争性结合的重要性。分析胚胎干细胞中 P53 和 cMYC 的公开 ChIP-seq 数据表明，约 344-366 个区域是共占据的，平均每个区域有两个顺式重叠基序 (CisOM)，这表明共占据是进化上保守的。使用未经处理和用阿霉素处理的 U2OS 和 Raji 细胞来增加 P53 蛋白水平，同时可能降低 cMYC 水平，ChIP-seq 分析表明，约 16 至 922 个基因组区域被 P53 和 cMYC 共同占据，并且 P53 对 cMYC 信号的替换检测到阿霉素治疗后。根据 RNA-seq 数据分析，共占据区域附近大约 187 个表达基因在 mRNA 水平上发生了改变。我们利用计算基序匹配方法来说明共占据元件的 CisOM 中预测的 P53 结合亲和力的变化与报告基因表达的变化显着相关。我们使用 ChIP-seq 数据中 P53 和 cMYC 的 CisOM 中映射的 SNP 以及来自 GTEx 门户的目标基因的表达进行了类似的分析。我们发现 CisOM 中 cMYC 基序结合亲和力的变化与表达改变之间存在显着相关性。我们的研究使我们更接近于开发一种普遍适用的方法来过滤与常见疾病相关的病因学非编码变异。&lt;/span>;</description><prism:startingpage xmlns:prism="prism"> DDAE109</prism:startingpage><prism:doi xmlns:prism="prism"> 10.1093/hmg/ddae109</prism:doi><guid> http://doi.org/10.1093/hmg/ddae109</guid></item></channel></rss>
+<html><head><script type="text/javascript"><!--
+function leastFactor(n) {
+ if (isNaN(n) || !isFinite(n)) return NaN;
+ if (typeof phantom !== 'undefined') return 'phantom';
+ if (typeof module !== 'undefined' && module.exports) return 'node';
+ if (n==0) return 0;
+ if (n%1 || n*n<2) return 1;
+ if (n%2==0) return 2;
+ if (n%3==0) return 3;
+ if (n%5==0) return 5;
+ var m=Math.sqrt(n);
+ for (var i=7;i<=m;i+=30) {
+  if (n%i==0)      return i;
+  if (n%(i+4)==0)  return i+4;
+  if (n%(i+6)==0)  return i+6;
+  if (n%(i+10)==0) return i+10;
+  if (n%(i+12)==0) return i+12;
+  if (n%(i+16)==0) return i+16;
+  if (n%(i+22)==0) return i+22;
+  if (n%(i+24)==0) return i+24;
+ }
+ return n;
+}
+function go() {
+ var p=3063017957009; var s=3661779269; var n;
+if ((s >> 6) & 1)/*
+*13;
+*/p+= 218198418*/*
+p+= */9;
+else /* 120886108*
+*/p-=/*
+p+= */247379736*	7;
+if ((s >> 14) & 1)
+p+=/*
+else p-=
+*/63638131*/* 120886108*
+*/17;
+else  p-=	107607372* 15;if ((s >> 12) & 1)p+= 45216327*/*
+else p-=
+*/15;/*
+else p-=
+*/else 	p-= 19936325*
+13; if ((s >> 0) & 1)p+=/*
+p+= */346278684*/*
+else p-=
+*/3;/* 120886108*
+*/else /*
+*13;
+*/p-=1298017385*/*
+else p-=
+*/1;if ((s >> 4) & 1)/* 120886108*
+*/p+=	136981420*/*
+else p-=
+*/7;/*
+p+= */else /* 120886108*
+*/p-=
+335794920*/*
+p+= */5;	 p-=4303392204;
+ n=leastFactor(p);
+{ document.cookie="KEY="+n+"*"+p/n+":"+s+":2959696545:1;path=/; SameSite=none; Secure;";
+  document.location.reload(true); }
+}
+//--></script></head><body onload="go()">加载中...</body></html>
