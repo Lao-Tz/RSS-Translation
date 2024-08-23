@@ -1,7 +1,7 @@
 <feed xml:lang="zh-CN" xmlns="http://www.w3.org/2005/Atom">
 <id>https://newapps.f-droid.othing.xyz/new_apps.zh-CN.xml</id>
 <title>New apps on F-Droid (zh-CN)</title>
-<updated>2024-08-22T08:39:15.477016+00:00</updated>
+<updated>2024-08-23T08:39:33.007785+00:00</updated>
 <author>
 <name>yzqzss</name>
 <email>yzqzss@yandex.com</email>
@@ -318,74 +318,5 @@
 <link href="https://f-droid.org/packages/cn.rbc.termuc/"/>
 <summary>A simple C/C++ IDE backed on Termux</summary>
 <published>2024-07-26T09:27:51+00:00</published>
-</entry>
-<entry>
-<id>https://f-droid.org/packages/v4lpt.vpt.f006.yxn/</id>
-<title>Valentin's PowerTools #006 - Yes XOR No?</title>
-<updated>2024-08-12T08:06:09+00:00</updated>
-<author>
-<name>Valentin</name>
-</author>
-<content type="html">This app is for situations where you just cannot decide on rational grounds because of missing data or because the decision tree is so complex, a human could just flip a coin, because the computation of all outcomes would not be possible in the remaining life time. If you want to minimize the time you would normally lose in option paralysis, just press the big red button. The answer is a decisive and strict YES XOR NO. And there is also a delay to hinder you from fooling yourself and coming back to biased circles of fruitless thinking. But this is just what I think. Let me know what you think in the comments. ;) &lt;br>;&lt;strong>;Everything is calculated locally, nothing is saved. Your data are yours. Nobody will ever learn about your specific love for wearing mismatched socks.&lt;/strong>;&lt;br>;&lt;h2 id="how-does-it-work">;How does it work&lt;/h2>;&lt;br>;Ask yourself a Yes/No question in your head&lt;br>;You click the big red button&lt;br>;Your answer will appear on the screen&lt;br>;To prevent cheating, you can't go back for 5s. &lt;br>;&lt;br>;Created with ❤️ by Valentin&lt;br>;</content>
-<link href="https://f-droid.org/packages/v4lpt.vpt.f006.yxn/"/>
-<summary>Assists you in your decisions!</summary>
-<published>2024-07-23T09:06:27+00:00</published>
-</entry>
-<entry>
-<id>https://f-droid.org/packages/v4lpt.vpt.f005.rsd/</id>
-<title>Valentin's PowerTools #005 - Roll Some Dice </title>
-<updated>2024-08-18T09:54:07+00:00</updated>
-<author>
-<name>Valentin</name>
-</author>
-<content type="html">Hello dear fellow human or humanoid robot!&lt;br>;This is Roll Some Dice, an app developed solely for the purpose to speed up your dice rolling procedures in board games that use two dice and their respective distribution of results.&lt;br>;&lt;strong>;Everything is calculated locally, nothing is saved. Nobody will ever learn about your specific gam(bl)ing habits :)&lt;/strong>;&lt;/p>;&lt;br>;&lt;br>;&lt;b>;Features:&lt;/b>;&lt;br>;&lt;br>;* 🎲🎲 &lt;strong>;2 Dice&lt;/strong>;: more than one! &lt;br>;* 🧭 &lt;strong>;4 way display&lt;/strong>;: The result will be displayed in all 4 directions ensuring ample visibility for all players.&lt;br>;* ⏲️ &lt;strong>;Small Delay&lt;/strong>;: There is a 727ms delay between dice rolls to prevent accidental or purposeful double rolls. &lt;br>;&lt;br>;&lt;strong>;Usage:&lt;/strong>;&lt;br>;* Press the big red button.&lt;br>;* In the next screen each tap anywhere rolls the dice.&lt;br>;&lt;br>;Created with ♥️ by Valentin&lt;br>;Tags: Würfel, Würfel App, Dice, Dice Roller, Random Number Generator, Random, Coinflip, Die&lt;br>;</content>
-<link href="https://f-droid.org/packages/v4lpt.vpt.f005.rsd/"/>
-<summary>Minimalistic Android app for rolling 2 dice.</summary>
-<published>2024-07-23T09:06:25+00:00</published>
-</entry>
-<entry>
-<id>https://f-droid.org/packages/v4lpt.vpt.f003.gdp/</id>
-<title>Valentin's PowerTools #003 - Gesture Drawing Pract</title>
-<updated>2024-08-18T09:54:05+00:00</updated>
-<author>
-<name>Valentin</name>
-</author>
-<content type="html">This is Gesture Drawing Practice, an open source app for artists. It displays your selected pictures from the gallery, each for a set amount of time (like 1 minute). There are options to display a countdown timer and duration of pause (blank screen) between pictures&lt;br>;&lt;br>;&lt;b>;Features&lt;b>;&lt;br>;&lt;br>;* 🤖 select multiple pictures, order is preserved (!)&lt;br>;* ⏲️ choose from 4 different usual time options for practice&lt;br>;* 😴 choose from 4 different useful pause options &lt;br>;* 🎨 options for visibility and appearance of the count down timer &lt;br>;&lt;br>;&lt;b>;Usage&lt;b>;&lt;br>;&lt;br>;* Tap the big red button&lt;br>;* Select your pictures from the gallery &lt;br>;* Change settings or leave it as it is&lt;br>;* Tap "Start Session"&lt;br>;&lt;br>;Created with ❤️ by Valentin&lt;br>;Tags: gesture drawing, practice, slide show, timer, countdown timer, artist, comic book, illustrator, drawing, draw, persons, line-of-action&lt;br>;</content>
-<link href="https://f-droid.org/packages/v4lpt.vpt.f003.gdp/"/>
-<summary>Displays pictures for a set time with optional timer - for drawing practice.</summary>
-<published>2024-07-23T09:06:23+00:00</published>
-</entry>
-<entry>
-<id>https://f-droid.org/packages/org.androidlabs.applistbackup/</id>
-<title>AppListBackup</title>
-<updated>2024-08-03T13:53:17+00:00</updated>
-<content type="html">AppListBackup is the ultimate solution for generating a backup list of installed applications on your Android device.&lt;br>;&lt;br>;This user-friendly app allows you to automatically create and view a backup list of all your installed apps with just a few taps.&lt;br>;&lt;br>;Whether you want to safeguard your list of favorite apps or prepare for a device reset, AppListBackup ensures your apps list is securely backed up and ready to be viewed whenever you need it.&lt;br>;&lt;br>;Key Features:&lt;br>;&lt;br>;* Quickly create backup lists of installed apps with ease, including details such as: installation date, version number, package name, app icon and more.&lt;br>;* View your backup lists from any device with an easy to use HTML file including the ability to sort and filter.&lt;br>;* Seamlessly integrate with Tasker, Automate, MacroDroid, and any other apps that support Tasker Plugin, allowing you to automate your backup schedule.&lt;br>;* Does not need root and zero permissions are required.&lt;br>;* Also includes an easy to click widget, notification bar progress updates, and more.&lt;br>;&lt;br>;With AppListBackup, you can have peace of mind knowing an up to date list of your favorite apps is safely backed up. Download and install now to ensure your list of apps is always ready for restoration.&lt;br>;&lt;br>;IMPORTANT: This app does not back up your actual application APKs or data, it only generates a list of installed applications and allows you to choose where to save it for future reference. Additionally it is the user's responsibility to save/backup the generated HTML file to a safe location in the event their phone is broken or lost, such as, but not limited to, email, remote storage, or a local folder which is synced elsewhere.</content>
-<link href="https://f-droid.org/packages/org.androidlabs.applistbackup/"/>
-<summary>Effortlessly create and manage backups of a list of your installed apps on Andro</summary>
-<published>2024-07-23T08:59:00+00:00</published>
-</entry>
-<entry>
-<id>https://f-droid.org/packages/net.ygingras.minutemaze/</id>
-<title>Minute Maze</title>
-<updated>2024-08-21T12:19:43+00:00</updated>
-<author>
-<name>Yannick Gingras</name>
-</author>
-<content type="html">Solve as many mazes as possible in before the time runs out.&lt;br>;&lt;br>;Use d-pad style controls to move your character to the flag before the timer reaches 00:00. Mazes get more difficult as you progress.&lt;br>;&lt;br>;This free and open source game is made with the Godot Game Engine. Minute Maze has no ads, no micro transactions, and can be played offline.&lt;br>;</content>
-<link href="https://f-droid.org/packages/net.ygingras.minutemaze/"/>
-<summary>Solve as many mazes as possible in before the time runs out.</summary>
-<published>2024-07-23T08:58:40+00:00</published>
-</entry>
-<entry>
-<id>https://f-droid.org/packages/lying.fengfeng.snapsaver/</id>
-<title>SnapSaver</title>
-<updated>2024-08-15T14:54:24+00:00</updated>
-<author>
-<name>Li Linfeng</name>
-</author>
-<content type="html">你可以通过这个应用创建拍照键，制定照片的存储目录；后续只需要按下这个拍照键，就可以拍下一张照片并且将它存储到事先设置好的存储目录</content>
-<link href="https://f-droid.org/packages/lying.fengfeng.snapsaver/"/>
-<summary>一个可以帮你快速拍照并整理到指定目录中的应用</summary>
-<published>2024-07-23T08:57:06+00:00</published>
 </entry>
 </feed>
