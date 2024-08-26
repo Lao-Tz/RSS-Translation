@@ -1,7 +1,7 @@
 <feed xml:lang="zh-CN" xmlns="http://www.w3.org/2005/Atom">
 <id>https://newapps.f-droid.othing.xyz/new_apps.zh-CN.xml</id>
 <title>New apps on F-Droid (zh-CN)</title>
-<updated>2024-08-25T08:39:17.873600+00:00</updated>
+<updated>2024-08-26T08:39:53.403108+00:00</updated>
 <author>
 <name>yzqzss</name>
 <email>yzqzss@yandex.com</email>
@@ -282,41 +282,5 @@
 <link href="https://f-droid.org/packages/com.anthonyla.paperize/"/>
 <summary>Paperize is an efficient wallpaper changer application with a clean design</summary>
 <published>2024-07-30T08:59:31+00:00</published>
-</entry>
-<entry>
-<id>https://f-droid.org/packages/page.codeberg.jumpingpants.opentransit/</id>
-<title>OpenLynx</title>
-<updated>2024-07-26T09:51:45+00:00</updated>
-<author>
-<name>Wyatt Agathe</name>
-</author>
-<content type="html">A FOSS application used for navigating the public transit systems using live GTFS data.&lt;br>;&lt;br>;- Favorite Routes&lt;br>;- Saved Locations&lt;br>;- Manage Tickets &amp; Passes&lt;br>;- Advanced Trip Planning&lt;br>;&lt;br>;Currently, not all cities are covered. This app will help with the Lynx bus system in Orlando, Florida.&lt;br>;&lt;br>;Want this for your city? It really is very easy! Open an feature request issue on the source code repository.&lt;br>;&lt;br>;This is not a map app. Please use OSMAND+ available on f-droid.org.&lt;br>;</content>
-<link href="https://f-droid.org/packages/page.codeberg.jumpingpants.opentransit/"/>
-<summary>Public transport companion providing real-time data.</summary>
-<published>2024-07-26T09:51:45+00:00</published>
-</entry>
-<entry>
-<id>https://f-droid.org/packages/com.hg.openwrtmanager/</id>
-<title>OpenWrt Manager</title>
-<updated>2024-07-30T09:03:56+00:00</updated>
-<author>
-<name>Hagay Goshen</name>
-</author>
-<content type="html">&lt;p>;This app allows you to view the status of your OpenWRT devices using LuCI commands (LuCI must be installed on OpenWRT device). You can connect to multiple devices in the app and select which info is shown. Currently mainly viewing data/status is available.&lt;/p>;&lt;p>;&lt;br>;&lt;b>;Available actions:&lt;/b>;&lt;/p>;&lt;ul>;&lt;li>;Reboot the device. (Devices Page)&lt;/li>;&lt;li>;Disconnect a selected WIFI client from the list (Long press).&lt;/li>;&lt;li>;Restart network interface.&lt;/li>;&lt;/ul>;&lt;p>;It is recommended to enable HTTPS for LuCI on your device.&lt;/p>;</content>
-<link href="https://f-droid.org/packages/com.hg.openwrtmanager/"/>
-<summary>Manage your OpenWRT device from your phone</summary>
-<published>2024-07-26T09:32:50+00:00</published>
-</entry>
-<entry>
-<id>https://f-droid.org/packages/cn.rbc.termuc/</id>
-<title>TermuC</title>
-<updated>2024-08-12T07:36:11+00:00</updated>
-<author>
-<name>RainbowC0</name>
-</author>
-<content type="html">TermuC is a simple C/C++ IDE backed on powerful Termux. Install Termux first and install clang in Termux to supply the compiler and language server.&lt;br>;&lt;br>;&lt;b>;Setup&lt;/b>;&lt;br>;&lt;br>;To support the full functions as an IDE, please follow the setup instruction.&lt;br>;&lt;br>;1. Install Termux(&lt;a href="https://github.com/termux/termux-app/releases">;Github Releases&lt;/a>; or &lt;a href="https://f-droid.org/packages/com.termux">;F-Droid&lt;/a>;) first.&lt;br>;2. Run &lt;code>;pkg install clang&lt;/code>; to install the clang compiler &amp; clangd language server.&lt;br>;3. See https://github.com/termux/termux-app/wiki/RUN_COMMAND-Intent#setup-instructions to enable calls from 3rd-party apps.&lt;br>;4. Then install TermuC.&lt;br>;&lt;br>;&lt;b>;Features&lt;/b>;&lt;br>;&lt;br>;✅ Highlighting&lt;br>;✅ Autocompletion&lt;br>;✅ Formatting&lt;br>;✅ Diagnose&lt;br>;✅ Compile flags&lt;br>;✅ Dark mode&lt;br>;</content>
-<link href="https://f-droid.org/packages/cn.rbc.termuc/"/>
-<summary>A simple C/C++ IDE backed on Termux</summary>
-<published>2024-07-26T09:27:51+00:00</published>
 </entry>
 </feed>
