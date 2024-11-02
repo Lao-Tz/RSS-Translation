@@ -1,7 +1,7 @@
 <feed xml:lang="zh-CN" xmlns="http://www.w3.org/2005/Atom">
 <id>https://newapps.f-droid.othing.xyz/new_apps.zh-CN.xml</id>
 <title>New apps on F-Droid (zh-CN)</title>
-<updated>2024-11-01T08:40:18.593005+00:00</updated>
+<updated>2024-11-02T08:39:49.126155+00:00</updated>
 <author>
 <name>yzqzss</name>
 <email>yzqzss@yandex.com</email>
@@ -312,29 +312,5 @@
 <link href="https://f-droid.org/packages/alt.nainapps.aer/"/>
 <summary>Private storage utility for android with support for external storage media</summary>
 <published>2024-10-07T06:29:30+00:00</published>
-</entry>
-<entry>
-<id>https://f-droid.org/packages/futuristicgoo.emotic/</id>
-<title>Emotic</title>
-<updated>2024-10-13T10:05:23+00:00</updated>
-<author>
-<name>FuturisticGoo</name>
-</author>
-<content type="html">&lt;b>;A simple app which lists a bunch of emoticons (not emojis!).&lt;/b>;&lt;br>;&lt;br>;Features:&lt;br>;&lt;ul>;&lt;br>;&lt;li>;Browse through a list of emoticons which you can copy to clipboard&lt;br>;without using internet or any websites.&lt;/li>;&lt;br>;&lt;li>;Add or modify your own emoticons.&lt;/li>;&lt;br>;&lt;li>;Search using related tags.&lt;/li>;&lt;br>;&lt;/ul>;&lt;br>;&lt;br>;App is written in Flutter, using Material 3 and supports dark/light mode.&lt;br>;</content>
-<link href="https://f-droid.org/packages/futuristicgoo.emotic/"/>
-<summary>Reignite the love for emoticons</summary>
-<published>2024-10-03T07:07:01+00:00</published>
-</entry>
-<entry>
-<id>https://f-droid.org/packages/com.jherkenhoff.qalculate/</id>
-<title>Qalculate!</title>
-<updated>2024-10-03T06:58:49+00:00</updated>
-<author>
-<name>Jost Herkenhoff</name>
-</author>
-<content type="html">Qalculate! - the ultimate multi-purpose calculator - is now finally available on Android!&lt;br>;&lt;br>;It is simple to use but provides power and versatility normally reserved for complicated math packages, as well as useful tools for everyday needs (such as currency conversion and percent calculation). Features include a large library of customizable functions, unit calculations and conversion, physical constants, symbolic calculations (including integrals and equations), arbitrary precision, uncertainty propagation or interval arithmetic.</content>
-<link href="https://f-droid.org/packages/com.jherkenhoff.qalculate/"/>
-<summary>Powerful and versatile multi-purpose calculator</summary>
-<published>2024-10-03T06:58:44+00:00</published>
 </entry>
 </feed>
