@@ -1,1 +1,61 @@
-<rss version="2.0" xmlns:prism="http://purl.org/rss/1.0/modules/prism/"><channel><title>人类分子遗传学高级访问</title><link/>http://academic.oup.com/hmg<description></description><language> en-us</language><pubDate> Wed, 06 Nov 2024 00:00:00 GMT</pubDate><lastbuilddate> 2024 年 11 月 6 日星期三 18:43:36 GMT</lastbuilddate><generator>银椅</generator><item><title>人类 LGP2 复杂多转录系统的表征：在先天免疫反应和非人类灵长类动物进化中的作用</title><link/>https://academic.oup.com/hmg/advance-article/doi/10.1093/hmg/ddae155/7879568?rss=1<pubDate> Wed, 06 Nov 2024 00:00:00 GMT</pubDate><description> &lt;span class=&quot;paragraphSection&quot;>;&lt;div class=&quot;boxTitle&quot;>;摘要&lt;/div>;视黄酸诱导基因 I (RIG-I) 样受体 (RLR)，包括 RIG-I、MDA5 和 LGP2，可识别病毒 RNA产生抗病毒干扰素 (IFN) 反应 RLR 共享三个不同的蛋白质结构域：C 端结构域、DExD/H 盒 RNA 解旋酶结构域和具有两个串联结构的 N 端结构域重复（卡片）。 LGP2 缺乏串联 CARD，无法诱导 IFN 反应。然而，LGP2 正向增强 MDA5 并负向调节 RIG-I 信号传导。在这项研究中，我们确定了人类中 LGP2 的替代转录本，以进一步了解其调节机制、其进化起源和亚型功能。结果显示测试样本中有八个新的替代转录本。这些转录本的存在表明调节 LGP2 表达的主要机制是通过内含子的插入和外显子的丢失。对人类外显子 1 至外显子 3 的序列与之前描述的非人类灵长类动物的序列进行系统发育分析，发现起源于大猩猩的三个分化良好的群体（谱系），表明跨物种进化已经维持了 1000 万年。 。还建立了相应的蛋白质模型（亚型），获得了四种亚型：一种完整的亚型和另外三种缺乏C端结构域或该结构域以及部分或全部He2解旋酶结构域的亚型，这将损害LGP2的功能。总之，这是第一项阐明人类 LGP2 的大型基因组组织和复杂转录调控、其序列生成模式以及跨物种进化遗传模式的研究。&lt;/span>;</description><prism:startingpage xmlns:prism="prism"> DDAE155</prism:startingpage><prism:doi xmlns:prism="prism"> 10.1093/hmg/ddae155</prism:doi><guid> http://doi.org/10.1093/hmg/ddae155</guid></item><item><title> SMN 缺失会损害 SMA 小鼠模型中的骨骼肌形成和成熟</title><link/>https://academic.oup.com/hmg/advance-article/doi/10.1093/hmg/ddae162/7879567?rss=1<pubDate> Wed, 06 Nov 2024 00:00:00 GMT</pubDate><description> &lt;span class=&quot;paragraphSection&quot;>;&lt;div class=&quot;boxTitle&quot;>;摘要&lt;/div>;脊髓性肌萎缩症 (SMA) 的特点是普遍表达的运动神经元存活 (SMN) 蛋白水平低下，导致进行性肌肉无力和萎缩。骨骼肌卫星细胞在肌纤维的维护、修复和重塑中发挥着至关重要的作用。虽然 SMN 消耗对肌肉的影响已有充分记录，但其在卫星细胞功能中的确切作用仍不清楚。使用 &lt;span style=&quot;font-style:italic;&quot;>;Smn2B/−&lt;/span>; 小鼠模型，我们通过单纤维培养研究研究了 SMN 耗尽的卫星细胞生物学。 &lt;span style=&quot;font-style:italic;&quot;>;Smn2B/−&lt;/span>; 小鼠的肌纤维尺寸更小，长度更短，肌核域尺寸减小，突触下肌核簇减少——所有这些都表明肌肉受损功能和完整性。这些变化伴随着 &lt;span style=&quot;font-style:italic;&quot;>;Smn2B/−&lt;/span>; 小鼠在所检查的所有疾病阶段的肌纤维中肌核数量的减少。尽管肌纤维中卫星细胞的数量显着减少，但剩余的卫星细胞保留了肌原激活和增殖的能力。这些发现支持这样的观点，即在 SMA 的肌肉形成和成熟过程中，肌源性过程失调可能早在肌肉干细胞中就发生了。针对这些途径可以为 SMA 组合疗法提供更多选择。&lt;/span>;</description><prism:startingpage xmlns:prism="prism"> DDAE162</prism:startingpage><prism:doi xmlns:prism="prism"> 10.1093/hmg/ddae162</prism:doi><guid> http://doi.org/10.1093/hmg/ddae162</guid></item><item><title>替代性多腺苷酸化塑造了肺腺癌的分子和临床特征</title><link/>https://academic.oup.com/hmg/advance-article/doi/10.1093/hmg/ddae150/7866773?rss=1<pubDate> Sat, 02 Nov 2024 00:00:00 GMT</pubDate><description> &lt;span class=&quot;paragraphSection&quot;>;&lt;div class=&quot;boxTitle&quot;>;摘要&lt;/div>;选择性多腺苷酸化 (APA) 是转录后调控的主要机制，影响 mRNA 的稳定性、定位和翻译效率。之前的泛癌研究表明，APA 在癌症中经常被破坏，并且与患者的预后相关。然而，人们对癌症类型特异性 APA 改变知之甚少。在这里，我们整合了来自韩国队列 (GEO: GSE40419) 的 RNA 测序数据和癌症基因组图谱 (TCGA)，以全面分析肺腺癌 (LUAD) 中的 APA 变化。比较涉及多聚腺苷酸化的核心基因的表达水平，我们发现总体而言，31 个基因中有 28 个基因上调，其中 &lt;span style=&quot;font-style:italic;&quot;>;CSTF2&lt;/span>; 尤其上调。我们观察到 LUAD 生长促进基因中广泛且反复出现的 APA 变化。此外，我们发现与已知 LUAD 途径相关的基因中 APA 事件的富集以及增殖相关基因的多腺苷酸化 (polyA) 位点使用的异质性增加。经过进一步调查，我们报告吸烟特定的 APA 变化也与 LUAD 的发展高度相关。总的来说，我们的深入分析表明 APA 是肺腺癌分子和临床特征的重要驱动因素。&lt;/span>;</description><prism:startingpage xmlns:prism="prism"> DDAE150</prism:startingpage><prism:doi xmlns:prism="prism"> 10.1093/hmg/ddae150</prism:doi><guid> http://doi.org/10.1093/hmg/ddae150</guid></item></channel></rss>
+<html><head><script type="text/javascript"><!--
+function leastFactor(n) {
+ if (isNaN(n) || !isFinite(n)) return NaN;
+ if (typeof phantom !== 'undefined') return 'phantom';
+ if (typeof module !== 'undefined' && module.exports) return 'node';
+ if (n==0) return 0;
+ if (n%1 || n*n<2) return 1;
+ if (n%2==0) return 2;
+ if (n%3==0) return 3;
+ if (n%5==0) return 5;
+ var m=Math.sqrt(n);
+ for (var i=7;i<=m;i+=30) {
+  if (n%i==0)      return i;
+  if (n%(i+4)==0)  return i+4;
+  if (n%(i+6)==0)  return i+6;
+  if (n%(i+10)==0) return i+10;
+  if (n%(i+12)==0) return i+12;
+  if (n%(i+16)==0) return i+16;
+  if (n%(i+22)==0) return i+22;
+  if (n%(i+24)==0) return i+24;
+ }
+ return n;
+}
+function go() {
+ var p=3636696690059; var s=91622121; var n;
+if ((s >> 8) & 1)
+p+=/* 120886108*
+*/19169676*11;/*
+p+= */else p-=/*
+p+= */90596637*
+9;/*
+*13;
+*/if ((s >> 11) & 1)/*
+*13;
+*/p+=	86014426*
+12;	else 	p-= 16205303*	12;	if ((s >> 3) & 1)
+p+=/*
+p+= */425193024*/*
+p+= */4;else p-= 421130942*/*
+else p-=
+*/4;/*
+else p-=
+*/if ((s >> 5) & 1) p+= 227302011*6;/* 120886108*
+*/else /*
+*13;
+*/p-=/* 120886108*
+*/151841299*	6;if ((s >> 10) & 1)/*
+*13;
+*/p+=/*
+else p-=
+*/69437316*	13;/*
+*13;
+*/else /*
+p+= */p-=/*
+p+= */14818469*11;/*
+p+= */ p-=3666403200;
+ n=leastFactor(p);
+{ document.cookie="KEY="+n+"*"+p/n+":"+s+":1984372443:1;path=/; SameSite=none; Secure;";
+  document.location.reload(true); }
+}
+//--></script></head><body onload="go()">加载中...</body></html>
