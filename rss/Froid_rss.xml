@@ -1,7 +1,7 @@
 <feed xml:lang="zh-CN" xmlns="http://www.w3.org/2005/Atom">
 <id>https://newapps.f-droid.othing.xyz/new_apps.zh-CN.xml</id>
 <title>New apps on F-Droid (zh-CN)</title>
-<updated>2024-11-12T08:40:32.795769+00:00</updated>
+<updated>2024-11-13T08:40:39.269025+00:00</updated>
 <author>
 <name>yzqzss</name>
 <email>yzqzss@yandex.com</email>
@@ -473,53 +473,5 @@ https://timur.mobi/prose/doc/android</summary>
 <link href="https://f-droid.org/packages/com.bibleside.bibleside/"/>
 <summary>Offline Bible app featuring the OET (Open English Translation)</summary>
 <published>2024-10-17T08:33:55+00:00</published>
-</entry>
-<entry>
-<id>https://f-droid.org/packages/org.exbin.bined.editor.android/</id>
-<title>BinEd - Binary/Hex Editor</title>
-<updated>2024-10-20T09:03:05+00:00</updated>
-<content type="html">BinEd is a hex editor tool, which allows to directly browse and edit content of any file or binary data.&lt;br>;&lt;br>;App is currently beta with limited functionality.&lt;br>;&lt;br>;Features&lt;br>;--------&lt;br>;&lt;br>;- Visualize data as numerical (hexadecimal) codes and text representation&lt;br>;- Codes can be also binary, octal or decimal&lt;br>;- Support for Unicode, UTF-8 and other charsets&lt;br>;- Insert and overwrite edit modes&lt;br>;- TODO: Searching for text / hexadecimal code with matching highlighting&lt;br>;- Support for undo/redo&lt;br>;- TODO: Support for files with size up to exabytes&lt;br>;&lt;br>;Translations&lt;br>;------------&lt;br>;&lt;br>;- Hindi: Govind S Nair&lt;br>;&lt;br>;</content>
-<link href="https://f-droid.org/packages/org.exbin.bined.editor.android/"/>
-<summary>Editor for binary data (hex viewer/editor)</summary>
-<published>2024-10-13T10:12:48+00:00</published>
-</entry>
-<entry>
-<id>https://f-droid.org/packages/com.tharunbirla.fetchit/</id>
-<title>FetchIt</title>
-<updated>2024-11-05T14:17:05+00:00</updated>
-<content type="html">Welcome to FetchIt! Easily download media from your favorite platforms and save it to your device. 🎥📸&lt;br>;&lt;br>;**Supported Platforms:**&lt;br>;&lt;br>;* YouTube&lt;br>;* Facebook&lt;br>;* Instagram&lt;br>;* Twitter&lt;br>;* TikTok&lt;br>;* Reddit&lt;br>;* Vimeo&lt;br>;* Dailymotion&lt;br>;* Pinterest&lt;br>;* Snapchat&lt;br>;* SoundCloud&lt;br>;* Twitch&lt;br>;* Tumblr&lt;br>;* Bilibili&lt;br>;* Loom&lt;br>;* Streamable&lt;br>;* VK&lt;br>;* Rutube&lt;br>;* Bluesky&lt;br>;* Vine&lt;br>;* OK&lt;br>;&lt;br>;⚠️ **Disclaimer**: The app developer does not have any relationship or agreement with any of the platforms listed above.&lt;br>;&lt;br>;For more info or to report issues, visit the [GitHub repository](https://github.com/tharunbirla/FetchIt/issues).&lt;br>;</content>
-<link href="https://f-droid.org/packages/com.tharunbirla.fetchit/"/>
-<summary>FetchIt download video from YouTube, Twitter, Instagram, Facebook, and more.</summary>
-<published>2024-10-13T09:58:55+00:00</published>
-</entry>
-<entry>
-<id>https://f-droid.org/packages/com.nemesis.droidcrypt/</id>
-<title>DroidCrypt</title>
-<updated>2024-10-27T19:23:41+00:00</updated>
-<content type="html">Description:&lt;br>;&lt;br>;File and text encryption in Android offers crucial benefits in protecting sensitive data. By encrypting files and text, users can prevent unauthorized access, ensuring confidentiality and privacy. This is especially vital in a world where mobile devices often contain personal, financial, and business-related information. Encryption adds an additional layer of security, preventing malicious actors from intercepting or tampering with data, thus mitigating the risk of data breaches and identity theft.&lt;br>;&lt;br>;Features:&lt;br>;&lt;br>;  -  Uses AES-256-GCM for encryption&lt;br>;&lt;br>;  -  Uses Scrypt for key derivation with CPU/Memory cost of 32768, block size of 16, and parallelization of 4&lt;br>;&lt;br>;  -  Built in Java&lt;br>;</content>
-<link href="https://f-droid.org/packages/com.nemesis.droidcrypt/"/>
-<summary>A file and text encryption tool for Android</summary>
-<published>2024-10-13T09:56:04+00:00</published>
-</entry>
-<entry>
-<id>https://f-droid.org/packages/com.justdeax.composeStopwatch/</id>
-<title>Compose Stopwatch</title>
-<updated>2024-11-05T14:16:15+00:00</updated>
-<content type="html">Android-Stoppuhr-App im Material You-Design, entwickelt für einfache Bedienung und beste Funktionen&lt;br>;&lt;br>;► Neue Stoppuhr-Einstellungen&lt;br>;    • Automatischen Start 3 Sekunden nach App-Start mit Übersteuerungsoption aktivieren&lt;br>;    • Vibration für besseres taktiles Feedback aktivieren&lt;br>;    • Aktion bei Tippen auf die Uhr auswählen&lt;br>;&lt;br>;► Kreisförtiger Fortschritt&lt;br>;    • Zeigt den Fortschritt der aktuellen Runde basierend auf der allerersten an&lt;br>;    • Ein Strich auf dem Rundenfortschritt zeigt die vorherige Runde an&lt;br>;&lt;br>;► Thema ändern, neue Themen verfügbar&lt;br>;    • Dynamisches Thema ist nur ab Android 12+ verfügbar&lt;br>;    • Extra Dunkel-Thema spart Akku bei AMOLED-Bildschirmen&lt;br>;&lt;br>;► Ausrichtung ändern&lt;br>;    • Porträtmodus bietet mehr Platz für Runden&lt;br>;    • Im Querformat ist der Zeittext größer&lt;br>;&lt;br>;► Wählen Sie eine Aktion aus, wenn Sie auf die Zeit anzeigende Uhr tippen&lt;br>;    • Fortsetzen oder Pause&lt;br>;    • Fortsetzen oder Runde hinzufügen&lt;br>;    • Fortsetzen oder Stopp&lt;br>;    • Wenn Sie dies nicht möchten, können Sie die Aktion entfernen&lt;br>;&lt;br>;► Benachrichtigungen ein-/ausschalten&lt;br>;    • Stoppuhr-Steuerung in Benachrichtigungen&lt;br>;    • Bei Deaktivierung arbeitet die Stoppuhr mit ViewModel und DataStore&lt;br>;    • Bei Aktivierung arbeitet die Stoppuhr mit LifecycleService und ForegroundService&lt;br>;&lt;br>;► Bildschirm-Wachmodus&lt;br>;    • Möglichkeit, die Stoppuhr zu beobachten, ohne dass der Bildschirm in den Ruhezustand geht</content>
-<link href="https://f-droid.org/packages/com.justdeax.composeStopwatch/"/>
-<summary>Stopwatch in the Material You theme, designed for ease of use and best features</summary>
-<published>2024-10-13T09:54:00+00:00</published>
-</entry>
-<entry>
-<id>https://f-droid.org/packages/chat.seers.app/</id>
-<title>Seers Lodge</title>
-<updated>2024-10-27T19:21:17+00:00</updated>
-<author>
-<name>NAND</name>
-</author>
-<content type="html">Seers Lodge is a feature-rich chat application that runs on the Tox protocol.&lt;br>;This app is designed to be a modern, decentralized alternative to mainstream chat apps without sacrificing the features "we all know and love".&lt;br>;&lt;br>;"Features? What kind?"&lt;br>;- Decentralized P2P calling and messaging&lt;br>;- Peer-to-peer file sharing 👮🏿&lt;br>;- Role-based group chat&lt;br>;- Custom avatars&lt;br>;- Message reactions 👍&lt;br>;- Text effects and styles&lt;br>;- Animated emojis and GIFs&lt;br>;- Embedded URL previews&lt;br>;- Voicemail!&lt;br>;&lt;br>;And much more to come!</content>
-<link href="https://f-droid.org/packages/chat.seers.app/"/>
-<summary>P2P Chat Application</summary>
-<published>2024-10-13T09:48:14+00:00</published>
 </entry>
 </feed>
