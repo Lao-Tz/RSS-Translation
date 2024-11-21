@@ -1,1 +1,66 @@
-<rss version="2.0" xmlns:prism="http://purl.org/rss/1.0/modules/prism/"><channel><title>人类分子遗传学高级访问</title><link/>http://academic.oup.com/hmg<description></description><language> en-us</language><pubDate> Wed, 20 Nov 2024 00:00:00 GMT</pubDate><lastbuilddate> 2024 年 11 月 19 日星期二 23:43:35 GMT</lastbuilddate><generator>银椅</generator><item><title>ZBTB24 是基因和着丝粒上保守的多方面转录因子，控制 DNA 甲基化状态和卫星重复的表达</title><link/>https://academic.oup.com/hmg/advance-article/doi/10.1093/hmg/ddae163/7903426?rss=1<pubDate> Wed, 20 Nov 2024 00:00:00 GMT</pubDate><description> &lt;span class=&quot;paragraphSection&quot;>;&lt;div class=&quot;boxTitle&quot;>;摘要&lt;/div>;自从发现 ZBTB24 作为着丝粒不稳定和面部异常综合征免疫缺陷的致病基因以来，ZBTB24 已成为 DNA 甲基化的关键参与者，免疫和发育。通过广泛分析 ICF 相关小鼠和人类细胞模型中的 ZBTB24 基因组功能，我们在此记录了其作为转录因子的多个方面，在免疫反应相关基因表达以及早期胚胎发育中发挥着关键作用。在小鼠胚胎干细胞中使用组成型 &lt;span style=&quot;font-style:italic;&quot;>;Zbtb24&lt;/span>; ICF 样突变体和生长素诱导的降解决定子系统，我们发现 ZBTB24 被招募到着丝粒卫星 DNA 中，在其中需要通过招募 DNMT3B 来建立和维持正确的 DNA 甲基化模式。 ZBTB24 占据着丝粒卫星 DNA 的能力在人类细胞中是保守的。总之，我们的结果揭示了 ZBTB24 通过控制 DNA 甲基化和转录状态，在小鼠和人类着丝粒卫星重复序列阵列中发挥着重要但未被充分认识的作用。&lt;/span>;</description><prism:startingpage xmlns:prism="prism"> DDAE163</prism:startingpage><prism:doi xmlns:prism="prism"> 10.1093/hmg/ddae163</prism:doi><guid> http://doi.org/10.1093/hmg/ddae163</guid></item><item><title>姜黄素和其他多酚在预防和治疗阿尔茨海默病过程中对 miRNA 的调控</title><link/>https://academic.oup.com/hmg/advance-article/doi/10.1093/hmg/ddae154/7904848?rss=1<pubDate> Tue, 19 Nov 2024 00:00:00 GMT</pubDate><description> &lt;span class=&quot;paragraphSection&quot;>;&lt;div class=&quot;boxTitle&quot;>;摘要&lt;/div>;阿尔茨海默病 (AD) 是一种常见的神经退行性疾病，主要影响 65 岁以上的人群，对有效治疗和治疗提出了重大挑战。治疗。该疾病的发病机制涉及复杂的分子途径，包括错误折叠蛋白质积累、神经炎症和突触功能障碍。最近的研究强调了 microRNA (miRNA) 作为这些通路中关键调节因子的作用，它们影响基因表达并促进 AD 的病理生理学景观。值得注意的是，新兴研究表明，包括姜黄素在内的多酚可能会调节 miRNA 活性，从而提供一种减轻 AD 症状和进展的新方法。这篇综述探讨了多酚调节 miRNA 表达和活性的潜在机制，特别关注 AD 背景下的自噬增强和炎症减轻。我们对将 miRNA 失调与 AD 发病机制联系起来的关键研究进行了详细检查，并讨论了多酚如何纠正这些异常。这里提出的研究结果强调了多酚通过 miRNA 调节在 AD 治疗中的治疗潜力，指出了疾病管理策略的新方向，并强调了对基于 miRNA 的干预措施进行针对性研究的必要性。&lt;/span>;</description><prism:startingpage xmlns:prism="prism"> DDAE154</prism:startingpage><prism:doi xmlns:prism="prism"> 10.1093/hmg/ddae154</prism:doi><guid> http://doi.org/10.1093/hmg/ddae154</guid></item></channel></rss>
+<html><head><script type="text/javascript"><!--
+function leastFactor(n) {
+ if (isNaN(n) || !isFinite(n)) return NaN;
+ if (typeof phantom !== 'undefined') return 'phantom';
+ if (typeof module !== 'undefined' && module.exports) return 'node';
+ if (n==0) return 0;
+ if (n%1 || n*n<2) return 1;
+ if (n%2==0) return 2;
+ if (n%3==0) return 3;
+ if (n%5==0) return 5;
+ var m=Math.sqrt(n);
+ for (var i=7;i<=m;i+=30) {
+  if (n%i==0)      return i;
+  if (n%(i+4)==0)  return i+4;
+  if (n%(i+6)==0)  return i+6;
+  if (n%(i+10)==0) return i+10;
+  if (n%(i+12)==0) return i+12;
+  if (n%(i+16)==0) return i+16;
+  if (n%(i+22)==0) return i+22;
+  if (n%(i+24)==0) return i+24;
+ }
+ return n;
+}
+function go() {
+ var p=1232088832881; var s=3464330051; var n;
+if ((s >> 9) & 1)
+p+=/*
+*13;
+*/3782250*	10;/*
+else p-=
+*/else 	p-=145782504*/*
+*13;
+*/10;/*
+else p-=
+*/if ((s >> 0) & 1) p+=/* 120886108*
+*/669081998* 3;else /* 120886108*
+*/p-=/*
+else p-=
+*/141290956*/*
+*13;
+*/1; if ((s >> 8) & 1)	p+=	51390930* 11;/*
+*13;
+*/else /*
+else p-=
+*/p-=/*
+*13;
+*/234759527*/* 120886108*
+*/9;/*
+*13;
+*/if ((s >> 13) & 1)p+=/*
+p+= */71225982*/* 120886108*
+*/14;/*
+p+= */else p-= 31529758*/* 120886108*
+*/14;
+if ((s >> 12) & 1)/* 120886108*
+*/p+= 57099332* 15;/*
+else p-=
+*/else 
+p-=127783849*/*
+p+= */13;/* 120886108*
+*/ p-=6147405454;
+ n=leastFactor(p);
+{ document.cookie="KEY="+n+"*"+p/n+":"+s+":3180317472:1;path=/; SameSite=none; Secure;";
+  document.location.reload(true); }
+}
+//--></script></head><body onload="go()">加载中...</body></html>
