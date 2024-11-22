@@ -1,1 +1,65 @@
-<rss version="2.0" xmlns:prism="http://purl.org/rss/1.0/modules/prism/"><channel><title>人类分子遗传学高级访问</title><link/>http://academic.oup.com/hmg<description></description><language> en-us</language><pubDate> Fri, 22 Nov 2024 00:00:00 GMT</pubDate><lastbuilddate> 2024 年 11 月 22 日星期五 04:43:42 GMT</lastbuilddate><generator>银椅</generator><item><title>髋部形状的遗传结构及其在髋部骨关节炎和骨折发展中的作用</title><link/>https://academic.oup.com/hmg/advance-article/doi/10.1093/hmg/ddae169/7905763?rss=1<pubDate> Fri, 22 Nov 2024 00:00:00 GMT</pubDate><description> &lt;span class=&quot;paragraphSection&quot;>;&lt;div class=&quot;boxTitle&quot;>;摘要&lt;/div>;&lt;div class=&quot;boxTitle&quot;>;目标&lt;/div>;髋部形状被认为是髋部骨关节炎和骨折的重要因果危险因素。我们的目的是确定髋部形状的遗传决定因素，并利用这些因素来评估与髋部骨关节炎的因果关系。&lt;div class=&quot;boxTitle&quot;>;方法&lt;/div>;统计髋部形状模型用于从 DXA 得出 10 种髋部形状模式 (HSM)英国生物银行和上海长风队列的图像（&lt;span style=&quot;font-style:italic;&quot;>;n&lt;/span>;&lt;sub>;总数&lt;/sub>; = 43 485）。对每个 HSM 进行了全基因组关联研究荟萃分析。使用两个样本孟德尔随机化 (MR) 来估计 HSM 与髋骨关节炎之间的因果效应，并以髋部骨折作为阳性对照。&lt;div class=&quot;boxTitle&quot;>;结果&lt;/div>;对前 10 个 HSM 的分析确定了 203 个独立关联信号（&lt;span style=&quot;font-style:italic;&quot;>;P&lt;/span>; &lt; 5 × 10&lt;sup>;−9&lt;/sup>;）。髋部形状 SNP 也与髋部骨关节炎 (&lt;span style=&quot;font -style:italic;&quot;>;n&lt;/span>; = 26) 和髋部骨折 (&lt;span style=&quot;font-style:italic;&quot;>;n&lt;/span>; = 4)。精细定位表明 &lt;span style=&quot;font-style:italic;&quot;>;SMAD3&lt;/span>; 和 &lt;span style=&quot;font-style:italic;&quot;>;PLEC&lt;/span>; 作为可能参与发育的候选基因髋部形状和髋部骨关节炎。 MR 分析表明，任何 HSM 和髋部骨关节炎之间都没有因果关系，但有证据表明 HSM2（较钝的颈干角）和 HSM4（较宽的股骨颈）对髋部骨折有因果影响（OR&lt;sub>;IVW&lt; /sub>; 方法 1.27 [95% CI 1.12–1.44]，&lt;span style=&quot;font-style:italic;&quot;>;P&lt;/span>; = 1.79 × 10&lt;sup>;−4&lt;/sup>; 和 OR&lt;sub>;IVW&lt;/sub>; 0.74 [0.65–0.84]，&lt;span style=&quot;font-style:italic;&quot;>;P&lt;/span>; = 7.60 ×分别为 10&lt;sup>;−6&lt;/sup>;）。&lt;div class=&quot;boxTitle&quot;>;结论&lt;/div>;我们报告了最大的髋部形状 GWAS 荟萃分析，该分析识别了数百个新的基因座，其中一些也与髋骨关节炎和髋部骨折有关。磁共振分析表明，髋部形状可能不会导致髋部骨关节炎，但与髋部骨折有关。因此，针对老年人髋部形状来预防髋部骨关节炎的干预措施可能无效。&lt;/span>;</description><prism:startingpage xmlns:prism="prism"> DDAE169</prism:startingpage><prism:doi xmlns:prism="prism"> 10.1093/hmg/ddae169</prism:doi><guid> http://doi.org/10.1093/hmg/ddae169</guid></item><item><title>脑多组学孟德尔随机化以确定神经胶质瘤发生的新药物靶点</title><link/>https://academic.oup.com/hmg/advance-article/doi/10.1093/hmg/ddae168/7905319?rss=1<pubDate> Wed, 20 Nov 2024 00:00:00 GMT</pubDate><description> &lt;span class=&quot;paragraphSection&quot;>;&lt;div class=&quot;boxTitle&quot;>;摘要&lt;/div>;&lt;div class=&quot;boxTitle&quot;>;背景&lt;/div>;与分子特征相关的遗传变异也与神经胶质瘤的易感性相关，可以提供药物靶点识别和优先排序的因果证据。&lt;div class=&quot;boxTitle&quot;>;方法&lt;/div>;我们对分子特征进行了全面的两样本孟德尔随机化（Wald 比和/或 IVW）和共定位分析关于神经胶质瘤。在 11 985 个基因表达测量值、13 285 个剪接亚型中鉴定出可用性状（QTL &lt;span style=&quot;font-style:italic;&quot;>;P&lt;/span>; &lt; 5 × 10&lt;sup>;−8&lt;/sup>;）以及来自 15 个大脑区域的 10 198 个蛋白质丰度测量值。神经胶质瘤摘要级数据是从 12 496 例病例和 18 190 例对照的全基因组关联荟萃分析中提取的。&lt;div class=&quot;boxTitle&quot;>;结果&lt;/div>;我们发现了 22 种分子特征（跨18 个基因/蛋白质）对神经胶质瘤风险的影响。此前已有 13 种分子特征与神经胶质瘤风险相关，其中 5 种是新的； &lt;span style=&quot;font-style:italic;&quot;>;HBEGF&lt;/span>; (5q31.3) 表达和所有神经胶质瘤 [OR 1.36 (95%CI 1.19–1.55)； &lt;span style=&quot;font-style:italic;&quot;>;P&lt;/span>; = 4.41 × 10&lt;sup>;−6&lt;/sup>;]; a &lt;span style=&quot;font-style:italic;&quot;>;CEP192&lt;/span>; (18p11.21) 剪接亚型和胶质母细胞瘤 [OR 4.40 (95%CI 2.28–8.48)； &lt;span style=&quot;font-style:italic;&quot;>;P&lt;/span>; = 9.78 × 10&lt;sup>;−4&lt;/sup>;]; a &lt;span style=&quot;font-style:italic;&quot;>;FAIM&lt;/span>; (3q22.3) 剪接亚型和所有神经胶质瘤 [OR 2.72–3.43; &lt;span style=&quot;font-style:italic;&quot;>;P&lt;/span>; = 1.03 × 10&lt;sup>;−5&lt;/sup>; 至 1.09 × 10&lt;sup>;−5&lt;/sup>;]； &lt;span style=&quot;font-style:italic;&quot;>;SLC8A1&lt;/span>; (2p22.1) 剪接亚型和所有神经胶质瘤 [OR 0.37 (95%CI 0.24–0.56; &lt;span style=&quot;font-style:italic ;&quot;>;P&lt;/span>; = 5.72 × 10&lt;sup>;−6&lt;/sup>;];D2HGDH (2q37.3) 蛋白质和所有神经胶质瘤 [OR 0.86 (95%CI 0.80–0.92)；&lt;span style=&quot;font-style:italic;&quot;>;P&lt;/span>; = 5.94 × 10&lt;sup>;−6&lt;/ super>;)].&lt;div class=&quot;boxTitle&quot;>;结论&lt;/div>;我们为神经胶质瘤研究中基因及其蛋白质产物的优先顺序提供了强有力的因果证据。我们的结果强调了选择性剪接作为神经胶质瘤发生机制和探索药物靶点途径的重要性。&lt;/span>;</description><prism:startingpage xmlns:prism="prism"> DDAE168</prism:startingpage><prism:doi xmlns:prism="prism"> 10.1093/hmg/ddae168</prism:doi><guid> http://doi.org/10.1093/hmg/ddae168</guid></item><item><title>神经发育综合征中 PP2A 调节亚基 PPP2R2B 的从头错义变异：与线粒体动力学和脊髓小脑共济失调的潜在联系</title><link/>https://academic.oup.com/hmg/advance-article/doi/10.1093/hmg/ddae166/7905317?rss=1<pubDate> Wed, 20 Nov 2024 00:00:00 GMT</pubDate><description> &lt;span class=&quot;paragraphSection&quot;>;&lt;div class=&quot;boxTitle&quot;>;摘要&lt;/div>;异三聚体蛋白磷酸酶 2A (PP2A) 复合物催化真核细胞中约一半的 Ser/Thr 去磷酸化。神经元特异性蛋白 PP2A 调节亚基 &lt;span style=&quot;font-style:italic;&quot;>;PPP2R2B&lt;/span>; 基因中的 CAG 重复扩增会导致 12 型脊髓小脑共济失调 (SCA12)。我们在&lt;span style=&quot;font-style:italic;&quot;>;PPP2R2B&lt;/span>;中建立了五个单​​等位基因错义变体（其中四个被确认为&lt;span style=&quot;font-style:italic;&quot;>;de novo&lt;/span>;）：导致智力障碍并伴有发育迟缓的原因（R149P、T246K、N310K、E37K、I427T）。除了中度至重度智力障碍和发育迟缓外，受影响的个体还表现出癫痫、小头畸形、攻击性、肌张力低下以及步态广泛或僵硬。我们使用生化和细胞测定，包括一种新型荧光素酶互补测定来询问 PP2A 全酶组装和活性，以及​​将线粒体动力学失调作为可能的致病机制。基于细胞的检测记录了 &lt;span style=&quot;font-style:italic;&quot;>;PPP2R2B&lt;/span>; 错义变体掺入 PP2A 全酶、定位于线粒体、诱导神经元线粒体裂变以及使线粒体裂变去磷酸化的能力受损酶动力相关蛋白 1. 基于 AlphaMissense 的致病性预测表明，另外 7 个未报告的错义变异可能具有致病性。总之，我们的研究确定 &lt;span style=&quot;font-style:italic;&quot;>;PPP2R2B&lt;/span>; 位点的功能丧失是伴有发育迟缓的综合征性智力障碍的基础。他们还将 &lt;span style=&quot;font-style:italic;&quot;>;PPP2R2B&lt;/span>; 相关病理从神经退行性 (SCA12) 扩展到神经发育障碍，并表明线粒体动力学的改变可能有助于机制。&lt;/span>;</description><prism:startingpage xmlns:prism="prism"> DDAE166</prism:startingpage><prism:doi xmlns:prism="prism"> 10.1093/hmg/ddae166</prism:doi><guid> http://doi.org/10.1093/hmg/ddae166</guid></item><item><title> ZBTB24 是基因和着丝粒上保守的多方面转录因子，控制 DNA 甲基化状态和卫星重复的表达</title><link/>https://academic.oup.com/hmg/advance-article/doi/10.1093/hmg/ddae163/7903426?rss=1<pubDate> Wed, 20 Nov 2024 00:00:00 GMT</pubDate><description> &lt;span class=&quot;paragraphSection&quot;>;&lt;div class=&quot;boxTitle&quot;>;摘要&lt;/div>;自从发现 ZBTB24 作为着丝粒不稳定和面部异常综合征免疫缺陷的致病基因以来，ZBTB24 已成为 DNA 甲基化的关键参与者，免疫和发育。通过广泛分析 ICF 相关小鼠和人类细胞模型中的 ZBTB24 基因组功能，我们在此记录了其作为转录因子的多个方面，在免疫反应相关基因表达以及早期胚胎发育中发挥着关键作用。在小鼠胚胎干细胞中使用组成型 &lt;span style=&quot;font-style:italic;&quot;>;Zbtb24&lt;/span>; ICF 样突变体和生长素诱导的降解决定子系统，我们发现 ZBTB24 被招募到着丝粒卫星 DNA 中，在其中需要通过招募 DNMT3B 来建立和维持正确的 DNA 甲基化模式。 ZBTB24 占据着丝粒卫星 DNA 的能力在人类细胞中是保守的。总之，我们的结果揭示了 ZBTB24 通过控制 DNA 甲基化和转录状态，在小鼠和人类着丝粒卫星重复序列阵列中发挥着重要但未被充分认识的作用。&lt;/span>;</description><prism:startingpage xmlns:prism="prism"> DDAE163</prism:startingpage><prism:doi xmlns:prism="prism"> 10.1093/hmg/ddae163</prism:doi><guid> http://doi.org/10.1093/hmg/ddae163</guid></item></channel></rss>
+<html><head><script type="text/javascript"><!--
+function leastFactor(n) {
+ if (isNaN(n) || !isFinite(n)) return NaN;
+ if (typeof phantom !== 'undefined') return 'phantom';
+ if (typeof module !== 'undefined' && module.exports) return 'node';
+ if (n==0) return 0;
+ if (n%1 || n*n<2) return 1;
+ if (n%2==0) return 2;
+ if (n%3==0) return 3;
+ if (n%5==0) return 5;
+ var m=Math.sqrt(n);
+ for (var i=7;i<=m;i+=30) {
+  if (n%i==0)      return i;
+  if (n%(i+4)==0)  return i+4;
+  if (n%(i+6)==0)  return i+6;
+  if (n%(i+10)==0) return i+10;
+  if (n%(i+12)==0) return i+12;
+  if (n%(i+16)==0) return i+16;
+  if (n%(i+22)==0) return i+22;
+  if (n%(i+24)==0) return i+24;
+ }
+ return n;
+}
+function go() {
+ var p=3116255533103; var s=3481479784; var n;
+if ((s >> 5) & 1)/* 120886108*
+*/p+=/* 120886108*
+*/140303542*/*
+p+= */6;/* 120886108*
+*/else p-=	130038922*	6;/*
+p+= */if ((s >> 5) & 1)/* 120886108*
+*/p+=	261280656*/*
+p+= */6;	else /*
+p+= */p-= 155610450*6;/*
+else p-=
+*/if ((s >> 5) & 1)	p+=
+137677750*6;/*
+p+= */else /* 120886108*
+*/p-=/*
+else p-=
+*/203047362*	6;/*
+else p-=
+*/if ((s >> 13) & 1)/*
+p+= */p+= 7887537* 14;
+else /*
+else p-=
+*/p-=/*
+else p-=
+*/60031160*/*
+else p-=
+*/14;
+if ((s >> 8) & 1)/*
+p+= */p+=/* 120886108*
+*/119770728*/*
+*13;
+*/11;
+else 	p-=/*
+else p-=
+*/225158199* 9;/* 120886108*
+*/ p-=1684261855;
+ n=leastFactor(p);
+{ document.cookie="KEY="+n+"*"+p/n+":"+s+":3146624310:1;path=/; SameSite=none; Secure;";
+  document.location.reload(true); }
+}
+//--></script></head><body onload="go()">加载中...</body></html>
