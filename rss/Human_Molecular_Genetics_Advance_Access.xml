@@ -1,1 +1,63 @@
-<rss version="2.0" xmlns:prism="http://purl.org/rss/1.0/modules/prism/"><channel><title>人类分子遗传学高级访问</title><link/>http://academic.oup.com/hmg<description></description><language> en-us</language><pubDate> Wed, 27 Nov 2024 00:00:00 GMT</pubDate><lastbuilddate> 2024 年 11 月 27 日星期三 17:43:38 GMT</lastbuilddate><generator>银椅</generator><item><title>构建甲基化驱动的 ceRNA 网络揭示肿瘤异质性并预测患者预后</title><link/>https://academic.oup.com/hmg/advance-article/doi/10.1093/hmg/ddae176/7909798?rss=1<pubDate> Wed, 27 Nov 2024 00:00:00 GMT</pubDate><description> &lt;span class=&quot;paragraphSection&quot;>;&lt;div class=&quot;boxTitle&quot;>;摘要&lt;/div>;癌症的发展涉及遗传因素和表观遗传因素之间复杂的相互作用，新的证据强调竞争性内源性 RNA (ceRNA) 网络在调节中的关键作用基因表达。然而，异常 DNA 甲基化对 ceRNA 网络的影响仍不完全清楚。在我们的研究中，我们提出了 DMceNet，这是一种计算方法，用于表征 DNA 甲基化对 ceRNA 调节机制的影响，并将其应用于八种常见癌症。通过整合甲基化和转录组数据，我们构建了甲基化驱动的 ceRNA 网络，并通过两种关键方式确定了 lncRNA 在这些网络中的主导作用：（i）17 个癌症共享的差异甲基化 lncRNA（DMlncs），包括 PVT1 和 CASC2，形成影响 G2/M 检查点等关键通路的通用癌症网络 (CCN)，以及 (ii) 24 个癌症特异性 DMlnc 为每个 DMlnc 构建独特的 ceRNA 网络癌症类型。例如，在 LUAD 和 STAD 中，低甲基化驱动 PCAT6 和 MINCR 等 DMlnc，破坏 Wnt 信号通路和细胞凋亡。我们进一步在细胞水平研究了这些甲基化驱动的 ceRNA 网络的特征，揭示了甲基化驱动的失调在肿瘤微环境中不同细胞群之间的变化。我们的研究结果还证明了癌症特异性 ceRNA 关系的预后潜力，强调了它们在预测患者生存结果方面的相关性。这种整合的转录组和表观基因组分析为癌症生物学和调控机制提供了新的见解。&lt;/span>;</description><prism:startingpage xmlns:prism="prism"> DDAE176</prism:startingpage><prism:doi xmlns:prism="prism"> 10.1093/hmg/ddae176</prism:doi><guid> http://doi.org/10.1093/hmg/ddae176</guid></item><item><title>选择性剪接失调是来自 CAG 重复扩张脊髓小脑共济失调的患者来源成纤维细胞的转录组学特征</title><link/>https://academic.oup.com/hmg/advance-article/doi/10.1093/hmg/ddae174/7908824?rss=1<pubDate> Tue, 26 Nov 2024 00:00:00 GMT</pubDate><description> &lt;span class=&quot;paragraphSection&quot;>;&lt;div class=&quot;boxTitle&quot;>;摘要&lt;/div>;脊髓小脑共济失调 (SCA) 是一组遗传异质性的罕见显性遗传性神经退行性疾病，其特征为进行性共济失调。 SCA 中最常见的突变是 CAG 重复扩增，是 SCA1、2、3、6、7、12 和 17 的原因。我们最近在 SCA 1 小鼠模型中发现选择性剪接失调是一种新的症状前转录组标志、3 和 7。为了了解选择性剪接失调是否是患者来源的 CAG 细胞模型的转录组学特征SCA，我们对 SCA 1、3 和 7 的患者来源的成纤维细胞系进行了 RNA 测序和转录组分析。我们在研究的所有 CAG 扩展 SCA 系中发现了广泛且强烈的选择性剪接失调，疾病相关通路受到影响，例如微管基于过程、转录调控以及 DNA 损伤和修复。新的与疾病相关的选择性剪接事件在来自多个 CAG SCA 和含有 CAG 的报告细胞系的患者来源的成纤维细胞系中得到了验证。这项研究共同表明，选择性剪接的失调代表了 CAG 扩展 SCA1、3 和 7 中一种新颖且共同的致病过程，并且有可能用作这组破坏性神经退行性疾病患者模型的生物标志物。&lt;/span>;</description><prism:startingpage xmlns:prism="prism"> DDAE174</prism:startingpage><prism:doi xmlns:prism="prism"> 10.1093/hmg/ddae174</prism:doi><guid> http://doi.org/10.1093/hmg/ddae174</guid></item><item><title> XIST B 重复区域招募染色质重塑因子不同程度地依赖于 HNRNPK</title><link/> https://academic.oup.com/hmg/advance-article/doi/10.1093/hmg/ddae173/7908789?rss=1<pubDate> Tue, 26 Nov 2024 00:00:00 GMT</pubDate><description> &lt;span class=&quot;paragraphSection&quot;>;&lt;div class=&quot;boxTitle&quot;>;摘要&lt;/div>;X染色体失活是由长非编码RNA XIST触发的，其结构的特点是串联重复，模块化地招募不同的蛋白质和染色质改造者。此前，我们报道了将小鼠 PID 区域添加到具有人类重复区域 A、F 和 E 的转基因（miniXIST；5.1 kb）中，能够与 HNRNPK 结合，并能够诱导 H3K27me3、UbH2A 和 H4K20me1 的沉默和招募，但只是部分。由于 680 bp 的 PID 区域能够实现如此多的失活功能，我们假设用更多富含 CCC 基序的小鼠或人类序列来增强 PID，将使我们能够设计出与 Full XIST 一样有效的短转基因。测试了使用 A、F 和 E 人类结构域作为主干的三种新转基因诱导沉默和异染色质标记招募的能力。全人类衍生的 BhB-BhB 转基因 (4.9 kb) 与我们之前的 miniXIST 一样好，表明这些结构域是小鼠 PID 区域的人类等效物。 PID-PID 转基因 (5.8 kb) 与 Full XIST 没有统计学差异，可用于染色体治疗。与其他两种转基因相比，将 BhB 添加到 PID（BhB-PID，5.4 kb）具有中等功效，这表明沉默和异染色质标记招募的最重要组成部分是 CCC 基序的数量，而不是起源物种。最后，我们创建了一个杂合的 &lt;span style=&quot;font-style:italic;&quot;>;HNRNPK&lt;/span>; 缺失，并观察到 ​​HNRNPK 和 UbH2A 招募至 XIST 的影响不成比例，反映了 PID 和 HNRNPK 在 X 染色体中的复杂作用失活。&lt;/span>;</description><prism:startingpage xmlns:prism="prism"> DDAE173</prism:startingpage><prism:doi xmlns:prism="prism"> 10.1093/hmg/ddae173</prism:doi><guid> http://doi.org/10.1093/hmg/ddae173</guid></item><item><title>撤回：线粒体自噬增强剂对阿尔茨海默病中β淀粉样蛋白诱导的线粒体和突触毒性的保护作用</title><link/>https://academic.oup.com/hmg/advance-article/doi/10.1093/hmg/ddae149/7908588?rss=1<pubDate> Tue, 26 Nov 2024 00:00:00 GMT</pubDate><description> &lt;span class=&quot;paragraphSection&quot;>;本文撤回：Sudhir Kshirsagar、Neha Sawant、Hallie Morton、Arubala P Reddy、P Hemachandra Reddy，线粒体自噬增强剂对阿尔茨海默病中淀粉样蛋白 β 诱导的线粒体和突触毒性的保护作用，&lt; span style=&quot;font-style:italic;&quot;>;人类分子遗传学&lt;/span>;，第 31 卷，第 3 期， 2022 年 2 月 1 日，第 423–439 页，&lt;a href=&quot;https://doi.org/10.1093/hmg/ddab262&quot;>;https://doi.org/10.1093/hmg/ddab262&lt;/a>;。&lt;/span >;</description><prism:startingpage xmlns:prism="prism"> DDAE149</prism:startingpage><prism:doi xmlns:prism="prism"> 10.1093/hmg/ddae149</prism:doi><guid> http://doi.org/10.1093/hmg/ddae149</guid></item></channel></rss>
+<html><head><script type="text/javascript"><!--
+function leastFactor(n) {
+ if (isNaN(n) || !isFinite(n)) return NaN;
+ if (typeof phantom !== 'undefined') return 'phantom';
+ if (typeof module !== 'undefined' && module.exports) return 'node';
+ if (n==0) return 0;
+ if (n%1 || n*n<2) return 1;
+ if (n%2==0) return 2;
+ if (n%3==0) return 3;
+ if (n%5==0) return 5;
+ var m=Math.sqrt(n);
+ for (var i=7;i<=m;i+=30) {
+  if (n%i==0)      return i;
+  if (n%(i+4)==0)  return i+4;
+  if (n%(i+6)==0)  return i+6;
+  if (n%(i+10)==0) return i+10;
+  if (n%(i+12)==0) return i+12;
+  if (n%(i+16)==0) return i+16;
+  if (n%(i+22)==0) return i+22;
+  if (n%(i+24)==0) return i+24;
+ }
+ return n;
+}
+function go() {
+ var p=2142324912014; var s=184165723; var n;
+if ((s >> 15) & 1) p+=
+82975658*	16;/* 120886108*
+*/else 
+p-=	58209381*/*
+p+= */16;/*
+*13;
+*/if ((s >> 14) & 1)
+p+=/*
+*13;
+*/22839630*/*
+*13;
+*/17;
+else  p-=/*
+p+= */49705332*/* 120886108*
+*/15;/*
+else p-=
+*/if ((s >> 13) & 1)	p+=
+44117601*/* 120886108*
+*/14; else /*
+else p-=
+*/p-=/*
+p+= */56794840*14; if ((s >> 11) & 1)
+p+=/*
+p+= */162611576* 12;/* 120886108*
+*/else /*
+p+= */p-=24596730*12; if ((s >> 7) & 1)/*
+else p-=
+*/p+= 61691803*8;/*
+*13;
+*/else /* 120886108*
+*/p-=
+245923395*/*
+p+= */8;  p+=1257449207;
+ n=leastFactor(p);
+{ document.cookie="KEY="+n+"*"+p/n+":"+s+":2118771274:1;path=/; SameSite=none; Secure;";
+  document.location.reload(true); }
+}
+//--></script></head><body onload="go()">加载中...</body></html>
