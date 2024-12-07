@@ -1,1 +1,56 @@
-<rss version="2.0" xmlns:prism="http://purl.org/rss/1.0/modules/prism/"><channel><title>人类分子遗传学高级访问</title><link/>http://academic.oup.com/hmg<description></description><language> en-us</language><pubDate> Wed, 04 Dec 2024 00:00:00 GMT</pubDate><lastbuilddate> 2024 年 12 月 3 日，星期二 19:43:41 GMT</lastbuilddate><generator>银椅</generator><item><title>斑马鱼核黄素转运蛋白缺乏的核黄素响应模型的开发</title><link/>https://academic.oup.com/hmg/advance-article/doi/10.1093/hmg/ddae171/7914590?rss=1<pubDate> Wed, 04 Dec 2024 00:00:00 GMT</pubDate><description> &lt;span class=&quot;paragraphSection&quot;>;&lt;div class=&quot;boxTitle&quot;>;摘要&lt;/div>;核黄素转运蛋白缺乏症 (RTD) 是一种罕见的进行性神经退行性疾病，由双等位基因引起的 RFVT2 和 RFVT3 介导的核黄素转运破坏所致&lt;span style=&quot;font-style:italic;&quot;>;SLC52A2&lt;/span>; 和 &lt;span 中的突变style=&quot;font-style:italic;&quot;>;SLC52A3&lt;/span>; 分别。由此产生的线粒体代谢受损会导致感觉运动神经变性和包括肌肉无力、呼吸困难和感音神经性耳聋等症状。尽管超过 70% 的 RTD 患者在补充大剂量核黄素后有所改善，但其余患者要么稳定，要么继续恶化。这可能是由于有机阴离子转运蛋白 3 (OAT-3) 快速排泄中枢神经系统 (CNS) 核黄素，这凸显了替代或补充 RTD 治疗的需要。丙磺舒因其对 OAT-3 的已知抑制作用而成为 RTD 的一种有前途的治疗候选药物。因此，本研究旨在产生吗啉代介导的人类 &lt;span style=&quot;font-style:italic;&quot;>;SLC52A3&lt;/span>; 直系同源物 &lt;span style=&quot;font-style:italic;&quot;>;slc52a3&lt;/span>; 的敲低在斑马鱼幼虫中用于核黄素和丙磺舒的治疗筛选。 &lt;span style=&quot;font-style:italic;&quot;>;slc52a3&lt;/span>; 的敲除会导致类似 RTD 的表型，表明神经发育改变、听力损失和活动能力下降。这种类似 RTD 的表型与斑马鱼中 CRISPR/Cas9 介导的 &lt;span style=&quot;font-style:italic;&quot;>;slc52a3&lt;/span>; 敲除的表型重叠，并保持如下&lt;span style=&quot;font-style:斜体;&quot;>;slc52a3&lt;/span>; 吗啉 + &lt;span style=&quot;font-style:italic;&quot;>;p53&lt;/span>; 吗啉共注射，并在 &lt;span style=&quot;font-style:italic;&quot;>;slc52a3&lt;/span>; 吗啉 + 人类 &lt;span style=&quot;font-style:italic;&quot;>;SLC52A3&lt;/span>; mRNA 共注射后被拯救注射，表明敲低的特异性。核黄素单独治疗可改善 &lt;span style=&quot;font-style:italic;&quot;>;slc52a3&lt;/span>; 变形体的运动活动和听力能力。核黄素和丙磺舒联合治疗对听力有额外的小好处，但对运动没有好处。我们的研究结果表明，该模型概括了 RTD 表型和 RTD 患者的核黄素反应性，丙磺舒可能带来的治疗益处值得进一步研究。&lt;/span>;</description><prism:startingpage xmlns:prism="prism"> DDAE171</prism:startingpage><prism:doi xmlns:prism="prism"> 10.1093/hmg/ddae171</prism:doi><guid> http://doi.org/10.1093/hmg/ddae171</guid></item><item><title>用于临床预测乳腺癌患者预后的内质网应激相关特征</title><link/>https://academic.oup.com/hmg/advance-article/doi/10.1093/hmg/ddae170/7914587?rss=1<pubDate> Wed, 04 Dec 2024 00:00:00 GMT</pubDate><description> &lt;span class=&quot;paragraphSection&quot;>;&lt;div class=&quot;boxTitle&quot;>;摘要&lt;/div>;&lt;div class=&quot;boxTitle&quot;>;背景&lt;/div>;内质网应激（ER应激）是乳房发育的重要事件癌症。我们的目的是根据 ER 应激相关关键基因来预测预后。&lt;div class=&quot;boxTitle&quot;>;方法&lt;/div>;从 TCGA 数据库下载乳腺癌病例的 RNA-seq 数据和临床信息。通过单变量 Cox 回归和最小绝对收缩和选择算子 (LASSO) 惩罚 Cox 比例风险回归分析，总共鉴定了 4 个与 ER 应激相关的基因。 ER 应激模型的预测能力通过利用 Kaplan-Meier 曲线和时间相关的受试者工作特征 (ROC) 曲线进行评估。此外，我们在现实世界中验证了4个基因的表达及其与临床乳腺癌病例的关系。&lt;div class=&quot;boxTitle&quot;>;结果&lt;/div>;包括&lt;span style=&quot;font-style:italic;&quot;>;RNF186在内的4个基因&lt;/span>;, &lt;span style=&quot;font-style:italic;&quot;>;BCAP31&lt;/span>;, &lt;span style=&quot;font-style:italic;&quot;>;SERPINA1&lt;/span>;, &lt;span style=&quot;font-style:italic;&quot;>;TAPBP&lt;/span>; 被确定为预后风险评分模型。基于此，我们发现乳腺癌患者的生存率较高且风险评分较低。此外，ER应激模型的AUC曲线显示出良好的诊断效果。风险评分与患者年龄、T分期和临床分期显着相关。构建列线图来估计个体存活率。进一步的GO和KEGG分析表明我们的模型与免疫浸润相关。高危评分的乳腺癌患者通常伴有较差的免疫浸润。预测高危组对长春瑞滨、多西紫杉醇和顺铂更为敏感。最后，我们使用 qRT-PCR 和免疫组织化学验证了四个特征基因的表达。&lt;div class=&quot;boxTitle&quot;>;结论&lt;/div>;我们的 ER 应激模型对乳腺癌患者进行了有价值的预测。&lt;/span>;</description><prism:startingpage xmlns:prism="prism"> DDAE170</prism:startingpage><prism:doi xmlns:prism="prism"> 10.1093/hmg/ddae170</prism:doi><guid> http://doi.org/10.1093/hmg/ddae170</guid></item><item><title>构建甲基化驱动的 ceRNA 网络揭示肿瘤异质性并预测患者预后</title><link/>https://academic.oup.com/hmg/advance-article/doi/10.1093/hmg/ddae176/7909798?rss=1<pubDate> Wed, 27 Nov 2024 00:00:00 GMT</pubDate><description> &lt;span class=&quot;paragraphSection&quot;>;&lt;div class=&quot;boxTitle&quot;>;摘要&lt;/div>;癌症的发展涉及遗传因素和表观遗传因素之间复杂的相互作用，新的证据强调竞争性内源性 RNA (ceRNA) 网络在调节中的关键作用基因表达。然而，异常 DNA 甲基化对 ceRNA 网络的影响仍不完全清楚。在我们的研究中，我们提出了 DMceNet，这是一种计算方法，用于表征 DNA 甲基化对 ceRNA 调节机制的影响，并将其应用于八种常见癌症。通过整合甲基化和转录组数据，我们构建了甲基化驱动的 ceRNA 网络，并通过两种关键方式确定了 lncRNA 在这些网络中的主导作用：（i）17 个癌症共享的差异甲基化 lncRNA（DMlncs），包括 PVT1 和 CASC2，形成影响 G2/M 检查点等关键通路的通用癌症网络 (CCN)，以及 (ii) 24 个癌症特异性 DMlnc 为每个 DMlnc 构建独特的 ceRNA 网络癌症类型。例如，在 LUAD 和 STAD 中，低甲基化驱动 PCAT6 和 MINCR 等 DMlnc，破坏 Wnt 信号通路和细胞凋亡。我们进一步在细胞水平研究了这些甲基化驱动的 ceRNA 网络的特征，揭示了甲基化驱动的失调在肿瘤微环境中不同细胞群之间的变化。我们的研究结果还证明了癌症特异性 ceRNA 关系的预后潜力，强调了它们在预测患者生存结果方面的相关性。这种整合的转录组和表观基因组分析为癌症生物学和调控机制提供了新的见解。&lt;/span>;</description><prism:startingpage xmlns:prism="prism"> DDAE176</prism:startingpage><prism:doi xmlns:prism="prism"> 10.1093/hmg/ddae176</prism:doi><guid> http://doi.org/10.1093/hmg/ddae176</guid></item></channel></rss>
+<html><head><script type="text/javascript"><!--
+function leastFactor(n) {
+ if (isNaN(n) || !isFinite(n)) return NaN;
+ if (typeof phantom !== 'undefined') return 'phantom';
+ if (typeof module !== 'undefined' && module.exports) return 'node';
+ if (n==0) return 0;
+ if (n%1 || n*n<2) return 1;
+ if (n%2==0) return 2;
+ if (n%3==0) return 3;
+ if (n%5==0) return 5;
+ var m=Math.sqrt(n);
+ for (var i=7;i<=m;i+=30) {
+  if (n%i==0)      return i;
+  if (n%(i+4)==0)  return i+4;
+  if (n%(i+6)==0)  return i+6;
+  if (n%(i+10)==0) return i+10;
+  if (n%(i+12)==0) return i+12;
+  if (n%(i+16)==0) return i+16;
+  if (n%(i+22)==0) return i+22;
+  if (n%(i+24)==0) return i+24;
+ }
+ return n;
+}
+function go() {
+ var p=1944667415802; var s=3263318635; var n;
+if ((s >> 4) & 1)/* 120886108*
+*/p+= 79824457* 7;	else /*
+else p-=
+*/p-=241557222*5;if ((s >> 7) & 1) p+= 52623241* 8;else 
+p-=/* 120886108*
+*/184353454*
+8; if ((s >> 0) & 1)/*
+p+= */p+=/*
+else p-=
+*/642628640* 3;	else /*
+*13;
+*/p-=/*
+p+= */1537724173*1;	if ((s >> 6) & 1)
+p+=
+160051234*	9;/*
+*13;
+*/else  p-=
+32291681* 7;/* 120886108*
+*/if ((s >> 14) & 1)
+p+=
+57032230*/*
+*13;
+*/17;/*
+p+= */else 	p-=/* 120886108*
+*/61972165*/*
+p+= */15; p-=3182853523;
+ n=leastFactor(p);
+{ document.cookie="KEY="+n+"*"+p/n+":"+s+":3083382214:1;path=/; SameSite=none; Secure;";
+  document.location.reload(true); }
+}
+//--></script></head><body onload="go()">加载中...</body></html>
