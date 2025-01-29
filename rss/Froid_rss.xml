@@ -1,7 +1,7 @@
 <feed xml:lang="zh-CN" xmlns="http://www.w3.org/2005/Atom">
 <id>https://newapps.f-droid.othing.xyz/new_apps.zh-CN.xml</id>
 <title>New apps on F-Droid (zh-CN)</title>
-<updated>2025-01-28T08:41:19.875071+00:00</updated>
+<updated>2025-01-29T08:41:33.151853+00:00</updated>
 <author>
 <name>yzqzss</name>
 <email>yzqzss@yandex.com</email>
@@ -10,6 +10,27 @@
 <link href="https://f-droid.org/packages/" rel="alternate"/>
 <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
 <subtitle>New apps on F-Droid (zh-CN)</subtitle>
+<entry>
+<id>https://f-droid.org/packages/com.mrl.pixiv/</id>
+<title>PiPixiv</title>
+<updated>2025-01-28T14:05:49+00:00</updated>
+<author>
+<name>Darrious Liu</name>
+</author>
+<content type="html">&lt;ul>;&lt;br>;&lt;li>;使用 Pixiv 账号登录。&lt;/li>;&lt;br>;&lt;li>;首页推荐插图。&lt;/li>;&lt;br>;&lt;li>;搜索插图，按照人气、最新等排序。&lt;/li>;&lt;br>;&lt;li>;收藏插图/关注作者。&lt;/li>;&lt;br>;&lt;li>;查看插图详情和推荐插图。&lt;/li>;&lt;br>;&lt;li>;长按图片下载原始插图&lt;/li>;&lt;br>;&lt;/ul>;&lt;br>;</content>
+<link href="https://f-droid.org/packages/com.mrl.pixiv/"/>
+<summary>第三方 Pixiv 客户端</summary>
+<published>2025-01-28T14:05:49+00:00</published>
+</entry>
+<entry>
+<id>https://f-droid.org/packages/com.dessalines.habitmaker/</id>
+<title>Habit-Maker</title>
+<updated>2025-01-28T14:04:49+00:00</updated>
+<content type="html">Have you found it difficult to build new habits? Habit-Maker uses rewards and encouragements to help get over initial willpower required to form new habits.&lt;br>;&lt;br>;Habit-Maker game-ifies making habits by giving you rewards each time you check a habit. It shows the following progress metrics:&lt;br>;&lt;br>;- Streaks - The # of days you've completed your habit in a row.&lt;br>;- Points - points for checking habits, with multipliers for continuing your streak.&lt;br>;- % progress to your 66-day-ingrained habit&lt;br>;</content>
+<link href="https://f-droid.org/packages/com.dessalines.habitmaker/"/>
+<summary>A reward-based habit tracker for android.</summary>
+<published>2025-01-28T14:04:49+00:00</published>
+</entry>
 <entry>
 <id>https://f-droid.org/packages/moe.reimu.catshare/</id>
 <title>CatShare</title>
@@ -199,7 +220,7 @@
 <entry>
 <id>https://f-droid.org/packages/com.dn0ne.lotus/</id>
 <title>Lotus</title>
-<updated>2025-01-20T16:17:52+00:00</updated>
+<updated>2025-01-28T14:05:00+00:00</updated>
 <author>
 <name>dn0ne</name>
 </author>
@@ -280,7 +301,7 @@
 <entry>
 <id>https://f-droid.org/packages/com.github.umer0586.droidpad/</id>
 <title>Droid Pad</title>
-<updated>2025-01-24T15:19:44+00:00</updated>
+<updated>2025-01-28T14:05:33+00:00</updated>
 <author>
 <name>Umer Farooq</name>
 </author>
@@ -400,7 +421,7 @@
 <entry>
 <id>https://f-droid.org/packages/com.daniebeler.pfpixelix/</id>
 <title>Pixelix</title>
-<updated>2025-01-22T17:27:55+00:00</updated>
+<updated>2025-01-28T14:04:48+00:00</updated>
 <author>
 <name>Daniel Hiebeler</name>
 </author>
@@ -493,7 +514,7 @@
 <entry>
 <id>https://f-droid.org/packages/kzs.th000.tsdm_client/</id>
 <title>天使动漫</title>
-<updated>2025-01-20T16:24:40+00:00</updated>
+<updated>2025-01-28T14:07:47+00:00</updated>
 <author>
 <name>realth000</name>
 </author>
@@ -517,7 +538,7 @@
 <entry>
 <id>https://f-droid.org/packages/com.github.dyhkwong.sagernet/</id>
 <title>Exclave</title>
-<updated>2025-01-17T10:56:38+00:00</updated>
+<updated>2025-01-28T14:05:20+00:00</updated>
 <author>
 <name>dyhkwong</name>
 </author>
@@ -537,38 +558,5 @@
 <link href="https://f-droid.org/packages/com.cabbagelol.bfban/"/>
 <summary>联 BAN 的移动应用，在手机上举报玩家</summary>
 <published>2025-01-02T18:21:58+00:00</published>
-</entry>
-<entry>
-<id>https://f-droid.org/packages/dev.robin.flip_2_dnd/</id>
-<title>Flip 2 DND</title>
-<updated>2025-01-17T10:59:51+00:00</updated>
-<author>
-<name>Abul Kalam Robin</name>
-</author>
-<content type="html">Flip 2 DND is a simple yet powerful app that automatically toggles Do Not Disturb mode based on your phone's orientation.&lt;br>;&lt;br>;Features:&lt;br>;&lt;br>;- Toggle DND by flipping your phone face down&lt;br>;- Disable DND by flipping your phone face up&lt;br>;- Optional "Only when screen off" mode&lt;br>;- Configurable vibration feedback&lt;br>;- Sound notification when DND is disabled&lt;br>;- Clean, modern Material You design&lt;br>;- No ads, no tracking, completely open source&lt;br>;&lt;br>;The app is designed with privacy and simplicity in mind, requiring only the necessary permissions to function:&lt;br>;&lt;br>;- Access to Do Not Disturb settings&lt;br>;- Vibration control&lt;br>;- Sensor access (accelerometer)&lt;br>;&lt;br>;Perfect for meetings, study sessions, or any time you need quick access to Do Not Disturb mode!&lt;br>;</content>
-<link href="https://f-droid.org/packages/dev.robin.flip_2_dnd/"/>
-<summary>Toggle Do Not Disturb mode by flipping your phone face down</summary>
-<published>2024-12-29T11:01:55+00:00</published>
-</entry>
-<entry>
-<id>https://f-droid.org/packages/de.buttercookie.simbadroid/</id>
-<title>SimbaDroid</title>
-<updated>2024-12-29T11:00:54+00:00</updated>
-<author>
-<name>buttercookie42</name>
-</author>
-<content type="html">SimbaDroid ist ein SMB-Server für Android, der es ermöglicht, über WLAN auf die Inhalte deines Telefons zuzugreifen (sowohl den internen Speicher, als auch eine SD-Karte).&lt;br>;&lt;br>;Auf Grund von technischen Beschränkungen von Android benötigt diese App Root-Zugriff (wie auf allen unixoiden Betreibssytemen können Nutzerapps keine Netzwerkports &lt; 1024 öffnen, während der Standardport für SMB wiederum 445 ist und Windows in der Hinsicht auch nicht umkonfiguriert werden kann). Ohne Root-Zugriff benötigst du entweder einen alternativen SMB-Clienten mit einer Einstellmöglichkeit für den Zielport (SimbaDroid benutzt Port 4450 im Hintergrund), oder irgend eine Art von Portmapper-Software um Windows dadurch transparent von Port 445 auf 4450 umzuleiten.&lt;br>;&lt;br>;Auf Grund von Einschränkungen von JFileServer wird nur SMBv1 unterstützt, was für moderne Windowssysteme auch nicht ideal ist, aber c'est la vie…&lt;br>;&lt;br>;Da die App hauptsächlich für meinen Eigengebraucht gedacht ist, gibt es momentan keinerlei Konfigurationsmöglichkeiten – Netzwerkfreigaben für den internen Speicher und die externe SD-Karte (falls vorhanden) werden automatisch angelegt, und sind ohne Authentifizierung zugänglich. Sei daher mit der Nutzung dieser App in öffentlichen Netzwerken vorsichtig. Eventuell werde ich in der Zukunft noch Einstellungsmöglichkeiten für die Netzwerkfreigaben und Benutzerauthentifizierung ergänzen, kann dafür aber keinerlei Zeitrahmen versprechen.&lt;br>;&lt;br>;READ/WRITE/MANAGE_EXTERNAL_STORAGE wird für den Zugriff auf das Dateisystem benötigt.</content>
-<link href="https://f-droid.org/packages/de.buttercookie.simbadroid/"/>
-<summary>A simple SMB file server (needs root)</summary>
-<published>2024-12-29T11:00:54+00:00</published>
-</entry>
-<entry>
-<id>https://f-droid.org/packages/com.hassaneltantawy.alazkar/</id>
-<title>Al-Azkar</title>
-<updated>2024-12-29T10:58:39+00:00</updated>
-<content type="html">- Search Titles&lt;br>;- Add titles to favorites&lt;br>;- Count with app volume keys&lt;br>;- Share zikr as image or as text&lt;br>;- Control app theme&lt;br>;</content>
-<link href="https://f-droid.org/packages/com.hassaneltantawy.alazkar/"/>
-<summary>Imam Al-Hafiz Yahya bin Sharafah Al-Din Al-Nawawi.</summary>
-<published>2024-12-29T10:58:39+00:00</published>
 </entry>
 </feed>
