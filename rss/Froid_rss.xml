@@ -1,1 +1,586 @@
-<feed xml:lang="zh-CN" xmlns="http://www.w3.org/2005/Atom"><id>https://newapps.f-droid.othing.xyz/new_apps.zh-cn.xml</id><title> F-Droid（ZH-CN）的新应用</title><updated>2025-03-28T08：43：41.030344+00：00</updated><author><name> YZQZSS</name><email> yzqzss@yandex.com </email></author><link href="https://newapps.f-droid.othing.xyz/new_apps.zh-CN.xml" rel="self"/><link href="https://f-droid.org/packages/" rel="alternate"/><generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0"> python-feedgen</generator><subtitle> F-Droid（ZH-CN）的新应用</subtitle><entry><id>https://f-droid.org/packages/ru.iska9der.flabr/</id><title> Flabr</title><updated> 2025-03-26T01：41：35+00：00</updated><author><name> Iskander Shamsudinov</name></author><content type="html"> Flabr是Habr.com的读者，其下一个功能：&lt;br>; &lt;br>; *授权和相关内容，例如：我的提要，书签，订阅等。&lt;br>; * feed自定义&lt;br>; *出版物视图自定义&lt;br>; * DARK/LIGHT THEMES</content><link href="https://f-droid.org/packages/ru.iska9der.flabr/"/><summary> habr.com的客户</summary><published>2025-03-26T01：41：31+00：00</published></entry><entry><id> https://f-droid.org/packages/org.egsoftware.basiccashflow/</id><title> basiccashflow</title><updated> 2025-03-26T01：40：00+00：00</updated><author><name> Minardil</name></author><content type="html"> BasicCashflow允许您以最简单的方式管理收入和费用。&lt;br>; &lt;br>; &lt;b>;为什么我需要它？&lt;/b>; &lt;br>;该应用程序是为那些只想跟踪现金流，尤其是现金，尤其是现金，没有其他功能和复杂性的人，例如管理信用卡，银行帐户或高级金融工具。您只想跟踪您的现金如何花费吗？这是适合您的应用程序。&lt;br>; &lt;br>; &lt;b>;它的工作原理&lt;/b>; &lt;br>;该界面设计为简单而直观。要添加新事务，只需单击“+”按钮，然后用数量和几句描述填充表格即可。通过简单的交易刷新，您可以修改或删除。如果您想更改货币，在设置中，您会发现世界上使用的所有货币。</content><link href="https://f-droid.org/packages/org.eagsoftware.basiccashflow/"/><summary>跟踪现金的最简单方法：没有大惊小怪，只是钱跟踪。</summary><published> 2025-03-26T01：40：00+00：00</published></entry><entry><id> https://f-droid.org/packages/com.mehrphilalethes.claytablet/</id><title>粘土平板电脑</title><updated>2025-03-26T01：36：28+00：00</updated><content type="html">粘土平板电脑是一种简单而直观的Android工具，用于楔形文字写作和练习。使用粘土平板电脑，您可以调整楔形的大小和行为，以练习楔形文字技能，并从头开始创建整个美索不达米亚文字！它具有：&lt;br>; &lt;br>;  - 基本的绘画和写作功能&lt;br>;  - 可滚动的平板电脑帆布&lt;br>;  -  undo/redo and Redo and Raser工具&lt;br>;  - 可调节的楔形尺寸&lt;br>; &lt;br>; &lt;br>;未来的更新将包括音译逻辑和完整的cuneformiform库。</content><link href="https://f-droid.org/packages/com.mehrphilalethes.claytablet/"/><summary>粘土片是用于楔形文字实践的简单直观的Android应用。</summary><published> 2025-03-26T01：36：28+00：00</published></entry><entry><id> https://f-droid.org/packages/com.codedead.advancedpassgen/</id><title>高级Passgen</title><updated> 2025-03-26T01：34：59+00：00</updated><author><name>编码</name></author><content type="html">高级通行证可以帮助您生成数十万个安全和强的密码。&lt;br>; &lt;br>; &lt;b>;功能：&lt;/b>; &lt;br>; &lt;ul>; &lt;br>; &lt;br>; &lt;li>;您决定您的密码外观&lt;/li>; &lt;br>; &lt;br>; &lt;br>; &lt;li>;优化了用于生成大量密码&lt;/li>; &lt;br>; &lt;br>; li>; li li>; li>; li>; li>; li>; li>;模式&lt;/li>; &lt;br>; &lt;li>;没有广告，没有间谍软件，没有跟踪&lt;/li>; &lt;br>; &lt;/ul>; &lt;br>;</content><link href="https://f-droid.org/packages/com.codedead.advancedpassgen/"/><summary>轻松生成密码。</summary><published> 2025-03-26T01：34：59+00：00</published></entry><entry><id> https://f-droid.org/packages/org.fossify.math/</id><title> Fossify计算器</title><updated>2025-03-23T10：22：01+00：00</updated><author><name> Fossify</name></author><content type="html">引入Fossify计算器 - 满足所有计算需求的多功能和高效工具。享受时尚，现代的设计搭配强大的功能，非常适合简单的计算和更复杂的任务。&lt;br>; &lt;br>; &lt;br>; &lt;br>; &lt;b>; &lt;b>; &lt;B>; ofline功能：&lt;/b>; &lt;br>; &lt;br>; Fossify计算器在无需互联网权限的情况下完全离线运行。随时随地使用它，并体验增强的隐私，安全性和稳定性。&lt;br>; &lt;br>; &lt;br>; &lt;br>; &lt;b>; &lt;多个功能：&lt;/b>; &lt;br>; &lt;br>;您是否需要乘，分隔或计算根和力量，Fossify Calculator都涵盖了Fossify Calculator。它专为日常计算和更高级的操作而设计，使其成为各种数学需求的可靠工具。&lt;br>; &lt;br>; &lt;br>; &lt;br>; &lt;b>; &lt;B>;📳可自定义的设置：&lt;/b>; &lt;br>; &lt;br>; &lt;br>; &lt;br>;可以通过可自定义设置来量身定制经验。在按下按钮上切换振动，防止手机在使用应用程序时睡觉，并将接口调整为您的喜好。&lt;br>; &lt;br>; &lt;br>; &lt;br>; &lt;b>; &lt;b>;🔒隐私和安全性：&lt;/b>; &lt;br>; &lt;br>; &lt;br>; &lt;br>;您的隐私是最重要的。 Fossify计算器不会与第三方收集或共享任何用户信息。使用该应用程序放心，知道您的数据是安全的。&lt;br>; &lt;br>; &lt;br>; &lt;br>; &lt;b>;📊操作历史记录：&lt;/b>; &lt;br>; &lt;br>;访问计算的历史记录以进行快速参考。轻松浏览最近的操作以审查或继续您的工作。&lt;br>; &lt;br>; &lt;br>; &lt;b>; &lt;b>;🎨个性化体验：&lt;/b>; &lt;br>; &lt;br>; &lt;br>;用可自定义的颜色个性化计算器。调整文本和背景颜色以匹配您的样式和偏好，创建视觉上吸引人且易于使用的接口。&lt;br>; &lt;br>; &lt;br>; &lt;br>; &lt;b>; &lt;b>; &lt;b>;🌐开源透明度：&lt;/b>; &lt;br>; &lt;br>; &lt;br>; &lt;br>; fossify计算器是完全开源的，具有透明度和安全性。访问审核的源代码，确保具有可信赖和可靠的工具。&lt;br>; &lt;br>; &lt;br>;通过Fossify计算器体验新的效率和自定义水平。立即下载并提高您的计算体验。&lt;br>; &lt;br>; &lt;br>; &lt;br>;探索更多fossify应用程序：https：//www.fossify.org &lt;br>; &lt;br>; &lt;br>; open-source代码：https：//wwwww.github.com/fossifyorg.com/fossifyorg &lt;br>; https://www.reddit.com/r/fossify &lt;br>; &lt;br>;在电报上连接：https：//t.me/fossify &lt;br>; &lt;br>; &lt;br>;</content><link href="https://f-droid.org/packages/org.fossify.math/"/><summary>简单而开源的计算器，以快速简便地计算</summary><published>2025-03-23T10：22：01+00：00</published></entry><entry><id> https://f-droid.org/packages/io.oopquizz.oopquiz/</id><title> Java OOP测验</title><updated>2025-03-23T10：20：51+00：00</updated><author><name>阿里·阿克雷姆·巴卡（Ali Akrem Barka）</name></author><content type="html"> &lt;em>; Java OOP测验&lt;em>;应用程序是一款交互式移动应用程序，旨在帮助用户测试和改善Java中面向对象的编程（OOP）概念的知识。它具有各种测验，这些测验涵盖了基本主题，例如类，继承，多态性和界面，并立即提供反馈以增强学习。该应用程序包括流畅的用户界面和进度跟踪。</content><link href="https://f-droid.org/packages/io.oopquizz.oopquiz/"/><summary>测试您对Java面向对象的编程的了解。</summary><published> 2025-03-23T10：20：51+00：00</published></entry><entry><id> https://f-droid.org/packages/com.opengps.altlocationservices/</id><title> AltLocationservices</title><updated> 2025-03-23T10：18：49+00：00</updated><content type="html">该应用程序连接到BEACONDB公共域无线地理位置数据库，以提供基于网络的位置服务。与标准的GP不同，这是在地下和内部建筑物内部起作用的。与Google的位置服务不同，此应用程序和BEACONDB都不会出售您的位置数据。&lt;br>; &lt;br>;如果您使用此应用程序，请安装NeoStumbler来为BeaCondB数据集做出贡献，以便您可以从此应用程序获得更准确的位置。</content><link href="https://f-droid.org/packages/com.opengps.altlocationservices/"/><summary>连接到BEACONDB地理位置服务以提供网络位置服务。</summary><published> 2025-03-23T10：18：49+00：00</published></entry><entry><id> https://f-droid.org/packages/codes.swee.diceapp/</id><title>骰子应用</title><updated>2025-03-23T10：16：21+00：00</updated><author><name> Swee</name></author><content type="html"> DICE应用程序是适用于Android的简单骰子辊。</content><link href="https://f-droid.org/packages/codes.swee.diceapp/"/><summary>一个简单的骰子辊，适用于Android。</summary><published> 2025-03-23T10：16：21+00：00</published></entry><entry><id> https://f-droid.org/packages/de.bahnvorhersage.app/</id><title> Bahn-Vorhersage</title><updated> 2025-03-23T10：19：50+00：00</updated><author><name> McToel</name></author><content type="html"> Bahn-Vorhersage Kann DieZuverlässigkeitvon Zugverbindungen Mittels机器学习Berechnen。 FunktioniertFürZugverbindungen Innerhalb von Deutschland。</content><link href="https://f-droid.org/packages/de.bahnvorhersage.app/"/><summary>根据火车旅行的可靠性排名。 （仅德语）</summary><published> 2025-03-16T20：48：45+00：00</published></entry><entry><id> https://f-droid.org/packages/corp.wallet.bitcoin.signet/</id><title>比特币钱包[Signet]</title><updated> 2025-03-16T20：48：32+00：00</updated><content type="html">一个比特币钱包，允许您通过QR码和NFC在&lt;br>;设备上存储，发送和接收比特币。这是&lt;br>; https://f-droid.org/packages/de.schildbach.wallet的测试版本，它使用标志网络，而不是真实的&lt;br>;比特币网络。</content><link href="https://f-droid.org/packages/corp.wallet.bitcoin.signet/"/><summary>将您自己的比特币装进您自己的口袋！</summary><published> 2025-03-16T20：48：32+00：00</published></entry><entry><id> https://f-droid.org/packages/com.xmission.trevin.android.todo/</id><title>做</title><updated>2025-03-23T10：19：28+00：00</updated><author><name>特雷文·比蒂（Trevin Beattie）</name></author><content type="html"> &lt;div>;基于应用程序&lt;br>;与棕榈飞行员捆绑在一起的简单且直观的列表，以及许多其他功能：&lt;br>; &lt;ul>; &lt;br>; &lt;li>;完全离线，几乎不需要运行的许可。&lt;br>; &lt;br>; &lt;br>; &lt;ul>; &lt;br>; &lt;br>; &lt;br>; &lt;br>; &lt;br>; &lt;br>; &lt;br>; &lt;br>; &lt;br>; &lt;br>; &lt;br>; &lt;br>; &lt;br>; &lt;br>; &lt;br>; &lt;br>; &lt;br>; &lt;br>; &lt;br>; &lt;br>; &lt;br>; &lt;br>; &lt;br>; &lt;br>;仅需备份外部存储即可备份或&lt;br>;恢复您的列表。在棉花糖（Android 6）上，后来，只有将文件写入公共文件夹时才需要&lt;br>;要求。&lt;/li>; &lt;br>; &lt;li>;许可在系统启动上运行并仅需要检查通知&lt;br>;才需要检查到期的项目，并且您设置了一个警报&lt;br>;。在棉花糖（Android 6）上，后来，仅当您保存一个带有警报的操作项目时才要求&lt;br>; &lt;br>;。&lt;/li>; &lt;br>; &lt;li>;只有在通知您的项目&lt;br>;时才需要振动的权限，并且当您设置了“警报&lt;br>; evibrate” eng in noug for noug noug noug noug noug noug and and and and and noug noug noug and and and。在Oreo（Android 8）上，后来，在系统设置中进行了警报振动和声音。&lt;br>; &lt;br>; &lt;/ul>; &lt;/li>; &lt;br>; &lt;li>;为不同列表创建任意数量的类别。&lt;/li>; &lt;br>; &lt;br>; &lt;br>; &lt;br>; &lt;br>; &lt;br>; &lt;br>; &lt;br>; &lt;br>; &lt;li>;在应有或几乎适用的项目中&lt;/li>; &lt;/li>; efter efter at li as at pure as at li as at li as at li as at pure at li as at li as at li as at a y li as a in li as ate a at a po poper的&lt;li>; &lt;/li>; &lt;/私人和选项使用密码加密。&lt;/li>; &lt;br>; &lt;li>;导出列表列表到本地XML文件。&lt;/li>; &lt;br>; &lt;li>;从XML或Palm Pilot数据文件中导入列表。&lt;/li>; &lt;br>; &lt;br>; &lt;br>; &lt;br>; &lt;br>; &lt;br>; &lt;br>; &lt;br>; &lt;br>; &lt;br>; &lt;br>; &lt;br>; &lt;li>;与Android 2.2（Froyo）和UP。</content><link href="https://f-droid.org/packages/com.xmission.trevin.android.todo/"/><summary>创建清单</summary><published>2025-03-16T20：48：26+00：00</published></entry><entry><id> https://f-droid.org/packages/com.nunosempere.distributioncalculator/</id><title>分布计算器</title><updated>2025-03-23T10：18：47+00：00</updated><author><name> NuñoSempere</name></author><content type="html">可以通过人体工程学处理分布的计算器，以允许用户轻松得出纳入不确定性的费米估计。&lt;br>; </content><link href="https://f-droid.org/packages/com.nunosempere.distributioncalculator/"/><summary>轻松以不确定性运作</summary><published>2025-03-16T20：47：53+00：00</published></entry><entry><id> https://f-droid.org/packages/com.codedead.advancedportchecker/</id><title>高级Portchecker</title><updated> 2025-03-16T20：46：03+00：00</updated><author><name>编码</name></author><content type="html">Advanced PortChecker is a utility to check if TCP ports are open or not.&lt;br>;&lt;br>;&lt;b>;Features:&lt;/b>;&lt;br>;&lt;ul>;&lt;br>; &lt;li>;Scan TCP ports&lt;/li>;&lt;br>; &lt;li>;Scans can be executed in the background&lt;/li>;&lt;br>; &lt;li>;Scans are executed in real-time&lt;/li>;&lt;br>; &lt;li>;Supports dark mode&lt;/li>;&lt;br>; &lt;li>;No广告，没有间谍软件，没有跟踪&lt;/li>; &lt;br>; &lt;/ul>; &lt;br>;</content><link href="https://f-droid.org/packages/com.codedead.advancedportchecker/"/><summary>检查TCP端口是否打开。</summary><published> 2025-03-16T20：46：03+00：00</published></entry><entry><id> https://f-droid.org/packages/com.acszo.redomi.repo/</id><title> redomi</title><updated> 2025-03-16T20：45：16+00：00</updated><author><name> Acszo</name></author><content type="html"> Unofficial song.link client&lt;br>;&lt;br>;&lt;br>;&lt;b>;Features:&lt;/b>;&lt;br>;&lt;br>;- Open supported links from different music services in your favourite streaming app&lt;br>;- Convert links and share songs with others on their preferred platforms&lt;br>;- Customize Sharesheet in different ways:&lt;br>; - Icon shapes&lt;br>; - Choose which apps to display&lt;br>; - Decide between a horizo​​ntal or vertical list, and its grid尺寸&lt;br>;  - 材料&lt;br>;  - 轻/黑色主题</content><link href="https://f-droid.org/packages/com.acszo.redomi.repo/"/><summary>从不同平台到您最喜欢的歌曲</summary><published>2025-03-16T20：45：16+00：00</published></entry><entry><id> https://f-droid.org/packages/app.pomodorot/</id><title> Pomodorot</title><updated> 2025-03-16T20：44：31+00：00</updated><author><name> MLM游戏</name></author><content type="html">Pomodorot是一个计时器应用程序，可用于设置20分钟的休息时间，您可以在远离计算机的地方或可以用作Pomodoro计时器。 &lt;br>; &lt;br>;当前它的屏幕阻塞功能仅在桌面中可用，但是计划将其添加为Android &lt;br>; &lt;br>;的设置，如果您想要在不直接在屏幕上直接打开的应用程序或不计数的应用程序（不在后台）（不在后台），那么这可能对您有用。 。&lt;br>; &lt;br>;功能：&lt;br>; &lt;br>;。可变的时间选项&lt;br>;。最小&lt;br>;。眼睛容易&lt;br>;。开源&lt;br>;。完全免费，没有广告&lt;br>; &lt;br>;疑问网站上的更多信息：https：//ragebreaker.itch.io/pomodorot &lt;br>;</content><link href="https://f-droid.org/packages/app.pomodorot/"/><summary>一个简单的计时器，当不查看时暂停</summary><published>2025-03-16T20：44：00+00：00</published></entry><entry><id> https://f-droid.org/packages/app.eduroam.geteduroam/</id><title> Geteduroam</title><updated> 2025-03-16T20：43：51+00：00</updated><content type="html">根据为机构和机构创建的配置文件配置eduroam wifi-network。&lt;br>; &lt;br>;选择了正确的（eduroam cat）配置文件并提供用户凭证，应配置eduroam网络并准备使用。&lt;br>; &lt;br>; &lt;br>;</content><link href="https://f-droid.org/packages/app.eduroam.geteduroam/"/><summary>使用您的机构个人资料配置Eduroam</summary><published> 2025-03-16T20：43：51+00：00</published></entry><entry><id> https://f-droid.org/packages/net.multun.gamecounter.fdroid/</id><title>游戏计数器</title><updated>2025-03-23T10：21：06+00：00</updated><author><name>多元</name></author><content type="html">用于计数板，卡片或角色扮演游戏中计数点的应用程序：&lt;br>;  - 跟踪每个播放器的多个计数器&lt;br>;  - 可自定义的计数器名称和初始值&lt;br>;  - 长按Plus或减去快速更新&lt;br>;  - 玩家可以更换Card Colors &lt;br>;  - 任何大小的滚动DICE &lt;br>; roll of Dick &lt;br>; crote player Order &lt;br>;选择&lt;br>;选择&lt;br>; &lt;br>;</content><link href="https://f-droid.org/packages/net.multun.gamecounter.fdroid/"/><summary>可自定义的游戏点计数器</summary><published>2025-03-13T22：41：18+00：00</published></entry><entry><id> https://f-droid.org/packages/gizz.tapes.foss/</id><title> izz磁带</title><updated>2025-03-20T09：40：29+00：00</updated><content type="html">深入探访吉扎国王（King Gizzard）和蜥蜴巫师（Lizard Wizard）的令人振奋的世界，您的&lt;br>;一站式应用程序为现场音乐会盗版！ &lt;br>; gizz磁带从互联网档案的庞大档案中进行策划，可以单击按钮，可以重温乐队的传奇表演。&lt;br>; &lt;br>;什么是Gizz磁带？&lt;br>; Gizz Tapes是King Gizzard和Lizard Wizard Wizard Shows的现场录音的Jukebox。这是一个严格的非正式应用程序，与乐队无关，为粉丝们设计。所有音频均托管&lt;br>;并直接从Internet档案中流式传输，而艺术品，展示笔记和元数据&lt;br>; &lt;br>;来自kglw.net。受phish.in和relisten等平台的启发，Gizz录音带带来了现场音乐档案和社区音频收藏的音频，提供了无缝的聆听体验。&lt;br>; &lt;br>; &lt;br>; &lt;br>; &lt;br>;为什么&lt;br>; &lt;br>; &lt;br>;大型图书馆？排队您最喜欢的节目，探索精选的收藏并享受高质量的流式传输。&lt;br>; &lt;br>;保持更新：在蓝调上关注Gizz磁带或订阅我们的Atom Feed时，在添加了新的&lt;br>; &lt;br>; &lt;br>; &lt;br>; &lt;br>; &lt;br>; &lt;br>;社区驱动时会得到通知。在我们的问题跟踪器上提出问题或直接给我们发送电子邮件&lt;br>;。想贡献吗？请查看我们的git repo！&lt;br>; &lt;br>;没有互联网存档的原因&lt;br>; Gizz磁带是不可能的。请考虑捐款&lt;br>;支持他们在保存数字文化和为所有人保持音乐中的重要工作。&lt;br>; &lt;br>; &lt;br>;摇动卷，排队您最喜欢的节目，并体验国王Gizzard和lizard &lt;br>; wizard &lt;br>;从未有过的巫师。 Gizz磁带：因为果酱不会停止！&lt;br>;</content><link href="https://f-droid.org/packages/gizz.tapes.foss/"/><summary>溪流吉扎国王和蜥蜴向导可以送您的手机！</summary><published> 2025-03-13T22：39：35+00：00</published></entry><entry><id> https://f-droid.org/packages/dev.lojcs.tsacdop/</id><title> tsacdop -fork-播客播放器</title><updated>2025-03-13T22：39：16+00：00</updated><author><name> lojcs</name></author><content type="html"> tsacdop-fork是tsacdop的叉子；一个干净，美丽且友好的播客应用程序，既是免费又是开源的。&lt;br>; &lt;br>;此分叉更新UI，修复了错误并添加了UX功能。 GPODDER和播客搜索API当前不支持。&lt;br>; &lt;br>;为什么tsacdop？&lt;br>; &lt;b>;唯一设计&lt;/b>;：使用TSACDOP，与其他播客玩家相比，您的经验将完全不同。 It features a unique layout with good looking material design.&lt;br>;&lt;b>;Group Management&lt;/b>;: You can easily manage your podcasts using groups.&lt;br>;&lt;b>;Privacy Friendly&lt;/b>;: As a free and open source application, Tsacdop won&#39;t upload your data to any server.&lt;br>;&lt;br>;Features:&lt;br>;* Podcast group management&lt;br>;* Playlist support&lt;br>;* Sleep timer / speed setting&lt;br>;* OPML file export并导入&lt;br>;*在背景中自动同步&lt;br>;*聆听和订阅历史记录记录&lt;br>;*黑暗模式 /真实的暗模式 /重音颜色选项&lt;br>;*下载以脱机播放&lt;br>;*自动下载新剧集 /自动删除过多下载&lt;br>;来... &lt;br>; &lt;br>;许可&lt;br>;免费，开源，没有广告。 TSACDOP-FORK是根据GPL V3.0许可的开源项目。您可以在github上播放或分叉：https：//github.com/lojcs/tsacdop &lt;br>; &lt;br>; &lt;br>;联系人&lt;br>; tsacdop-fork仍处于开发阶段，我正在研究新功能。如果您有任何问题或请求其他功能，请在Github上告诉我。</content><link href="https://f-droid.org/packages/dev.lojcs.tsacdop/"/><summary>与TSACDOP-FORK一起欣赏播客！一个干净，美丽而友好的应用程序。</summary><published> 2025-03-13T22：39：10+00：00</published></entry><entry><id> https://f-droid.org/packages/de.miraisoft.wadoku/</id><title>沃多</title><updated>2025-03-20T09：37：56+00：00</updated><author><name>保罗·克里斯蒂安·索默霍夫（Paul Christian Sommerhoff）</name></author><content type="html"> wadoku ist ein einisch-deutsch-online-wörterbuch。&lt;br>; es nutzt die api api von wadoku.eu um die vokabeln zu Zuübersetzen。&lt;br>;</content><link href="https://f-droid.org/packages/de.miraisoft.wadoku/"/><summary>日语在线词典</summary><published>2025-03-12T02：09：25+00：00</published></entry><entry><id> https://f-droid.org/packages/com.maksimowiczm.foodyou/</id><title>食物你 - 卡路里追踪器和食物日记</title><updated>2025-03-23T10：18：17+00：00</updated><author><name> Mateusz Maksimowicz</name></author><content type="html"> &lt;b>; foodyouou &lt;/b>; er en en nodere kalorieregistrerings-app bygget med you-æstetik。 Den er designet til at gøre kalorieregistrering nemmere og mere visuelt tiltalende.&lt;br>;&lt;br>;&lt;b>;Funktioner:&lt;/b>;&lt;br>;&lt;ul>;&lt;br>; &lt;li>;&lt;b>;Material You Design:&lt;/b>; Dynamisk tematisering for en sammenhængende og visuelt behagelig oplevelse.&lt;/li>;&lt;br>; &lt;li>; &lt;b>; Interaktiv hjem-side：&lt;/b>; hertig adgang tilnøglefunktionerned en kortbaseret brugerflade。&lt;/li>; &lt;br>; &lt;br>; &lt;br>; &lt;bl>; &lt;bl>; &lt;li>; &lt;li>; &lt;li>; &lt;li>; &lt;li>; &lt;li>; &lt;/b>;fånøjagtigefåjagtigeFøde（vare） &lt;li>; &lt;b>; kant-til-kant布局：&lt;/b>; nyd en fordybende oplevelse med etfuldskærmsdesign。&lt;/li>; &lt;br>; &lt;br>; &lt;br>; &lt;bl>; &lt;li>; &lt;b>; forudSigende tilbage-funktion：&lt;/b>; &lt;li>; &lt;b>; tilpasselig og开源：&lt;/b>; bygget在væreudvidelsesbar ogfællesskabsdrevet，såmankankan bidrage og og ogogændre。&lt;/li>; &lt;br>; &lt;br>; &lt;br>; &lt;br>; &lt;br>; &lt;br>; &lt;br>; &lt;br>; &lt;br>; &lt;br>; &lt;br>; &lt;br>; &lt;br>; &lt;br>; &lt;br>; &lt;br>; kreeret af &lt;a href =“ https://icons8.com/” target =“ _ blank” rel =“ nofollow noopener noreferrer”>; icons8 &lt;/a>; &lt;br>; &lt;br>;</content><link href="https://f-droid.org/packages/com.maksimowiczm.foodyou/"/><summary>用材料跟踪您的卡路里</summary><published>2025-03-12T02：07：41+00：00</published></entry><entry><id> https://f-droid.org/packages/com.bwt.threadscooponionchatcom/</id><title>威胁cooponionchat</title><updated> 2025-03-12T02：05：44+00：00</updated><author><name> r00tedbrain</name></author><content type="html"> ＃threadscooponionchat &lt;br>; &lt;br>;此版本是“ https://github.com/session-foundation/session-and-session-and-android”，enfocado en la privacidad。&lt;br>; &lt;br>; ## &lt;br>;在对本博客进行分析后出现了插件。协议。&lt;br>;我仍然不明白答案，因为与仅仅是隐私和安全粉丝的人相比，我的资源比基础的资源小得多。&lt;br>;在此博客中，描述了某些问题：&lt;br>; &lt;br>; &lt;br>; 1>; “ https://soatok.blog/2025/01/14/dont-use-signal-signal-fork/#insuff--entropopy-entropy-ed25519” &lt;br>; 2>;“ https://soatok.blog/2025/2025/01/01/14/dont-use-sessess-session-sessise-session-session-seessignal-seessignal-signal-fork/signal-fork/brloughtiation &lt;br>; 33>; 33>; 33 “ https://soatok.blog/2025/01/14/dont-use-session-signal-fork/#public-keys-keys-aes-gcm” &lt;br>; &lt;br>; &lt;br>; &lt;br>;这是从session中焦点的分叉版本。</content><link href="https://f-droid.org/packages/com.bwt.threadscooponionchatcom/"/><summary>一个针对会话隐私的分叉版本</summary><published>2025-03-12T02：05：44+00：00</published></entry><entry><id> https://f-droid.org/packages/org.residuum.alligator/</id><title>鳄鱼字节</title><updated>2025-03-26T01：40：24+00：00</updated><author><name>托马斯·梅耶（Thomas Mayer）</name></author><content type="html"> Aus dem dem kollektiv鳄鱼gozaimasu ist eine musikalische app ensunden，mit der sich loops aufnehmen，abspielen und durch durch bewegung bewegungverändernlassen。&lt;br>; &lt;br>; &lt;br>; &lt;br>; &lt;br>; Eine Neue Erfahrung beim Laufen Durch Die umwelt Machen：Kurz Einen Loop Aufnehmen，Abspielen and Die die bewegungbewegungänderTensound。&lt;br>; &lt;br>; &lt;br>; &lt;br>; &lt;br>; bis zu 6 dateii-ship sample Werden Kann -Vorgefertigt Oder eigene klangschnipsel。&lt;br>; &lt;br>; &lt;br>;zusätzlichlassen sich 4 loopswährendder der benutzung aufzung aufnehmen和abspielen。&lt;br>; &lt;br>;</content><link href="https://f-droid.org/packages/org.residuum.alligator/"/><summary>录制音乐循环，播放它们，然后通过动作改变声音。</summary><published> 2025-03-08T09：43：18+00：00</published></entry><entry><id> https://f-droid.org/packages/org.kalinisa.diatronome/</id><title>腹膜内</title><updated>2025-03-08T09：42：21+00：00</updated><author><name>雷米·马尔玛特尔（Remy Malmartel）</name></author><content type="html"> &lt;i>; diatronome &lt;/i>; iSt Eine 3合1 android-anwendung。 sie bietet einen &lt;br>; &lt;b>;调谐器&lt;/b>;，ein &lt;b>; visuelles metronom &lt;/b>;，und einen &lt;b>;合成器&lt;/b>; &lt;br>; &lt;br>; &lt;br>; &lt;br>; &lt;br>; &lt;b>; &lt;b>; &lt;b>; &lt;b>; &lt;u>; funktionen &lt;/b>; &lt;/b>; &lt;/b>; &lt;/b>; &lt;/>; &lt;/>; &lt;/u>; Visuelle anzeigefürignmgerät和Mentronom &lt;br>;  -  Kontinuierlicher synthesizermodus &lt;br>;  -  tempo erfassen（Zentraler Klick auf das Metronom）&lt;br>; -Mehrere anpass anpass anpassbare einstellungen（sogar die app-farbe）（sogar die app-farbe） MöglichstVielenGerätenZu Arbeiten。&lt;br>; &lt;br>;</content><link href="https://f-droid.org/packages/org.kalinisa.diatronome/"/><summary>调谐器，视觉节拍器和合成器</summary><published>2025-03-08T09：42：21+00：00</published></entry><entry><id> https://f-droid.org/packages/org.egsoftware.laundrynotes/</id><title> loandrynotes</title><updated> 2025-03-23T10：21：54+00：00</updated><author><name> Minardil</name></author><content type="html"> Laundrynotes是一个Android应用程序，可让您管理家庭中所有服装和面料的洗涤说明。该应用程序包含衣服标签上发现的主要符号以及它们的描述，以帮助您记住如何有效，精确地清洗每件服装。&lt;br>; &lt;br>;您是否曾经在护理标签上遇到过一个符号，而您不知道这意味着什么？ Laundrynotes允许您为每件衣服存储信息，从而轻松记住如何洗衣服。&lt;br>; &lt;br>;洗涤物品后某些符号可能会消失吗？ Laundrynotes完全防水！护理说明将保留在您的智能手机上。&lt;br>; &lt;br>; LAUNDRYNOTES的关键特征包括能够将任何衣服或面料物品添加到应用程序中，根据服装的标签或包装上的符号输入洗涤说明，该选项的选项，可将项目添加到其他信息中添加项目的选项，以添加项目&lt;select &lt;searchory &lt;该应用程序的界面被设计为简单而直观。要添加新项目，只需单击“+”按钮，然后使用所需信息填写表格。要查看或修改现有项目，只需在列表中单击它。要删除项目，请按并持有符号以打开删除菜单。&lt;br>;</content><link href="https://f-droid.org/packages/org.eagsoftware.laundrynotes/"/><summary>存储所有面料的洗涤信息和符号，使洗衣店更容易！</summary><published> 2025-03-08T09：42：08+00：00</published></entry><entry><id> https://f-droid.org/packages/io.github.jqssun.gpssetter/</id><title> GPS设置器</title><updated>2025-03-08T09：41：40+00：00</updated><author><name> JQSSUN</name></author><content type="html"> &lt;br>;  - 支持Android 14+ &lt;br>; &lt;br>;  - 🍀支持完全牙线的构建风味的系统服务器位置API，包括所有基本依赖关系&lt;br>; &lt;br>; &lt;br>;  - 🖲️允许通过屏幕上的coystick覆盖范围允许使用自定义的“ &lt;br>; rught a a impect abunded abunde a”的&lt;br>; &lt;br>;设定点的附近&lt;br>; &lt;br>;  - 与最新材料设计兼容</content><link href="https://f-droid.org/packages/io.github.jqssun.gpssetter/"/><summary>基于Xposed框架的GPS设置器。</summary><published> 2025-03-08T09：41：40+00：00</published></entry><entry><id> https://f-droid.org/packages/bim.app/</id><title> BIM！</title><updated> 2025-03-08T09：37：37+00：00</updated><author><name>朱利安·豪尔赫（Julien Jorge）</name></author><content type="html"> BIM！是&lt;br>;最后一个人站立流派的开源多人在线手机游戏。&lt;br>; &lt;br>;最多四个球员被困在一个目标的小竞技场中：成为最后一个人。玩家可以抛弃炸弹以摧毁&lt;br>;墙壁，或者最终攻击另一个球员。有时，破损的墙壁会暴露出诸如额外炸弹之类的奖励或&lt;br>;炸弹的爆炸距离的增加。&lt;br>; &lt;br>;可以从对接设备中选择匹配功能&lt;br>;屏幕。游戏启用的功能将在游戏中使用，&lt;br>;允许玩家自定义比赛。&lt;br>;</content><link href="https://f-droid.org/packages/bim.app/"/><summary>最后一个人站立流派的多人在线手机游戏</summary><published>2025-03-08T09：37：37+00：00</published></entry><entry><id> https://f-droid.org/packages/app.usp/</id><title> USP- ZX频谱模拟器</title><updated>2025-03-08T09：37：35+00：00</updated><author><name> SMT，Dexus，独自编码器，Deathsoft，DJDRON，SCOR</name></author><content type="html">便携式ZX Spectrum模拟器支持Z80 128K（五角大楼）AY/YM，蜂鸣器，β磁盘，磁带，Kempston Joystick/鼠标，快照，重播。 zip。&lt;br>; &lt;br>;创建为移植到Windows/linux/Mac/symbian/winmobile/dingoo a320/android/android/psp/raspberry pi等许多平台上</content><link href="https://f-droid.org/packages/app.usp/"/><summary>不真实的Speccy便携式-ZX频谱模拟器</summary><published>2025-03-08T09：37：35+00：00</published></entry><entry><id> https://f-droid.org/packages/net.satka.blemanager/</id><title> BLE经理</title><updated>2025-03-05T18：52：31+00：00</updated><author><name>彼得斯卡</name></author><content type="html">用于Android的BLE Manager应用程序简化了管理设备的特性。&lt;br>;不需要其他库即可将应用与设备一起使用。用描述符指定数据类型，图形组件和可选属性（例如最小值和最大值），以注释每个特征。就这样！连接后，该应用将自动显示所述特征，使您能够读取并修改其值。所有组件都完全支持设备中无缝交互的通知和指示。&lt;br>;</content><link href="https://f-droid.org/packages/net.satka.bleManager/"/><summary>轻松控制BLE设备。不需要图书馆。</summary><published> 2025-03-05T18：52：31+00：00</published></entry><entry><id> https://f-droid.org/packages/net.openconnect_vpn.android/</id><title> OpenConnect</title><updated> 2025-03-05T18：52：29+00：00</updated><author><name>亚瑟·K。</name></author><content type="html"> OpenConnect for Android is an SSL VPN client with support for multiple protocols:&lt;br>;&lt;br>;* Cisco AnyConnect or OpenConnect&lt;br>;* Juniper Network Connect&lt;br>;* Palo Alto Networks GlobalProtect&lt;br>;* Pulse Connect Secure&lt;br>;* F5 BIG-IP SSL VPN&lt;br>;* Fortinet SSL VPN&lt;br>;* Array SSL vpn &lt;br>; &lt;br>;功能：&lt;br>; &lt;br>;*一单击连接（批处理模式）&lt;br>;*支持RSA SecureID和TOTP软件代币&lt;br>;* keepalive功能，以防止不必要的断开连接&lt;br>;****与ARMV7，x86和MIPS设备&lt;br>;*基于&lt;br>; linect &lt;br>; linect &lt;br>;*包&lt;br>; &lt;br>;要求：&lt;br>; &lt;br>;* Android 6.0或更高&lt;br>;**合适的VPN服务器上的帐户&lt;br>; &lt;br>;该产品包括由OpenSSL项目开发的软件，可用于&lt;br>; OpenSSL TOOLKIT（https://wwwwwwwwwwwwwwwwwwwwww.openssl.org/）。年轻&lt;br>;（eay@cryptsoft.com）。&lt;br>;</content><link href="https://f-droid.org/packages/net.openconnect_vpn.android/"/><summary> openConnect VPN客户端的Android UI</summary><published> 2025-03-05T18：52：29+00：00</published></entry><entry><id> https://f-droid.org/packages/app.wispar.wispar/</id><title> Wispar</title><updated> 2025-03-05T18：46：50+00：00</updated><author><name>弗朗西斯·拉波因特（Francis Lapointe）</name></author><content type="html"> WISPAR是一个用户友好且对隐私友好的应用程序，无缝地使用CrossRef API搜索科学期刊和文章。通过关注您的首选期刊并在主要供稿中收到新的文章摘要，以保持最新信息。无需帐户。 UntayWall的集成确保了方便地访问开放式文章，而Ezproxy则可以帮助克服订阅障碍。&lt;br>; &lt;br>;这是一个开源项目，欢迎捐款！ If you&#39;d like to contribute, please visit our GitHub repository: https://github.com/Scriptbash/Wispar&lt;br>;&lt;br>;If the app isn&#39;t available in your language, please consider helping with translations by visiting our hosted Weblate instance: https://hosted.weblate.org/engage/wispar</content><link href="https://f-droid.org/packages/app.wispar.wispar/"/><summary>在您的学习领域中保持最新的文章！</summary><published> 2025-03-05T18：46：50+00：00</published></entry><entry><id> https://f-droid.org/packages/net.warsmash.phone/</id><title> Warsmash</title><updated> 2025-03-03T17：13：22+00：00</updated><author><name> Sandstranger</name></author><content type="html">这是非正式的Warsmash Android港口。 Warsmash是使用LibGDX游戏引擎制造的魔兽III仿真器。</content><link href="https://f-droid.org/packages/net.warsmash.phone/"/><summary> Warsmash Android港口</summary><published>2025-03-03T17：13：22+00：00</published></entry><entry><id> https://f-droid.org/packages/com.zarathustra.mnemosyne/</id><title> Mnemosyne</title><updated> 2025-03-03T17：11：49+00：00</updated><author><name>圣地亚哥·奥雷拉纳（Santiago Orellana）</name></author><content type="html"> Mnemosyne以希腊记忆女神的名字命名，是一个旨在帮助人们记住相关信息列表的应用程序。&lt;br>;这种特殊的记忆场景被更传统的抽认卡/记忆应用程序（例如Anki）（例如Anki。确实很大的单数抽奖卡，或者尝试像固定的删除一样，但是这些是非常笨拙的方法。&lt;br>;使用Mnemosyne，一个人可以一次输入一个列表项目，并获得遗漏哪些内容的反馈。&lt;br>; &lt;br>;然后，一个人可以将通常的折磨或继续在原始列表中获得完美的分数，以便在原始列表中获得完美的分数。他们手动。&lt;br>; CSV必须具有带有“标题”和“项目”列的标头行。&lt;br>; &lt;br>;将项目列中的每个项目与单独的分隔线“＃@！”分开。&lt;br>;在CSV文件中，可以指定多个列表，每行。一个人还可以导出列表以保存在其他地方。&lt;br>; &lt;br>;有一个功能允许将相关列表放在可折叠组中。&lt;br>; &lt;br>;可以将这些组嵌套到接近任意的深度中。一个人通过将小组标题的前缀前缀为列表标题创建组，然后是“ ::”。&lt;br>;例如，创建一个德语列表的分组，其中一个人想要一个名词列表和一个动词列表，一个人会将两个列表命名为德语:: nouns :: nouns and dernan :: verbs :: verbs。&lt;br>; &lt;br>; &lt;br>;</content><link href="https://f-droid.org/packages/com.zarathustra.mnemosyne/"/><summary>与传统抽认卡相反的列表的记忆应用程序</summary><published>2025-03-03T17：11：49+00：00</published></entry><entry><id> https://f-droid.org/packages/com.talsk.amadz/</id><title> Amadz-调用应用程序</title><updated>2025-03-03T17：11：44+00：00</updated><author><name> MSUSMAN1</name></author><content type="html">欢迎来到Amadz！一种原始“电话”应用程序的替代方法，旨在通过丰富的自定义选项和各种其他功能来增强呼叫体验。通过添加诸如呼叫筛选，呼叫阻止，呼叫者姓名公告等新功能来制作自己。 Your contributions can make this app a powerful tool for handling calls seamlessly.&lt;br>;&lt;br>;Room for Growth: Clone and add custom features like:&lt;br>; - Call screening&lt;br>; - Call blocking and filtering&lt;br>; - Caller name announcement&lt;br>; - Custom ringtones and media on the call screen&lt;br>; - Enhanced call UI and more&lt;br>;&lt;br>;Current Capabilities:&lt;br>; - Clean, intuitive calling interface&lt;br>; - Basic calling功能作为默认电话应用的替代方案</content><link href="https://f-droid.org/packages/com.talsk.amadz/"/><summary>清洁且直观的电话拨号程序应用程序遵循材料设计原理。</summary><published> 2025-03-03T17：11：44+00：00</published></entry><entry><id> https://f-droid.org/packages/com.nima.sockethat/</id><title> socketchat</title><updated> 2025-03-03T17：11：09+00：00</updated><author><name> Nima Khajehpour</name></author><content type="html"> &lt;i>; socketchat &lt;/i>;是一个消息传递应用程序，可帮助您在同一网络上与朋友通信，其中安装了此应用程序的一种设备作为服务器。 Just make a session and enjoy talking to your friends.&lt;br>;The app does not use any third party database to store your chat, its all saved in a local database and you can delete any session whenever you want.&lt;br>;You can customize the app however you want:&lt;br>; * change your username&lt;br>; * change app theme&lt;br>; * change chat bubble appearance&lt;br>;&lt;br>;This app is all you need when it comes to local network text chatting.&lt;br>;</content><link href="https://f-droid.org/packages/com.nima.socketchat/"/><summary>一个简单的应用程序，可以与您想要在同一网络上的任何人聊天。</summary><published> 2025-03-03T17：11：09+00：00</published></entry><entry><id> https://f-droid.org/packages/com.illiouchine.jm/</id><title>瓮</title><updated>2025-03-16T20：47：01+00：00</updated><author><name> Illiouchine，Domi41，Mieuxvoter</name></author><content type="html">将手机转变为当地多数判断的移动，离线urn。</content><link href="https://f-droid.org/packages/com.illiouchine.jm/"/><summary>离线民意调查以多数判决来决定和投票</summary><published>2025-03-03T17：10：50+00：00</published></entry><entry><id> https://f-droid.org/packages/com.aj.wa.contact.adder/</id><title> WhatsApp联系加法器</title><updated>2025-03-16T20：45：19+00：00</updated><author><name> AJ</name></author><content type="html">与其他应用程序（例如电报）不同，WhatsApp不访问手机的联系人，无法正常工作。大多数功能都可以使用，但是您实际上无法添加联系人。&lt;br>;因此，要使它工作，您必须要求人们添加您。 &lt;b>; &lt;b>; &lt;b>;这个应用程序如何解决？&lt;/b>; &lt;br>; &lt;b>; &lt;br>; &lt;br>; &lt;b>;这个应用程序基本上解决了所有这些，以及更多！&lt;/b>;它可以用作访问您的触点的中间人，然后通过一个简单的api访问您的聊天率，然后启动一个与您的聊天，请访问您的聊天，然后启动&lt;br>; &lt;ber>; &lt;/b>; your phone book!&lt;br>;&lt;br>;&lt;b>;Features&lt;/b>;&lt;br>;📞 WhatsApp Shortcut – Instantly open a WhatsApp chat using the selected contact&#39;s phone number.&lt;br>;⚡ No-contact WhatsApp Instant Chat – Instantly open a WhatsApp chat with a given non-contact phone number!&lt;br>;📇 View Contacts – Displays all phone contacts in a structured, scrollable alphabet list.&lt;br>;🔍 Search Functionality – Quickly find contacts使用实时搜索功能。&lt;br>;📖️添加或编辑联系人 - 一站式商店，以快速访问联系人添加，编辑，添加到现有或删除！</content><link href="https://f-droid.org/packages/com.aj.wa.contact.adder/"/><summary>添加WhatsApp联系人，而无需让WhatsApp访问您的联系人！</summary><published> 2025-03-03T17：09：55+00：00</published></entry><entry><id> https://f-droid.org/packages/se.nullable.flickboard/</id><title>轻弹</title><updated>2025-03-23T10：23：21+00：00</updated><author><name> Natalie KlestupRöijezon</name></author><content type="html"> &lt;p>; Flickboard是Android的键盘，无法纠正或预测您。它对正确的拼写或语气没有意见。它当然不使用任何AI。 Because it trusts you to write what you meant to write.&lt;/p>;&lt;br>;&lt;p>;Instead, FlickBoard uses swipes to get away with using vastly fewer (and larger!) buttons than a traditional QWERTY keyboard, helping you build muscle memory, minimize typos, and touch type faster.&lt;/p>;&lt;br>;&lt;p>;Type the letters in the center of a key by tapping it.通过朝那个方向滑动来键入钥匙。这就是那么简单！&lt;/p>; &lt;br>; &lt;p>; flickboard的灵感来自&lt;a href =“ https://www.exideas.com/me/me/index.php”>; messagease &lt;/a>;和&lt;a href =“</content><link href="https://f-droid.org/packages/se.nullable.flickboard/"/><summary>可预测的键盘</summary><published>2025-03-01T12：01：59+00：00</published></entry><entry><id> https://f-droid.org/packages/io.github.tiefseetauchner.tiefprompt/</id><title> Tiefprompt</title><updated> 2025-03-26T01：38：54+00：00</updated><content type="html"> tiefprompt iSt eine简单und leicht anpassbare teleprompter applikationfürpräsentationen，videoaufnahmen und reden。 Tiefprompt enthält viele essentielle Features zum Anpassen des Leseflusses und zum Steuern der Wiedergabe.&lt;br>;&lt;br>;Zum Beispiel:&lt;br>;* Tastatursteuerung: Kontrolliere die Wiedergabe mit einer Tastatur.&lt;br>;* Lesehilfen: Konfigurierbare indikatoren um beim Lesefluss zu赫尔芬（Helfen）。 minimieren。&lt;br>;</content><link href="https://f-droid.org/packages/io.github.tiefseetauchner.tiefprompt/"/><summary>一个相对简单的远程编译器应用程序</summary><published>2025-03-01T11：58：42+00：00</published></entry><entry><id> https://f-droid.org/packages/de.nkoeppel.artnet_receiver/</id><title> Artnet接收器</title><updated>2025-03-01T11：57：03+00：00</updated><author><name> NiklasKöppel</name></author><content type="html"> Zeige die penerenz von artnet paketen im netzwerk an。&lt;br>; betrachte die einzelnen kanal-werte eines eines eines eins seliebigen dmx unceums unsubnetzes imhexadezimalen oder dezimalen oder dezimalen zahlenformat zahlenformat oder als prozentwert。</content><link href="https://f-droid.org/packages/de.nkoeppel.artnet_receiver/"/><summary>聆听并分析本地网络中的ARTNET数据。</summary><published> 2025-03-01T11：57：03+00：00</published></entry><entry><id> https://f-droid.org/packages/com.willamesjr.fivetlog/</id><title> fivethreeone_log</title><updated> 2025-03-01T11：56：46+00：00</updated><author><name> Willjr</name></author><content type="html"> 5/3/1日志应用程序可帮助您使用流行的5/3/1力量训练方法跟踪锻炼和进步。无论您是初学者还是经验丰富的举升机，此应用程序都提供了保持步入正轨并实现健身目标所需的所有工具。&lt;br>; &lt;br>;功能：&lt;br>;  - 锻炼日志记录&lt;br>;  -  REST TIMER &lt;br>;  - 自动计算代表和重量&lt;br>; &lt;br>; &lt;br>;保持动力并实现您的力量训练目标，并使用5/3/1 log App进行了您的力量训练目标。立即下载并开始您的旅程，前往更强大的您！&lt;br>;</content><link href="https://f-droid.org/packages/com.willamesjr.fivetlog/"/><summary>通过5/3/1方法跟踪锻炼并进行进展。</summary><published> 2025-03-01T11：56：46+00：00</published></entry><entry><id> https://f-droid.org/packages/com.oliverszabo.tcrbdetector/</id><title> T CRB检测器</title><updated>2025-03-26T01：37：01+00：00</updated><content type="html"> T CRB探测器通知用户，当北极星T Coronae Borealis爆炸时，它也随时显示恒星的当前大小。它非常适合耐心等待这种爆炸的观星者。&lt;br>;</content><link href="https://f-droid.org/packages/com.oliverszabo.tcrbdetector/"/><summary>当星CRB爆炸时，T CRB检测器通知用户。</summary><published> 2025-03-01T11：56：11+00：00</published></entry><entry><id> https://f-droid.org/packages/com.iatfei.tsconverter/</id><title>中文繁简转换</title><updated>2025-03-12T02：07：32+00：00</updated><author><name> Fei Kuan</name></author><content type="html">我的第二个软件作品！希望大家会喜欢！ &lt;br>; &lt;br>; opencc转换数据库，杜绝「后门」、「头发」等转换问题（标准）&lt;br>;简转繁&lt;br>; 1。 简体到（Opencc 繁体（建议）&lt;br>; 2。 简体到台湾正体&lt;br>; 3。 简体到香港繁体&lt;br>; 4。 （）&lt;br>;繁转简&lt;br>; 5。 OPENCC 繁体到简体（建议）&lt;br>; 6。 台湾正体到简体&lt;br>; 7。 香港繁体到简体&lt;br>; 8。 （台湾正体到简体（中国大陆词汇）&lt;br>;港台异体转换&lt;br>; 9。 OPENCC &lt;br>; 10。 opencc &lt;br>; &lt;br>; &lt;br>; apps@iatfei.com &lt;br>; &lt;br>; plut请求:) &lt;br>; &lt;br>; &lt;br>; &lt;br>; &lt;bnu gnu通用公共3授权条款33或以后&lt;br>; &lt;br>; &lt;br>; &lt;br>; &lt;br>;：https：//github.com/github.com/fei0316/opencc--android-app/</content><link href="https://f-droid.org/packages/com.iatfei.tsconverter/"/><summary>无广告、无权限、开源繁简转换器。支持港台异体及常用词汇，可在其他应用程序中直接自动转换！，可在其他应用程序中直接自动转换！</summary><published> 2025-03-01T11：54：49+00：00</published></entry><entry><id> https://f-droid.org/packages/co.electriccoin.zcash.foss/</id><title> Zashi：Zcash钱包</title><updated>2025-03-08T09：38：20+00：00</updated><author><name> Zerocoin Electric Coin Company LLC</name></author><content type="html"> Zashi是一个ZCASH钱包，可将您的交易和消息历史记录保持私密。&lt;br>; &lt;br>;由Electric Coin Co.（ECC）构建和维护，Zcash的发明者，Zashi是使用$ Zec的最简单方法。&lt;br>; &lt;br>; &lt;br>;为什么使用Zashi Zcash Wallet？为什么使用ZASHI ZCASH WALLET？ （Zashi您的妈妈！Zashi您的咖啡师！）&lt;br>;*它是可靠且快速的，它包括在同步之前花费的能力。 （在同步完成之前提供资金。）&lt;br>;* UI已完全更新 - 简单清洁。&lt;br>;*它支持Sapling和Orchard Pools，以及统一的地址，一种在所有Zcash池，透明且屏蔽的单个地址类型。&lt;br>;*它具有用户支持和开发者的内置机制。</content><link href="https://f-droid.org/packages/co.electriccoin.zcash.foss/"/><summary> Zashi是一个ZCASH钱包，可以使您的交易和消息历史记录私有</summary><published>2025-03-01T11：53：17+00：00</published></entry><entry><id> https://f-droid.org/packages/agrigolo.opendrummer/</id><title> OPENDRUMMER-鼓循环</title><updated>2025-03-16T20：43：46+00：00</updated><content type="html">收集各种样式和节奏的鼓循环，旨在通过提供固体，高质量的凹槽来增强您的练习。&lt;br>;所有循环都是使用高级音箱从MIDI转换的所有回路文件。&lt;br>; &lt;br>;可以通过任一方向调整最多10％的速度；但是，这会改变音调，因此请谨慎使用此功能。</content><link href="https://f-droid.org/packages/agrigolo.opendrummer/"/><summary>鼓循环以不同的样式和节奏。</summary><published> 2025-03-01T11：52：50+00：00</published></entry><entry><id> https://f-droid.org/packages/io.nightdavisao.multilocale/</id><title>多幕</title><updated>2025-02-26T11：31：55+00：00</updated><author><name> Nightdavisao</name></author><content type="html">一个简单的应用程序，它使您可以在设备的语言环境设置中添加其他（或“不支持”）语言，如果OEM（*AHEM*** Xiaomi **）不允许您。&lt;br>; &lt;br>; &lt;br>; &lt;br>; &lt;br>;一些OEM，尤其是使用MIUI/HyperOS的小米，将用户限制为仅选择一种语言或语言。这种限制可能会导致问题，例如由于HAN统一而显示不正确字符的应用程序，其中一种语言可能会出现在另一种语言中。例如，如果没有日语作为语言环境，应用程序可能会显示汉字而不是日语角色。&lt;br>;</content><link href="https://f-droid.org/packages/io.nightdavisao.multilocale/"/><summary>在设备的语言环境设置中添加其他语言</summary><published>2025-02-26T11：31：55+00：00</published></entry><entry><id> https://f-droid.org/packages/com.vishnu.whatsappcleaner/</id><title> WhatsApp清洁剂</title><updated>2025-03-03T17：11：47+00：00</updated><content type="html"> WhatsApp清洁剂 -  WhatsApp的清洁剂&lt;br>; &lt;br>; &lt;br>; WhatsApp清洁器 - 清洁冗余媒体和存储中的文件&lt;br>; &lt;br>; &lt;br>;您是否知道WhatsApp用不必要的媒体，旧的&lt;br>;文件和重复的图像使您的手机混乱了？ WhatsApp清洁器可以帮助您快速清理&lt;br>; WhatsApp存储。只需简单的水龙头，您就可以删除多余的照片，&lt;br>;视频，文档等，以收回您的宝贵存储空间！&lt;br>; &lt;br>; &lt;br>;*关键功能：*&lt;br>; &lt;br>;  - 清洁冗余媒体：扫描和清洁的大型文件和无需更长的&lt;br>;所需的旧媒体。&lt;br>;更长的文件。&lt;br>;  - 文件清理：删除无需的文档，soveument whats whats whats whats whats posement whats whats posement whats posepts &lt;bry>; sips &lt;bry>; &lt;brupps &lt;bring>; app. storage in just a few taps with an intuitive,&lt;br>;user-friendly interface.&lt;br>;- Preview Before Deleting: Always preview media before deletion to ensure&lt;br>;you&#39;re removing only the files you don&#39;t need.&lt;br>;&lt;br>;Note: WhatsApp Cleaner is a third-party application that helps in cleaning&lt;br>;files generated by WhatsApp, and is not affiliated to or endorsed by WhatsApp itself.</content><link href="https://f-droid.org/packages/com.vishnu.whatsappcleaner/"/><summary> WhatsApp的清洁器 - 清除存储中的冗余媒体和文件</summary><published>2025-02-26T11：29：44+00：00</published></entry><entry><id> https://f-droid.org/packages/com.rootminusone8004.bazarnote/</id><title> bazarnote</title><updated> 2025-03-16T20：48：08+00：00</updated><content type="html"> bazarnote是一个简单的笔记应用程序</content><link href="https://f-droid.org/packages/com.rootminusone8004.bazarnote/"/><summary>一个简单的离线购物清单应用程序</summary><published>2025-02-26T11：29：42+00：00</published></entry><entry><id> https://f-droid.org/packages/com.rk.terminal/</id><title>保留</title><updated>2025-03-12T02：08：36+00：00</updated><author><name>罗希特·库什瓦哈（Rohit Kushvaha）</name></author><content type="html"> &lt;p>;固定是一种时尚的3个材料3启发的终端仿真器，设计为传统累积大奖终端的现代替代品。建立在Termux的强大终端&lt;/p>; &lt;br>;上</content><link href="https://f-droid.org/packages/com.rk.terminal/"/><summary>终端模拟器</summary><published>2025-02-26T11：29：37+00：00</published></entry><entry><id> https://f-droid.org/packages/com.helloyanis.rucoycalculator/</id><title> Rucoy计算器</title><updated>2025-02-26T11：28：18+00：00</updated><author><name> Helloyanis</name></author><content type="html">计算与Rucoy在线相关的各种内容：&lt;br>;*培训计算：输入您的统计数据和获取训练的暴民！&lt;br>;*电力训练计算计算：根据您的统计数据和课堂，知道哪个暴民可以进行电力训练，&lt;br>; &lt;br>; &lt;br>;*离线训练计算计算：知道有多少时间来增加态度训练的时间，请损坏型号的态度！您需要头骨的黄金！&lt;br>; &lt;br>; &lt;br>;完全离线，有多种语言，并且是完全免费的！与Rucoy的黄金支持者及其会议分析说再见！</content><link href="https://f-droid.org/packages/com.helloyanis.rucoycalculator/"/><summary>与Rucoy在线相关的所有事物的非官方计算器！</summary><published> 2025-02-26T11：28：18+00：00</published></entry><entry><id> https://f-droid.org/packages/biz..binarysolutions.stress/</id><title>感知的压力量表</title><updated>2025-02-26T11：26：55+00：00</updated><author><name> ViktorBrešan</name></author><content type="html">感知到的压力量表（PSS）是用于测量压力感知的最广泛使用的心理仪器。这是对自己一生中压力很大的程度的衡量标准。旨在利用项目的不可预测，无法控制和超负荷的受访者找到自己的生活。该量表还包括有关当前经历压力水平的许多直接查询。 PSS设计用于至少初中教育的社区样本。这些项目易于理解，响应替代方案很容易掌握。此外，这些问题具有一般性质，因此相对不含任何亚种群特定的内容。 PSS中的问题询问了上个月的感受和思想。&lt;br>; &lt;br>;有效性的证据：较高的PSS分数与（例如）：&lt;br>;  -   - 未能戒烟&lt;br>;  -   - 糖尿病患者失败无法控制血液糖水平&lt;br>; &lt;br>; &lt;br>;  - 更容易受到压力的压力抑制症状&lt;br>; &lt;br>; &lt;br>; &lt;br>; &lt;br>; &lt;br>; &lt;br>; &lt;br>; &lt;br>; &lt;br>; &lt;br>; &lt;br>; &lt;br>; &lt;br>; &lt;br>; &lt;br>;，因为重大事件和应对资源的变化，PSS的预测有效性预计将在四到八周后迅速下降。</content><link href="https://f-droid.org/packages/biz.binarysolutions.stress/"/><summary>你有压力吗？参加测试以找出您的压力。</summary><published> 2025-02-26T11：26：55+00：00</published></entry></feed>
+<feed xml:lang="zh-CN" xmlns="http://www.w3.org/2005/Atom">
+<id>https://newapps.f-droid.othing.xyz/new_apps.zh-CN.xml</id>
+<title>New apps on F-Droid (zh-CN)</title>
+<updated>2025-03-31T08:43:29.701773+00:00</updated>
+<author>
+<name>yzqzss</name>
+<email>yzqzss@yandex.com</email>
+</author>
+<link href="https://newapps.f-droid.othing.xyz/new_apps.zh-CN.xml" rel="self"/>
+<link href="https://f-droid.org/packages/" rel="alternate"/>
+<generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+<subtitle>New apps on F-Droid (zh-CN)</subtitle>
+<entry>
+<id>https://f-droid.org/packages/top.kagg886.pmf/</id>
+<title>Pixiv-MultiPlatform</title>
+<updated>2025-03-28T09:11:10+00:00</updated>
+<author>
+<name>kagg886</name>
+</author>
+<content type="html">&lt;h3>;功能&lt;/h3>;&lt;br>;&lt;ul>;&lt;br>;&lt;li>;通过内置浏览器进行登录&lt;/li>;&lt;br>;&lt;li>;首页推荐，插画排行，动态&lt;/li>;&lt;br>;&lt;li>;搜索&lt;/li>;&lt;br>;&lt;li>;插画详情，下载原图，收藏，点赞，评论&lt;/li>;&lt;br>;&lt;li>;小说详情，阅读，导出，收藏，评论&lt;/li>;&lt;br>;&lt;li>;个人中心，资料，收藏，关注，历史记录，下载管理&lt;/li>;&lt;br>;&lt;li>;插画/小说过滤(删除插画，无权限查看插画，R18，R18G，AI)&lt;/li>;&lt;br>;&lt;li>;使用 DoH 实现直连&lt;/li>;&lt;br>;&lt;/ul>;&lt;br>;&lt;br>;</content>
+<link href="https://f-droid.org/packages/top.kagg886.pmf/"/>
+<summary>第三方 Pixiv 客户端</summary>
+<published>2025-03-28T09:11:10+00:00</published>
+</entry>
+<entry>
+<id>https://f-droid.org/packages/me.knighthat.kreate/</id>
+<title>Kreate</title>
+<updated>2025-03-28T09:10:23+00:00</updated>
+<author>
+<name>KnightHat</name>
+</author>
+<content type="html">&lt;p>;&lt;br>;  Fork of &lt;a href="https://github.com/fast4x/RiMusic">;RiMusic&lt;/a>;, performance is our top priority.&lt;br>;&lt;/p>;&lt;br>;&lt;br>;&lt;b>;Features:&lt;/b>;&lt;br>;&lt;ul>;&lt;br>;  &lt;li>;Support multiple languages&lt;/li>;&lt;br>;  &lt;li>;Friendly designs&lt;/li>;&lt;br>;  &lt;li>;Cache or download songs for offline playback&lt;/li>;&lt;br>;  &lt;li>;Background playback&lt;/li>;&lt;br>;  &lt;li>;Statistics and reports (stored and process locally)&lt;/li>;&lt;br>;  &lt;li>;Various audio visualizers (some require mic permission, but disabled by default)&lt;/li>;&lt;br>;  &lt;li>;Sleep timer&lt;/li>;&lt;br>;  &lt;li>;Audio control: playback speed, pitch, normalization, skip silence&lt;/li>;&lt;br>;  &lt;li>;Support for Android Auto, Android TV, and YouTube video&lt;/li>;&lt;br>;  &lt;li>;Update notification&lt;/li>;&lt;br>;  &lt;li>;Export cached/downloaded songs&lt;/li>;&lt;br>;  &lt;li>;Save database and settings&lt;/li>;&lt;br>;  &lt;li>;Weekly update&lt;/li>;&lt;br>;  &lt;li>;Play music even when not connected to the internet&lt;/li>;&lt;br>;  &lt;li>;And many more...&lt;/li>;&lt;br>;&lt;/ul>;&lt;br>;</content>
+<link href="https://f-droid.org/packages/me.knighthat.kreate/"/>
+<summary>A multilingual YouTube Music frontend for Android, prioritize performance.</summary>
+<published>2025-03-28T09:10:23+00:00</published>
+</entry>
+<entry>
+<id>https://f-droid.org/packages/com.quad9.aegis/</id>
+<title>Quad9 Connect</title>
+<updated>2025-03-28T09:07:38+00:00</updated>
+<author>
+<name>Quad9</name>
+</author>
+<content type="html">&lt;img src="https://github.com/user-attachments/assets/a0fe83fe-7e06-43f9-aa02-4aecf2e0fca4">;Quad9 Connect&lt;/img>;&lt;br>;&lt;br>;Quad9 Connect is an Android and ChromeOS app that sends your DNS queries to &lt;a href="https://quad9.net">;Quad9's secure, private, open recursive DNS service&lt;/a>;.&lt;br>;&lt;br>;Quad9 Connect adds additional functionality and features compared to using Android's Private DNS feature to utilize encrypted DNS or configured Quad9 in Chrome on ChromeOS.&lt;br>;&lt;br>;The application creates a split VPN tunnel with Android API "VpnService" to configure an alternate DNS server on Android and ChromeOS.&lt;br>;&lt;br>;## Features&lt;br>;- DNS over TLS or DNS over UDP&lt;br>;- DNS Query Log&lt;br>;- Trusted Networks&lt;br>;- Blocked Query Notifications&lt;br>;- Local Domains&lt;br>;- Excluded Applications&lt;br>;</content>
+<link href="https://f-droid.org/packages/com.quad9.aegis/"/>
+<summary>Android application for Quad9 recursive DNS cybersecurity and privacy services</summary>
+<published>2025-03-28T09:07:38+00:00</published>
+</entry>
+<entry>
+<id>https://f-droid.org/packages/com.github.handewo.neon/</id>
+<title>霓虹</title>
+<updated>2025-03-28T09:06:37+00:00</updated>
+<content type="html">&lt;b>;全屏滚动显示文字，类似单色LED显示屏。&lt;/b>;&lt;br>;&lt;br>;Features:&lt;br>;&lt;ul>;&lt;br>;&lt;li>;无广告。&lt;/li>;&lt;br>;&lt;li>;无需系统权限。&lt;/li>;&lt;br>;&lt;li>;可以自定义文字颜色、背景色和滚动速度。&lt;/li>;&lt;br>;&lt;/ul>;&lt;br>;</content>
+<link href="https://f-droid.org/packages/com.github.handewo.neon/"/>
+<summary>全屏滚动显示文字</summary>
+<published>2025-03-28T09:06:37+00:00</published>
+</entry>
+<entry>
+<id>https://f-droid.org/packages/com.github.enteraname74.soulsearching/</id>
+<title>Soul Searching</title>
+<updated>2025-03-28T09:06:33+00:00</updated>
+<author>
+<name>Noah Penin</name>
+</author>
+<content type="html">Soul Searching is an application for listening to your music files.&lt;br>;&lt;br>;With the latter, you can:&lt;br>;&lt;br>;- manage your music, folders, albums and artists&lt;br>;- access the lyrics (both normal and synced) of the played music&lt;br>;- manage several artists linked to a music&lt;br>;- create playlists&lt;br>;- manage your played list&lt;br>;- see statistics on your listenings&lt;br>;- use a quick access system&lt;br>;&lt;br>;The application also offers several customization elements (color theme, player view...).&lt;br>;</content>
+<link href="https://f-droid.org/packages/com.github.enteraname74.soulsearching/"/>
+<summary>Music player for Android.</summary>
+<published>2025-03-28T09:06:33+00:00</published>
+</entry>
+<entry>
+<id>https://f-droid.org/packages/ru.iska9der.flabr/</id>
+<title>flabr</title>
+<updated>2025-03-26T01:41:35+00:00</updated>
+<author>
+<name>Iskander Shamsudinov</name>
+</author>
+<content type="html">  flabr is a reader for habr.com with next features:&lt;br>;&lt;br>;  * authorization and related things, like: my feed, bookmarks, subscription, etc.&lt;br>;  * feed customization&lt;br>;  * publication view customization&lt;br>;  * dark/light themes</content>
+<link href="https://f-droid.org/packages/ru.iska9der.flabr/"/>
+<summary>client for habr.com</summary>
+<published>2025-03-26T01:41:31+00:00</published>
+</entry>
+<entry>
+<id>https://f-droid.org/packages/org.eagsoftware.basiccashflow/</id>
+<title>BasicCashFlow</title>
+<updated>2025-03-26T01:40:00+00:00</updated>
+<author>
+<name>Minardil</name>
+</author>
+<content type="html">BasicCashFlow allows you to manage income and expenses in the simplest way possible.&lt;br>;&lt;br>;&lt;b>;Why do I need it?&lt;/b>;&lt;br>;The app is designed for those who simply want to keep track of cash flow, especially cash, without additional features and complications, such as managing credit cards, bank accounts or advanced financial instruments. Do you just want to track how you spend your cash? This is the right app for you.&lt;br>;&lt;br>;&lt;b>;How it works&lt;/b>;&lt;br>;The interface is designed to be simple and intuitive. To add a new transaction, simply click on the "+" button and fill in the form with the amount and a few words of description. With a simple swipe of the transaction, you can modify or delete it. If you want to change the currency, in the settings you will find all the currencies used in the world.</content>
+<link href="https://f-droid.org/packages/org.eagsoftware.basiccashflow/"/>
+<summary>The easiest way to track your cash: no fuss, just money tracking.</summary>
+<published>2025-03-26T01:40:00+00:00</published>
+</entry>
+<entry>
+<id>https://f-droid.org/packages/com.mehrphilalethes.claytablet/</id>
+<title>Clay Tablet</title>
+<updated>2025-03-26T01:36:28+00:00</updated>
+<content type="html">Clay Tablet is a simple and intuitive Android tool for cuneiform writing and practice. With Clay Tablet, you can adjust the size and the behavior of wedges to practice your cuneiform skills and create entire Mesopotamian texts from scratch! It has:&lt;br>;&lt;br>;- Basic drawing and writing features&lt;br>;- A scrollable tablet canvas&lt;br>;- Undo/Redo and eraser tools&lt;br>;- Adjustable wedge sizes&lt;br>;&lt;br>;Future updates will include a transliteration logic and a complete cuneiform library.&lt;br>;&lt;br>;(C) 2025 Batuhan Erdogan</content>
+<link href="https://f-droid.org/packages/com.mehrphilalethes.claytablet/"/>
+<summary>Clay Tablet is a simple and intuitive Android app for cuneiform practice.</summary>
+<published>2025-03-26T01:36:28+00:00</published>
+</entry>
+<entry>
+<id>https://f-droid.org/packages/com.codedead.advancedpassgen/</id>
+<title>Advanced PassGen</title>
+<updated>2025-03-26T01:34:59+00:00</updated>
+<author>
+<name>CodeDead</name>
+</author>
+<content type="html">Advanced PassGen can help you generate hundreds of thousands of secure and strong passwords.&lt;br>;&lt;br>;&lt;b>;Features:&lt;/b>;&lt;br>;&lt;ul>;&lt;br>;    &lt;li>;You decide what your passwords look like&lt;/li>;&lt;br>;    &lt;li>;Optimized for generating large amounts of passwords&lt;/li>;&lt;br>;    &lt;li>;Tries to prevent other apps from recording or taking screenshots&lt;/li>;&lt;br>;    &lt;li>;Supports dark mode&lt;/li>;&lt;br>;    &lt;li>;No ads, no spyware, no tracking&lt;/li>;&lt;br>;&lt;/ul>;&lt;br>;</content>
+<link href="https://f-droid.org/packages/com.codedead.advancedpassgen/"/>
+<summary>Generate passwords with ease.</summary>
+<published>2025-03-26T01:34:59+00:00</published>
+</entry>
+<entry>
+<id>https://f-droid.org/packages/org.fossify.math/</id>
+<title>Fossify Calculator</title>
+<updated>2025-03-23T10:22:01+00:00</updated>
+<author>
+<name>Fossify</name>
+</author>
+<content type="html">Introducing Fossify Calculator – your versatile and efficient tool for all your calculation needs. Enjoy a stylish, modern design paired with powerful functionality, perfect for both simple calculations and more complex tasks.&lt;br>;&lt;br>;&lt;br>;&lt;b>;📶 OFFLINE FUNCTIONALITY:&lt;/b>;&lt;br>;&lt;br>;Fossify Calculator operates entirely offline without needing internet permissions. Use it anytime, anywhere, and experience enhanced privacy, security, and stability.&lt;br>;&lt;br>;&lt;br>;&lt;b>;🌐 MULTIPLE FUNCTIONS:&lt;/b>;&lt;br>;&lt;br>;Whether you need to multiply, divide, or calculate roots and powers, Fossify Calculator has got you covered. It's designed for everyday calculations and more advanced operations, making it a reliable tool for a variety of mathematical needs.&lt;br>;&lt;br>;&lt;br>;&lt;b>;📳 CUSTOMIZABLE SETTINGS:&lt;/b>;&lt;br>;&lt;br>;Tailor your experience with customizable settings. Toggle vibrations on button presses, prevent your phone from sleeping while using the app, and adjust the interface to your liking.&lt;br>;&lt;br>;&lt;br>;&lt;b>;🔒 PRIVACY AND SECURITY:&lt;/b>;&lt;br>;&lt;br>;Your privacy is paramount. Fossify Calculator does not collect or share any user information with third parties. Use the app with peace of mind, knowing your data is secure.&lt;br>;&lt;br>;&lt;br>;&lt;b>;📊 OPERATIONS HISTORY:&lt;/b>;&lt;br>;&lt;br>;Access a history of your calculations for quick reference. Easily browse through recent operations to review or continue your work.&lt;br>;&lt;br>;&lt;br>;&lt;b>;🎨 PERSONALIZED EXPERIENCE:&lt;/b>;&lt;br>;&lt;br>;Personalize your calculator with customizable colors. Adjust text and background colors to match your style and preferences, creating a visually appealing and easy-to-use interface.&lt;br>;&lt;br>;&lt;br>;&lt;b>;🌐 OPEN-SOURCE TRANSPARENCY:&lt;/b>;&lt;br>;&lt;br>;Fossify Calculator is fully open-source, offering transparency and security. Access the source code for audits, ensuring a trustworthy and reliable tool.&lt;br>;&lt;br>;&lt;br>;Experience a new level of efficiency and customization with Fossify Calculator. Download now and elevate your calculation experience.&lt;br>;&lt;br>;&lt;br>;Explore more Fossify apps: https://www.fossify.org&lt;br>;&lt;br>;Open-Source Code: https://www.github.com/FossifyOrg&lt;br>;&lt;br>;Join the community on Reddit: https://www.reddit.com/r/Fossify&lt;br>;&lt;br>;Connect on Telegram: https://t.me/Fossify&lt;br>;&lt;br>;</content>
+<link href="https://f-droid.org/packages/org.fossify.math/"/>
+<summary>Simple and open-source calculator for quick and easy calculations</summary>
+<published>2025-03-23T10:22:01+00:00</published>
+</entry>
+<entry>
+<id>https://f-droid.org/packages/io.oopquizz.oopquiz/</id>
+<title>Java OOP Quiz</title>
+<updated>2025-03-23T10:20:51+00:00</updated>
+<author>
+<name>ali akrem barka</name>
+</author>
+<content type="html">&lt;em>;Java OOP Quiz&lt;em>; App is an interactive mobile app designed to help users test and improve their knowledge of Object-Oriented Programming (OOP) concepts in Java. It features a variety of quizzes that cover essential topics like classes, inheritance, polymorphism, and interfaces, with immediate feedback to enhance learning. The app includes a smooth user interface and progress tracking.</content>
+<link href="https://f-droid.org/packages/io.oopquizz.oopquiz/"/>
+<summary>Tests Your knowledge of Java Object-Oriented Programming.</summary>
+<published>2025-03-23T10:20:51+00:00</published>
+</entry>
+<entry>
+<id>https://f-droid.org/packages/com.opengps.altlocationservices/</id>
+<title>AltLocationServices</title>
+<updated>2025-03-23T10:18:49+00:00</updated>
+<content type="html">This app connects to the BeaconDB public domain wireless geolocation database to provide network based location services. Unlike standard GPS, this works underground and inside buildings. Unlike Google's location services, neither this app nor BeaconDB will sell your location data.&lt;br>;&lt;br>;If you are using this app, please install NeoStumbler to contribute to the BeaconDB dataset so you can get a more accurate location from this app.</content>
+<link href="https://f-droid.org/packages/com.opengps.altlocationservices/"/>
+<summary>Connects to BeaconDB geolocation service to provide network location services.</summary>
+<published>2025-03-23T10:18:49+00:00</published>
+</entry>
+<entry>
+<id>https://f-droid.org/packages/codes.swee.diceapp/</id>
+<title>Dice App</title>
+<updated>2025-03-23T10:16:21+00:00</updated>
+<author>
+<name>Swee</name>
+</author>
+<content type="html">Dice App is a simple Dice roller for Android.</content>
+<link href="https://f-droid.org/packages/codes.swee.diceapp/"/>
+<summary>A simple Dice roller for Android.</summary>
+<published>2025-03-23T10:16:21+00:00</published>
+</entry>
+<entry>
+<id>https://f-droid.org/packages/de.bahnvorhersage.app/</id>
+<title>Bahn-Vorhersage</title>
+<updated>2025-03-23T10:19:50+00:00</updated>
+<author>
+<name>McToel</name>
+</author>
+<content type="html">Bahn-Vorhersage kann die Zuverlässigkeit von Zugverbindungen mittels Machine Learning berechnen. Funktioniert für Zugverbindungen innerhalb von Deutschland.</content>
+<link href="https://f-droid.org/packages/de.bahnvorhersage.app/"/>
+<summary>Ranking for train journeys according to their reliability. (German only)</summary>
+<published>2025-03-16T20:48:45+00:00</published>
+</entry>
+<entry>
+<id>https://f-droid.org/packages/corp.wallet.bitcoin.signet/</id>
+<title>Bitcoin Wallet [signet]</title>
+<updated>2025-03-16T20:48:32+00:00</updated>
+<content type="html">A Bitcoin wallet, allowing you to store, send and receive Bitcoins on your&lt;br>;device, both via QR codes and NFC. This is a test version of&lt;br>;https://f-droid.org/packages/de.schildbach.wallet that uses the Signet network, not the real&lt;br>;Bitcoin network.</content>
+<link href="https://f-droid.org/packages/corp.wallet.bitcoin.signet/"/>
+<summary>将您自己的比特币装进您自己的口袋！</summary>
+<published>2025-03-16T20:48:32+00:00</published>
+</entry>
+<entry>
+<id>https://f-droid.org/packages/com.xmission.trevin.android.todo/</id>
+<title>To Do</title>
+<updated>2025-03-23T10:19:28+00:00</updated>
+<author>
+<name>Trevin Beattie</name>
+</author>
+<content type="html">&lt;div>;A simple and intuitive To Do list based on the app&lt;br>;bundled with Palm Pilot, plus many other features:&lt;br>;&lt;ul>;&lt;br>;&lt;li>;Entirely offline, requiring few permissions to run.&lt;br>;&lt;ul>;&lt;br>;&lt;li>;Permission to use external storage is only needed to back up or&lt;br>;restore your lists.  On Marshmallow (Android 6) and later, it is only&lt;br>;requested if you write the file to a public folder.&lt;/li>;&lt;br>;&lt;li>;Permission to run on system boot and to post notifications is only&lt;br>;needed to check for items which are due and that you have set an alarm&lt;br>;for.  On Marshmallow (Android 6) and later, notification permissions&lt;br>;are only requested if you save a To Do item with an alarm.&lt;/li>;&lt;br>;&lt;li>;Permission to vibrate is only needed when notifying you of items&lt;br>;which are due and that you have set an alarm for, if you have “Alarm&lt;br>;vibrate” enabled in the app settings for Nougat (Android 7) or&lt;br>;earlier.  On Oreo (Android 8) and later, alarm vibration and sounds is&lt;br>;managed in the system settings.&lt;br>;&lt;/ul>;&lt;/li>;&lt;br>;&lt;li>;Create any number of categories for different lists.&lt;/li>;&lt;br>;&lt;li>;Set alarms for items that are due or nearly due.&lt;/li>;&lt;br>;&lt;li>;Configure repeating items which advance their due date when completed.&lt;/li>;&lt;br>;&lt;li>;Mark items as private and optionally encrypt them with a password.&lt;/li>;&lt;br>;&lt;li>;Export lists to a local XML file.&lt;/li>;&lt;br>;&lt;li>;Import lists from either XML or a Palm Pilot data file.&lt;/li>;&lt;br>;&lt;li>;Backwards compatible with Android 2.2 (Froyo) and up.&lt;/li>;&lt;br>;&lt;/ul>;&lt;br>;&lt;/div>;&lt;br>;</content>
+<link href="https://f-droid.org/packages/com.xmission.trevin.android.todo/"/>
+<summary>Create checklists</summary>
+<published>2025-03-16T20:48:26+00:00</published>
+</entry>
+<entry>
+<id>https://f-droid.org/packages/com.nunosempere.distributioncalculator/</id>
+<title>Distribution Calculator</title>
+<updated>2025-03-28T09:07:31+00:00</updated>
+<author>
+<name>Nuño Sempere</name>
+</author>
+<content type="html">A calculator that can deal with distributions ergonomically, to allow users to easily arrive at fermi estimates that incorporate uncertainty.&lt;br>;&lt;br>;Tips:&lt;br>;&lt;br>;■ The boxes represent the 90% confidence interval (5% to 95%) of your distributions&lt;br>;■ Swipe left or right to duplicate an input&lt;br>;&lt;br>;Try this example estimating the number of grams lost with a month of exercise lifting:&lt;br>;&lt;br>;10 to 30 kg lifted per exercise&lt;br>;× 0.25 to 0.75 meters lifted per exercise&lt;br>;× 9.81 gravitational constant, to get to Jules (swipe left at the bottom to duplicate the input)&lt;br>;× 10 reps per set&lt;br>;× 3 to 4 sets per exercise&lt;br>;÷ 15% 35%, wild guess on chemical to physical efficiency conversion&lt;br>;÷ 4, jules to calories&lt;br>;÷ 6K to 8K, calories burnt to lose one gram of fat&lt;br>;× 7 to 15 exercises in a gym session&lt;br>;× 2 to 4 times a week&lt;br>;× 4 weeks a month&lt;br>;÷ 10% to 30%, wild guess for share of loss that is due to the direct physical exercise &lt;br>;  (as opposed to higher burn rate, cost of building muscles, etc.)&lt;br>;= ¿ to ? grams lost with the above exercise regime in a month&lt;br>;&lt;br>;</content>
+<link href="https://f-droid.org/packages/com.nunosempere.distributioncalculator/"/>
+<summary>Easily operate with uncertainty</summary>
+<published>2025-03-16T20:47:53+00:00</published>
+</entry>
+<entry>
+<id>https://f-droid.org/packages/com.codedead.advancedportchecker/</id>
+<title>Advanced PortChecker</title>
+<updated>2025-03-16T20:46:03+00:00</updated>
+<author>
+<name>CodeDead</name>
+</author>
+<content type="html">Advanced PortChecker is a utility to check if TCP ports are open or not.&lt;br>;&lt;br>;&lt;b>;Features:&lt;/b>;&lt;br>;&lt;ul>;&lt;br>;    &lt;li>;Scan TCP ports&lt;/li>;&lt;br>;    &lt;li>;Scans can be executed in the background&lt;/li>;&lt;br>;    &lt;li>;Scans are executed in real-time&lt;/li>;&lt;br>;    &lt;li>;Supports dark mode&lt;/li>;&lt;br>;    &lt;li>;No ads, no spyware, no tracking&lt;/li>;&lt;br>;&lt;/ul>;&lt;br>;</content>
+<link href="https://f-droid.org/packages/com.codedead.advancedportchecker/"/>
+<summary>Check if TCP ports are open.</summary>
+<published>2025-03-16T20:46:03+00:00</published>
+</entry>
+<entry>
+<id>https://f-droid.org/packages/com.acszo.redomi.repo/</id>
+<title>Redomi</title>
+<updated>2025-03-16T20:45:16+00:00</updated>
+<author>
+<name>acszo</name>
+</author>
+<content type="html">Unofficial song.link client&lt;br>;&lt;br>;&lt;br>;&lt;b>;Features:&lt;/b>;&lt;br>;&lt;br>;- Open supported links from different music services in your favourite streaming app&lt;br>;- Convert links and share songs with others on their preferred platforms&lt;br>;- Customize Sharesheet in different ways:&lt;br>;  - Icon shapes&lt;br>;  - Choose which apps to display&lt;br>;  - Decide between a horizontal or vertical list, and its grid size&lt;br>;- Material You&lt;br>;- Light/Dark Theme</content>
+<link href="https://f-droid.org/packages/com.acszo.redomi.repo/"/>
+<summary>Open songs from different platforms to your favourite one</summary>
+<published>2025-03-16T20:45:16+00:00</published>
+</entry>
+<entry>
+<id>https://f-droid.org/packages/app.pomodorot/</id>
+<title>Pomodorot</title>
+<updated>2025-03-16T20:44:31+00:00</updated>
+<author>
+<name>MLM Games</name>
+</author>
+<content type="html">Pomodorot is a timer app which can be used to set 20 minute breaks where you move away from your computer or also can be used as a pomodoro timer. &lt;br>;&lt;br>;Currently it's screen blocking capabilities is only available in desktops, but plan to add it as a setting for android&lt;br>;&lt;br>;If you want an app which pauses or doesn't count down when not open directly on the screen (not in background), then this could work for you. .&lt;br>;&lt;br>;Features :&lt;br>;&lt;br>;	. Variable time options&lt;br>;	. Minimal&lt;br>;	. Easy on the eyes&lt;br>;	. Open source&lt;br>;	. Fully free with no ads&lt;br>;&lt;br>;More info on the itch website: https://ragebreaker.itch.io/pomodorot&lt;br>;</content>
+<link href="https://f-droid.org/packages/app.pomodorot/"/>
+<summary>A simple timer which pauses when not in view</summary>
+<published>2025-03-16T20:44:00+00:00</published>
+</entry>
+<entry>
+<id>https://f-droid.org/packages/app.eduroam.geteduroam/</id>
+<title>geteduroam</title>
+<updated>2025-03-16T20:43:51+00:00</updated>
+<content type="html">Configure the eduroam WiFi-network according to the profiles created for and by the institutions.&lt;br>;&lt;br>;After selecting the right (eduroam CAT) profile and providing the user credentials the eduroam network should be configured and ready to use.&lt;br>;</content>
+<link href="https://f-droid.org/packages/app.eduroam.geteduroam/"/>
+<summary>Configure eduroam by using your institution profile</summary>
+<published>2025-03-16T20:43:51+00:00</published>
+</entry>
+<entry>
+<id>https://f-droid.org/packages/net.multun.gamecounter.fdroid/</id>
+<title>Game Counter</title>
+<updated>2025-03-23T10:21:06+00:00</updated>
+<author>
+<name>multun</name>
+</author>
+<content type="html">An app for counting points at board, card, or role playing games:&lt;br>; - keep track of multiple counters per player&lt;br>; - customizable counter name and initial value&lt;br>; - long press plus or minus for quick updates&lt;br>; - players can change card colors&lt;br>; - roll dices of any size, or pick player order&lt;br>;</content>
+<link href="https://f-droid.org/packages/net.multun.gamecounter.fdroid/"/>
+<summary>A customizable game point counter</summary>
+<published>2025-03-13T22:41:18+00:00</published>
+</entry>
+<entry>
+<id>https://f-droid.org/packages/gizz.tapes.foss/</id>
+<title>Gizz Tapes</title>
+<updated>2025-03-20T09:40:29+00:00</updated>
+<content type="html">Dive into the electrifying world of King Gizzard and the Lizard Wizard with Gizz Tapes, your&lt;br>;one-stop app for live concert bootlegs! Curated from the vast archives of the Internet Archive,&lt;br>;Gizz Tapes lets you relive the band's legendary performances at the click of a button.&lt;br>;&lt;br>;What is Gizz Tapes?&lt;br>;Gizz Tapes is a jukebox for live recordings of King Gizzard and the Lizard Wizard shows. It’s a&lt;br>;strictly unofficial app with no ties to the band, designed for fans by fans. All audio is hosted&lt;br>;and streamed directly from the Internet Archive, while artwork, show notes, and metadata are&lt;br>;sourced from KGLW.net. Inspired by platforms like phish.in and Relisten, Gizz Tapes brings&lt;br>;together audio from both the Live Music Archive and Community Audio collections, offering a&lt;br>;seamless listening experience.&lt;br>;&lt;br>;Why Gizz Tapes?&lt;br>;&lt;br>;Massive Library: Access a treasure trove of live performances, from explosive mosh-worthy sets to&lt;br>;rare, intimate shows.&lt;br>;&lt;br>;Easy to Use: Queue up your favorite shows, explore curated collections, and enjoy high-quality&lt;br>;streaming.&lt;br>;&lt;br>;Stay Updated: Follow Gizz Tapes on Bluesky or subscribe to our Atom feed to get notified when new&lt;br>;shows are added.&lt;br>;&lt;br>;Community-Driven: Found a bug or have feedback? Raise an issue on our issue tracker or email us&lt;br>;directly. Want to contribute? Check out our Git repo!&lt;br>;&lt;br>;Support the Cause&lt;br>;Gizz Tapes wouldn’t be possible without the Internet Archive. Please consider making a donation to&lt;br>;support their vital work in preserving digital culture and keeping the music alive for everyone.&lt;br>;&lt;br>;Crank up the volume, queue up your favorite show, and experience King Gizzard and the Lizard&lt;br>;Wizard like never before. Gizz Tapes: Because the jams don’t stop!&lt;br>;</content>
+<link href="https://f-droid.org/packages/gizz.tapes.foss/"/>
+<summary>Stream King Gizzard and the Lizard Wizard shows right to your phone!</summary>
+<published>2025-03-13T22:39:35+00:00</published>
+</entry>
+<entry>
+<id>https://f-droid.org/packages/dev.lojcs.tsacdop/</id>
+<title>Tsacdop-Fork - Podcast Player</title>
+<updated>2025-03-13T22:39:16+00:00</updated>
+<author>
+<name>Lojcs</name>
+</author>
+<content type="html">Tsacdop-Fork is a fork of Tsacdop; a clean, simply beautiful and friendly podcast app that is both free and open source.&lt;br>;&lt;br>;This fork updates the ui, fixes bugs and adds ux features. Gpodder and podcast search apis are currently not supported.&lt;br>;&lt;br>;Why Tsacdop?&lt;br>;&lt;b>;Unique Design&lt;/b>;: With Tsacdop, you will have a totally different experience compared to other podcast players. It features a unique layout with good looking material design.&lt;br>;&lt;b>;Group Management&lt;/b>;: You can easily manage your podcasts using groups.&lt;br>;&lt;b>;Privacy Friendly&lt;/b>;: As a free and open source application, Tsacdop won't upload your data to any server.&lt;br>;&lt;br>;Features:&lt;br>;* Podcast group management&lt;br>;* Playlist support&lt;br>;* Sleep timer / speed setting&lt;br>;* OPML file export and import&lt;br>;* Auto syncing in the background&lt;br>;* Listening and subscription history record&lt;br>;* Dark mode / real dark mode / accent color options&lt;br>;* Download for offline play&lt;br>;* Auto download new episodes / auto delete outdated downloads&lt;br>;* Settings backup&lt;br>;* Skip silence&lt;br>;* Boost volume&lt;br>;* Load local audio files&lt;br>;More features to come...&lt;br>;&lt;br>;License&lt;br>;Free, open source, no ads. Tsacdop-Fork is an open source project licensed under GPL v3.0. You can star or fork it on GitHub: https://github.com/lojcs/tsacdop &lt;br>;&lt;br>;Contact&lt;br>;Tsacdop-Fork is still in the development stage, and I am working on new features. If you have any issues or requests for additional features, please let me know on GitHub.</content>
+<link href="https://f-droid.org/packages/dev.lojcs.tsacdop/"/>
+<summary>Enjoy podcasts with Tsacdop-Fork! A clean, simply beautiful, and friendly app.</summary>
+<published>2025-03-13T22:39:10+00:00</published>
+</entry>
+<entry>
+<id>https://f-droid.org/packages/de.miraisoft.wadoku/</id>
+<title>WaDoku</title>
+<updated>2025-03-20T09:37:56+00:00</updated>
+<author>
+<name>Paul Christian Sommerhoff</name>
+</author>
+<content type="html">WaDoku ist ein Japanisch-Deutsch-Online-Wörterbuch.&lt;br>;Es nutzt die API von wadoku.eu um die Vokabeln zu übersetzen.&lt;br>;</content>
+<link href="https://f-droid.org/packages/de.miraisoft.wadoku/"/>
+<summary>Japanese-German online dictionary</summary>
+<published>2025-03-12T02:09:25+00:00</published>
+</entry>
+<entry>
+<id>https://f-droid.org/packages/com.maksimowiczm.foodyou/</id>
+<title>Food You - Calorie Tracker &amp; Food Diary</title>
+<updated>2025-03-28T09:06:49+00:00</updated>
+<author>
+<name>Mateusz Maksimowicz</name>
+</author>
+<content type="html">&lt;b>;FoodYou&lt;/b>; er en moderne kalorieregistrerings-app bygget med Material You-æstetik. Den er designet til at gøre kalorieregistrering nemmere og mere visuelt tiltalende.&lt;br>;&lt;br>;&lt;b>;Funktioner:&lt;/b>;&lt;br>;&lt;ul>;&lt;br>;    &lt;li>;&lt;b>;Material You Design:&lt;/b>; Dynamisk tematisering for en sammenhængende og visuelt behagelig oplevelse.&lt;/li>;&lt;br>;    &lt;li>;&lt;b>;Interaktiv Hjem-side:&lt;/b>; Hurtig adgang til nøglefunktioner med en kortbaseret brugerflade.&lt;/li>;&lt;br>;    &lt;li>;&lt;b>;Open Food Facts-integrering:&lt;/b>; Få nøjagtige føde(vare)data til præcis kalorieregistrering.&lt;/li>;&lt;br>;    &lt;li>;&lt;b>;Kant-til-Kant layout:&lt;/b>; Nyd en mere fordybende oplevelse med et fuldskærmsdesign.&lt;/li>;&lt;br>;    &lt;li>;&lt;b>;Forudsigende Tilbage-funktion:&lt;/b>; En glidende navigationsoplevelse med forudsigelig tilbage.&lt;/li>;&lt;br>;    &lt;li>;&lt;b>;Tilpasselig og Open-Source:&lt;/b>; Bygget at være udvidelsesbar og fællesskabsdrevet, så man kan bidrage og ændre.&lt;/li>;&lt;br>;&lt;/ul>;&lt;br>;&lt;br>;Begynd at registrere kalorierne i dag med FoodYou!&lt;br>;&lt;br>;Launcher-ikon kreeret af &lt;a href="https://icons8.com/" target="_blank" rel="nofollow noopener noreferrer">;Icons8&lt;/a>;&lt;br>;</content>
+<link href="https://f-droid.org/packages/com.maksimowiczm.foodyou/"/>
+<summary>Track your calories with Material You aesthetic</summary>
+<published>2025-03-12T02:07:41+00:00</published>
+</entry>
+<entry>
+<id>https://f-droid.org/packages/com.bwt.threadscooponionchatcom/</id>
+<title>ThreatScoopOnionChat</title>
+<updated>2025-03-12T02:05:44+00:00</updated>
+<author>
+<name>R00tedBrain</name>
+</author>
+<content type="html"># ThreadScoopOnionChat&lt;br>;&lt;br>;This version is a fork from " https://github.com/session-foundation/session-android ", enfocado en la privacidad.&lt;br>;&lt;br>;## How Did ThreadScoopOnionChat Come About?&lt;br>;&lt;br>;I have always been a fan of privacy and security in communications, and I am constantly researching potential security breaches in messaging applications.&lt;br>;ThreadScoopOnionChat emerged after the analysis of this blog "https://soatok.blog/2025/01/14/dont-use-session-signal-fork/", in which several aspects are described as to why using Session is not recommended, and I wondered how it is possible that a foundation focused on privacy—with the grants and support it receives—has not been able to improve this protocol.&lt;br>;I still do not understand the answer, since my resources are much smaller than those of a foundation compared to that of a person who is simply a fan of privacy and security.&lt;br>;In this blog, certain problems were described:&lt;br>;&lt;br>;1>; "https://soatok.blog/2025/01/14/dont-use-session-signal-fork/#insufficient-entropy-ed25519"&lt;br>;2>; "https://soatok.blog/2025/01/14/dont-use-session-signal-fork/#in-band-negotiation"&lt;br>;3>; "https://soatok.blog/2025/01/14/dont-use-session-signal-fork/#public-keys-aes-gcm"&lt;br>;&lt;br>;&lt;br>;This is a forked version privacy focussed from Session.&lt;br>;Go Github to check all features implemented.&lt;br>;</content>
+<link href="https://f-droid.org/packages/com.bwt.threadscooponionchatcom/"/>
+<summary>A Forked Version focused on privacy from SESSION</summary>
+<published>2025-03-12T02:05:44+00:00</published>
+</entry>
+<entry>
+<id>https://f-droid.org/packages/org.residuum.alligator/</id>
+<title>Alligator Bytes</title>
+<updated>2025-03-26T01:40:24+00:00</updated>
+<author>
+<name>Thomas Mayer</name>
+</author>
+<content type="html">Aus dem Kollektiv Alligator Gozaimasu ist eine musikalische App entstanden, mit der sich Loops aufnehmen, abspielen und durch Bewegung verändern lassen.&lt;br>;&lt;br>;Sei es bei einer experimentellen Performance, bei der Tänzer*innen mit dem Körper den Klang verändern oder einfach nur eine neue Erfahrung beim Laufen durch die Umwelt machen: Kurz einen Loop aufnehmen, abspielen und die Bewegung ändert den Sound.&lt;br>;&lt;br>;Bis zu 6 Datei-Samples lassen sich gleichzeitig abspielen, wobei jeweils aus bis zu 10 Samples in einer Gruppe gewählt werden kann - vorgefertigt oder eigene Klangschnipsel.&lt;br>;&lt;br>;Zusätzlich lassen sich 4 Loops während der Benutzung aufnehmen und abspielen.&lt;br>;</content>
+<link href="https://f-droid.org/packages/org.residuum.alligator/"/>
+<summary>Record musical loops, play them back, and change the sound with movement.</summary>
+<published>2025-03-08T09:43:18+00:00</published>
+</entry>
+<entry>
+<id>https://f-droid.org/packages/org.kalinisa.diatronome/</id>
+<title>Diatronome</title>
+<updated>2025-03-08T09:42:21+00:00</updated>
+<author>
+<name>Remy Malmartel</name>
+</author>
+<content type="html">&lt;i>;Diatronome&lt;/i>; ist eine 3-in-1-Android-Anwendung. Sie bietet einen&lt;br>;&lt;b>;tuner&lt;/b>;, ein &lt;b>;visuelles Metronom&lt;/b>;, und einen &lt;b>;Synthesizer&lt;/b>;&lt;br>;&lt;br>;&lt;b>;&lt;u>;Funktionen&lt;/b>;&lt;/u>;:&lt;br>;- Einstellbare Referenztonhöhe&lt;br>;- Transpositionsunterstützung&lt;br>;- Visuelle Anzeige für Stimmgerät und Metronom&lt;br>;- Kontinuierlicher Synthesizermodus&lt;br>;- Tempo erfassen (zentraler Klick auf das Metronom)&lt;br>;- Mehrere anpassbare Einstellungen (sogar die App-Farbe)&lt;br>;- Erweiterte Parameter verfügbar, um auf möglichst vielen Geräten zu arbeiten.&lt;br>;&lt;br>;Eine Erlaubnis zur Audioaufzeichnung und -wiedergabe ist erforderlich.&lt;br>;Die Anwendung bietet nützliche Übungstools für Musiker.&lt;br>;</content>
+<link href="https://f-droid.org/packages/org.kalinisa.diatronome/"/>
+<summary>A tuner, a visual metronome and a synthesizer</summary>
+<published>2025-03-08T09:42:21+00:00</published>
+</entry>
+<entry>
+<id>https://f-droid.org/packages/org.eagsoftware.laundrynotes/</id>
+<title>LaundryNotes</title>
+<updated>2025-03-23T10:21:54+00:00</updated>
+<author>
+<name>Minardil</name>
+</author>
+<content type="html">LaundryNotes is an Android app that allows you to manage the washing instructions for all clothing and fabrics in your home. This application contains the main symbols found on clothing labels, along with their descriptions, to help you remember how to wash each garment effectively and precisely.&lt;br>;&lt;br>;Have you ever encountered a symbol on a care label that you didn't know what it meant? LaundryNotes allows you to store information for each garment, making it easy to remember how to wash your clothes.&lt;br>;&lt;br>;Did some symbols may fade away after washing an item? LaundryNotes is completely waterproof! The care instructions will remain on your smartphone.&lt;br>;&lt;br>;The key features of LaundryNotes include the ability to add any clothing or fabric item to the app, entering washing instructions based on the symbols found on the label or packaging of your garment, the option to add a reference photo for identifying the item, the option to add custom notes for additional information, the option to organize items into categories, and the search function to find items by category or name.&lt;br>;&lt;br>;The interface of the app has been designed to be simple and intuitive. To add a new item, simply click on the "+" button and fill out the form with the desired information. To view or modify an existing item, simply click on it in the list. To delete an item, press and hold the symbol to open the deletion menu.&lt;br>;</content>
+<link href="https://f-droid.org/packages/org.eagsoftware.laundrynotes/"/>
+<summary>Store washing information and symbols for all fabrics, making laundry easier!</summary>
+<published>2025-03-08T09:42:08+00:00</published>
+</entry>
+<entry>
+<id>https://f-droid.org/packages/io.github.jqssun.gpssetter/</id>
+<title>GPS Setter</title>
+<updated>2025-03-08T09:41:40+00:00</updated>
+<author>
+<name>jqssun</name>
+</author>
+<content type="html">&lt;br>;- ✨ Supports system server location APIs introduced in Android 14+&lt;br>;&lt;br>;- 🍀 Supports a fully FLOSS build flavor - including all underlying dependencies&lt;br>;&lt;br>;- 🖲️ Allows adjusting location on the fly via an on-screen joystick overlay&lt;br>;&lt;br>;- 🎉 Features custom designed resource bundles with updated dependent libraries&lt;br>;&lt;br>;- 🎲 Allows using a live updating random location in the vicinity of the set point&lt;br>;&lt;br>;- 🔥 Compatible with latest Material Design</content>
+<link href="https://f-droid.org/packages/io.github.jqssun.gpssetter/"/>
+<summary>A GPS setter based on the Xposed framework.</summary>
+<published>2025-03-08T09:41:40+00:00</published>
+</entry>
+<entry>
+<id>https://f-droid.org/packages/bim.app/</id>
+<title>Bim!</title>
+<updated>2025-03-08T09:37:37+00:00</updated>
+<author>
+<name>Julien Jorge</name>
+</author>
+<content type="html">Bim! is an open-source multiplayer online mobile game of the&lt;br>;last man standing genre.&lt;br>;&lt;br>;Up to four players are stuck in a small arena with a single goal: be&lt;br>;the last person standing. The players can drop bombs to destroy the&lt;br>;walls or, ultimately, attack another player. Sometimes the broken&lt;br>;walls will expose a bonus such as extra bombs or an increase of the&lt;br>;bombs' blast distance.&lt;br>;&lt;br>;The match features can be selected from the matchmaking&lt;br>;screen. Features enabled by all participants will be used in the game,&lt;br>;allowing players to customize their contest.&lt;br>;</content>
+<link href="https://f-droid.org/packages/bim.app/"/>
+<summary>A multiplayer online mobile game of the last man standing genre</summary>
+<published>2025-03-08T09:37:37+00:00</published>
+</entry>
+<entry>
+<id>https://f-droid.org/packages/app.usp/</id>
+<title>﻿USP - ZX Spectrum Emulator</title>
+<updated>2025-03-08T09:37:35+00:00</updated>
+<author>
+<name>SMT, Dexus, Alone Coder, deathsoft, djdron, scor</name>
+</author>
+<content type="html">﻿Portable ZX Spectrum emulator supports Z80 128K (Pentagon) AY/YM, Beeper, Beta Disk, Tape, Kempston Joystick/Mouse, Snapshots, Replays.&lt;br>;&lt;br>;Supported formats: sna, z80, szx, rzx, tap, tzx, csw, trd, scl, fdi, td0, udi, zip.&lt;br>;&lt;br>;Created to be ported to many platforms such as Windows/Linux/Mac/Symbian/WinMobile/Dingoo A320/Android/PSP/Raspberry Pi, ...</content>
+<link href="https://f-droid.org/packages/app.usp/"/>
+<summary>﻿Unreal Speccy Portable - ZX Spectrum Emulator</summary>
+<published>2025-03-08T09:37:35+00:00</published>
+</entry>
+<entry>
+<id>https://f-droid.org/packages/net.satka.bleManager/</id>
+<title>BLE Manager</title>
+<updated>2025-03-05T18:52:31+00:00</updated>
+<author>
+<name>Petr Šatka</name>
+</author>
+<content type="html">The BLE Manager app for Android simplifies managing your device’s characteristics.&lt;br>;No additional libraries are required to use the app with your device. Annotate each characteristic with a descriptor specifying the data type, graphical component, and optional properties like minimum and maximum values. That’s all! Once connected, the app automatically displays the described characteristics, enabling you to read and modify their values. All components fully support notifications and indications from your device for seamless interaction.&lt;br>;</content>
+<link href="https://f-droid.org/packages/net.satka.bleManager/"/>
+<summary>Control your BLE devices easily. No libraries needed.</summary>
+<published>2025-03-05T18:52:31+00:00</published>
+</entry>
+<entry>
+<id>https://f-droid.org/packages/net.openconnect_vpn.android/</id>
+<title>OpenConnect</title>
+<updated>2025-03-05T18:52:29+00:00</updated>
+<author>
+<name>Arthur K.</name>
+</author>
+<content type="html">OpenConnect for Android is an SSL VPN client with support for multiple protocols:&lt;br>;&lt;br>;* Cisco AnyConnect or OpenConnect&lt;br>;* Juniper Network Connect&lt;br>;* Palo Alto Networks GlobalProtect&lt;br>;* Pulse Connect Secure&lt;br>;* F5 BIG-IP SSL VPN&lt;br>;* Fortinet SSL VPN&lt;br>;* Array SSL VPN&lt;br>;&lt;br>;Features:&lt;br>;&lt;br>;* One-click connection (batch mode)&lt;br>;* Supports RSA SecurID and TOTP software tokens&lt;br>;* Keepalive feature to prevent unnecessary disconnections&lt;br>;* Compatible with ARMv7, x86, and MIPS devices&lt;br>;* No root required&lt;br>;* Based on the popular OpenConnect Linux package&lt;br>;&lt;br>;Requirements:&lt;br>;&lt;br>;* Android 6.0 or higher&lt;br>;* An account on a suitable VPN server&lt;br>;&lt;br>;This product includes software developed by the OpenSSL Project for use in the&lt;br>;OpenSSL Toolkit (https://www.openssl.org/).&lt;br>;&lt;br>;This product includes cryptographic software written by Eric Young&lt;br>;(eay@cryptsoft.com).&lt;br>;</content>
+<link href="https://f-droid.org/packages/net.openconnect_vpn.android/"/>
+<summary>Android UI for OpenConnect VPN client</summary>
+<published>2025-03-05T18:52:29+00:00</published>
+</entry>
+<entry>
+<id>https://f-droid.org/packages/app.wispar.wispar/</id>
+<title>Wispar</title>
+<updated>2025-03-05T18:46:50+00:00</updated>
+<author>
+<name>Francis Lapointe</name>
+</author>
+<content type="html">Wispar is a user-friendly and privacy-friendly app that seamlessly searches scientific journals and articles using the Crossref API. Stay updated on your preferred journals by following them and receive new article abstracts in your main feed. No account required. The integration of Unpaywall ensures convenient access to open-access articles, while EZproxy helps overcome subscription barriers.&lt;br>;&lt;br>;This is an open-source project, and contributions are welcome! If you'd like to contribute, please visit our GitHub repository: https://github.com/Scriptbash/Wispar&lt;br>;&lt;br>;If the app isn't available in your language, please consider helping with translations by visiting our hosted Weblate instance: https://hosted.weblate.org/engage/wispar</content>
+<link href="https://f-droid.org/packages/app.wispar.wispar/"/>
+<summary>Stay up-to-date with article in your field of study!</summary>
+<published>2025-03-05T18:46:50+00:00</published>
+</entry>
+<entry>
+<id>https://f-droid.org/packages/net.warsmash.phone/</id>
+<title>Warsmash</title>
+<updated>2025-03-03T17:13:22+00:00</updated>
+<author>
+<name>sandstranger</name>
+</author>
+<content type="html"> This is unofficial Warsmash android port. Warsmash is Warcraft III emulator made using LibGDX game engine.</content>
+<link href="https://f-droid.org/packages/net.warsmash.phone/"/>
+<summary>Warsmash Android port</summary>
+<published>2025-03-03T17:13:22+00:00</published>
+</entry>
+<entry>
+<id>https://f-droid.org/packages/com.zarathustra.mnemosyne/</id>
+<title>Mnemosyne</title>
+<updated>2025-03-03T17:11:49+00:00</updated>
+<author>
+<name>Santiago Orellana</name>
+</author>
+<content type="html">Mnemosyne, named for the Greek goddess of memory, is an app designed to aid one in remembering lists of related information.&lt;br>;This particular memorization scenario is underserved by more traditional flashcard/memorization apps such as Anki.&lt;br>;&lt;br>;For example, if one is learning German, one would eventually have to memorize a list of around 50 verbs that are the so called "dative verbs".&lt;br>;One could try to make a really big singular flashcard, or attempt something like cloze deletion, but these are very clunky methods.&lt;br>;With Mnemosyne, one can simply enter the list items one at a time and get feedback on which ones were missed.&lt;br>;One could then focus on just those items that are commonly missed or continue trying to get a perfect score on the original list.&lt;br>;&lt;br>;For convenience one can import a csv file into the app to create lists, or just create them manually.&lt;br>;The csv must have a header row with the columns "Title" and "Items".&lt;br>;Separate each item in the items column by the separate delimiter "#@!".&lt;br>;Within a csv file, can specify multiple lists, one in each row. One can also export lists to save elsewhere.&lt;br>;&lt;br>;There is a feature that allows for placing related lists together in a collapsible group.&lt;br>;One can nest these groups to near arbitrary depth. One creates a group by prefixing the group title to the list title, followed by "::".&lt;br>;For example, to create a grouping of German lists, where one wants a list of nouns and a list of verbs, one would name the two lists German::Nouns and German::Verbs.&lt;br>;</content>
+<link href="https://f-droid.org/packages/com.zarathustra.mnemosyne/"/>
+<summary>A memorization app designed for lists as opposed to traditional flashcards</summary>
+<published>2025-03-03T17:11:49+00:00</published>
+</entry>
+<entry>
+<id>https://f-droid.org/packages/com.talsk.amadz/</id>
+<title>Amadz - Calling App</title>
+<updated>2025-03-28T09:07:43+00:00</updated>
+<author>
+<name>msusman1</name>
+</author>
+<content type="html">Welcome to Amadz! An alternative to the original ‘Phone’ app, designed to enhance the calling experience with rich customization options and a variety of additional features. Make it your own by adding new functionalities like call screening, call blocking, caller name announcement, and more. Your contributions can make this app a powerful tool for handling calls seamlessly.&lt;br>;&lt;br>;Room for Growth: Clone and add custom features like:&lt;br>;    - Call screening&lt;br>;    - Call blocking and filtering&lt;br>;    - Caller name announcement&lt;br>;    - Custom ringtones and media on the call screen&lt;br>;    - Enhanced call UI and more&lt;br>;&lt;br>;Current Capabilities:&lt;br>;    - Clean, intuitive calling interface&lt;br>;    - Basic calling functionality as an alternative to the default Phone app</content>
+<link href="https://f-droid.org/packages/com.talsk.amadz/"/>
+<summary>Clean &amp; intuitive Phone Dialer app following Material Design principles.</summary>
+<published>2025-03-03T17:11:44+00:00</published>
+</entry>
+<entry>
+<id>https://f-droid.org/packages/com.nima.socketchat/</id>
+<title>SocketChat</title>
+<updated>2025-03-03T17:11:09+00:00</updated>
+<author>
+<name>Nima Khajehpour</name>
+</author>
+<content type="html">&lt;i>;SocketChat&lt;/i>; is a messaging app that helps you communicate with your friends on the same network, where one of the devices with this app installed acts as server. Just make a session and enjoy talking to your friends.&lt;br>;The app does not use any third party database to store your chat, its all saved in a local database and you can delete any session whenever you want.&lt;br>;You can customize the app however you want:&lt;br>;    * change your username&lt;br>;    * change app theme&lt;br>;    * change chat bubble appearance&lt;br>;&lt;br>;This app is all you need when it comes to local network text chatting.&lt;br>;</content>
+<link href="https://f-droid.org/packages/com.nima.socketchat/"/>
+<summary>A simple app to chat with anyone you want on the same network.</summary>
+<published>2025-03-03T17:11:09+00:00</published>
+</entry>
+<entry>
+<id>https://f-droid.org/packages/com.illiouchine.jm/</id>
+<title>Urn</title>
+<updated>2025-03-16T20:47:01+00:00</updated>
+<author>
+<name>Illiouchine, domi41, MieuxVoter</name>
+</author>
+<content type="html">Transform your phone into a mobile, offline urn for a local majority judgement poll.&lt;br>;&lt;br>;Setup a poll in seconds, and share the phone amongst participants.&lt;br>;&lt;br>;This application helps groups decide together quickly about some subject.&lt;br>;&lt;br>;Majority judgement is an elegant ranking system used in french wine contests, where each participant judges each proposal, so there is no "throwing your vote away".&lt;br>;</content>
+<link href="https://f-droid.org/packages/com.illiouchine.jm/"/>
+<summary>Offline polls to decide and vote using Majority Judgement</summary>
+<published>2025-03-03T17:10:50+00:00</published>
+</entry>
+<entry>
+<id>https://f-droid.org/packages/com.aj.wa.contact.adder/</id>
+<title>WhatsApp Contact Adder</title>
+<updated>2025-03-16T20:45:19+00:00</updated>
+<author>
+<name>AJ</name>
+</author>
+<content type="html">Unlike other apps (e.g. Telegram), WhatsApp doesn't work properly without having access to the phone's contacts. Most functionalities work, but you practically can't add contacts.&lt;br>;So, for it to work, you'd have to ask people to add you. &lt;b>;Which is a pain!&lt;/b>;&lt;br>;&lt;br>;&lt;b>;How this app solves it?&lt;/b>;&lt;br>;&lt;b>;This app basically solves all of that, and more!&lt;/b>;It acts as a man-in-the-middle that gets access to your contacts, and then through a simple mock API call, initiates a chat with whichever contact you prefer.&lt;br>;You can also start chatting with a phone number directly without adding it as a contact in your phone book!&lt;br>;&lt;br>;&lt;b>;Features&lt;/b>;&lt;br>;📞 WhatsApp Shortcut – Instantly open a WhatsApp chat using the selected contact's phone number.&lt;br>;⚡ No-contact WhatsApp Instant Chat – Instantly open a WhatsApp chat with a given non-contact phone number!&lt;br>;📇 View Contacts – Displays all phone contacts in a structured, scrollable alphabet list.&lt;br>;🔍 Search Functionality – Quickly find contacts with a real-time search feature.&lt;br>;📖️ Add or Edit Contacts – One-stop-shop for quick access to your contacts Add, Edit, Add to existing, or Remove!</content>
+<link href="https://f-droid.org/packages/com.aj.wa.contact.adder/"/>
+<summary>Add WhatsApp contacts without giving WhatsApp access to your contacts!</summary>
+<published>2025-03-03T17:09:55+00:00</published>
+</entry>
+<entry>
+<id>https://f-droid.org/packages/se.nullable.flickboard/</id>
+<title>FlickBoard</title>
+<updated>2025-03-23T10:23:21+00:00</updated>
+<author>
+<name>Natalie Klestrup Röijezon</name>
+</author>
+<content type="html">&lt;p>;FlickBoard is a keyboard for Android that doesn’t try to correct or predict you. It doesn’t have an opinion on the correct spelling or tone. It certainly doesn’t use any AI. Because it trusts you to write what you meant to write.&lt;/p>;&lt;br>;&lt;p>;Instead, FlickBoard uses swipes to get away with using vastly fewer (and larger!) buttons than a traditional QWERTY keyboard, helping you build muscle memory, minimize typos, and touch type faster.&lt;/p>;&lt;br>;&lt;p>;Type the letters in the center of a key by tapping it. Type the keys in the corners by swiping in that direction. It’s that simple!&lt;/p>;&lt;br>;&lt;p>;FlickBoard is inspired by &lt;a href="https://www.exideas.com/ME/index.php">;MessagEase&lt;/a>; and &lt;a href="https://github.com/dessalines/thumb-key">;Thumb-Key&lt;/a>;.&lt;/p>;&lt;br>;</content>
+<link href="https://f-droid.org/packages/se.nullable.flickboard/"/>
+<summary>The Predictable Keyboard</summary>
+<published>2025-03-01T12:01:59+00:00</published>
+</entry>
+<entry>
+<id>https://f-droid.org/packages/io.github.tiefseetauchner.tiefprompt/</id>
+<title>tiefprompt</title>
+<updated>2025-03-26T01:38:54+00:00</updated>
+<content type="html">Tiefprompt ist eine simple und leicht anpassbare Teleprompter Applikation für Präsentationen, Videoaufnahmen und Reden. Tiefprompt enthält viele essentielle Features zum Anpassen des Leseflusses und zum Steuern der Wiedergabe.&lt;br>;&lt;br>;Zum Beispiel:&lt;br>;* Tastatursteuerung: Kontrolliere die Wiedergabe mit einer Tastatur.&lt;br>;* Lesehilfen: Konfigurierbare indikatoren um beim Lesefluss zu helfen.&lt;br>;* Anpassbare Schriftarten: Einfach die Schriftart ändern.&lt;br>;* Scriptverwaltung: Scripts können leicht gespeichert und verwaltet werden.&lt;br>;&lt;br>;Diese Applikation versucht möglichst einfach und effizient zu sein, und unnötige Ablenkungen zu minimieren.&lt;br>;</content>
+<link href="https://f-droid.org/packages/io.github.tiefseetauchner.tiefprompt/"/>
+<summary>A relatively simple teleprompter application</summary>
+<published>2025-03-01T11:58:42+00:00</published>
+</entry>
+<entry>
+<id>https://f-droid.org/packages/de.nkoeppel.artnet_receiver/</id>
+<title>ArtNet Receiver</title>
+<updated>2025-03-01T11:57:03+00:00</updated>
+<author>
+<name>Niklas Köppel</name>
+</author>
+<content type="html">Zeige die Frequenz von ArtNet Paketen im Netzwerk an.&lt;br>;Betrachte die einzelnen Kanal-Werte eines beliebigen DMX Universums und Subnetzes im hexadezimalen oder dezimalen Zahlenformat oder als Prozentwert.</content>
+<link href="https://f-droid.org/packages/de.nkoeppel.artnet_receiver/"/>
+<summary>Listen for and analyze ArtNet data in the local network.</summary>
+<published>2025-03-01T11:57:03+00:00</published>
+</entry>
+<entry>
+<id>https://f-droid.org/packages/com.willamesjr.fivetlog/</id>
+<title>fivethreeone_log</title>
+<updated>2025-03-01T11:56:46+00:00</updated>
+<author>
+<name>WillJr</name>
+</author>
+<content type="html">The 5/3/1 Log app helps you track your workouts and progress using the popular 5/3/1 strength training method. Whether you're a beginner or an experienced lifter, this app provides all the tools you need to stay on track and achieve your fitness goals.&lt;br>;&lt;br>;Features:&lt;br>;- Workout logging&lt;br>;- Rest timer&lt;br>;- Automatic calculation of reps and weights&lt;br>;&lt;br>;Stay motivated and reach your strength training goals with the 5/3/1 Log app. Download now and start your journey to a stronger you!&lt;br>;</content>
+<link href="https://f-droid.org/packages/com.willamesjr.fivetlog/"/>
+<summary>Track your workouts and progress with the 5/3/1 method.</summary>
+<published>2025-03-01T11:56:46+00:00</published>
+</entry>
+<entry>
+<id>https://f-droid.org/packages/com.oliverszabo.tcrbdetector/</id>
+<title>T CrB Detector</title>
+<updated>2025-03-26T01:37:01+00:00</updated>
+<content type="html">T CrB Detector notifies the user when the star T Coronae Borealis has exploded, and it also displays the current magnitude of the star at any moment. It is perfect for stargazers who are waiting patiently for this explosion.&lt;br>;</content>
+<link href="https://f-droid.org/packages/com.oliverszabo.tcrbdetector/"/>
+<summary>T CrB Detector notifies the user when the star T CrB has exploded.</summary>
+<published>2025-03-01T11:56:11+00:00</published>
+</entry>
+<entry>
+<id>https://f-droid.org/packages/com.iatfei.tsconverter/</id>
+<title>中文繁简转换</title>
+<updated>2025-03-12T02:07:32+00:00</updated>
+<author>
+<name>Fei Kuan</name>
+</author>
+<content type="html">我的第二个软件作品！希望大家会喜欢！&lt;br>;&lt;br>;采用 OpenCC 转换数据库，杜绝「后門」、「頭發」等转换问题，同时支持香港及台湾的异体字标准以及中国大陆及台湾的常用词汇转换。&lt;br>;&lt;br>;特色功能：&lt;br>; - 自动侦测繁简并转换，无需手动选择&lt;br>; - 可在其他程序的输入框中直接转换并取代&lt;br>; - 多达10种转换方式（见下列）&lt;br>; - 文字朗读功能&lt;br>; - 转换文字档&lt;br>; - 遵从安卓官方最新 Material 3 设计指引，简洁易用&lt;br>; - 支持夜间模式&lt;br>; - 无广告无追踪（软件不能联网、不能访问设备数据）&lt;br>;&lt;br>;转换方式：（如无特别需求，建议使用 OpenCC 标准）&lt;br>;简转繁&lt;br>;1. 简体到 OpenCC 繁体（建议）&lt;br>;2. 简体到台湾正体&lt;br>;3. 简体到香港繁体&lt;br>;4. 简体到台湾正体（包括词汇）&lt;br>;繁转简&lt;br>;5. OpenCC 繁体到简体（建议）&lt;br>;6. 台湾正体到简体&lt;br>;7. 香港繁体到简体&lt;br>;8. 台湾正体到简体（中国大陆词汇）&lt;br>;港台异体转换&lt;br>;9. OpenCC 繁体转换为台湾异体&lt;br>;10. OpenCC 繁体转换为香港异体&lt;br>;&lt;br>;出现奇怪问题吗？请发送邮件到 apps@iatfei.com。&lt;br>;有兴趣的话还可以发送 pull request :)&lt;br>;&lt;br>;此乃开源软件，原代码以 GNU 通用公共授权条款 版本3或以后 发布。&lt;br>;原代码：https://github.com/fei0316/OpenCC-android-app/</content>
+<link href="https://f-droid.org/packages/com.iatfei.tsconverter/"/>
+<summary>无广告、无权限、开源繁简转换器。支持港台异体及常用词汇，可在其他应用程序中直接自动转换！</summary>
+<published>2025-03-01T11:54:49+00:00</published>
+</entry>
+<entry>
+<id>https://f-droid.org/packages/co.electriccoin.zcash.foss/</id>
+<title>Zashi: Zcash Wallet</title>
+<updated>2025-03-08T09:38:20+00:00</updated>
+<author>
+<name>Zerocoin Electric Coin Company LLC</name>
+</author>
+<content type="html">Zashi is a Zcash wallet that keeps your transaction and message history private.&lt;br>;&lt;br>;Built and maintained by Electric Coin Co. (ECC), the inventor of Zcash, Zashi is the easiest way to use $ZEC.&lt;br>;&lt;br>;Why use the Zashi Zcash wallet?&lt;br>;* You can send and receive ZEC and private memos. (Zashi your mom! Zashi your barista!)&lt;br>;* It’s reliable and fast, and it includes the ability to Spend before Sync. (Funds are available before sync completes.)&lt;br>;* The UI is fully updated — simple and clean.&lt;br>;* It supports Sapling and Orchard pools, plus Unified Addresses, a single address type that works across all Zcash pools, transparent and shielded.&lt;br>;* It has built-in mechanisms for user support and developer feedback.</content>
+<link href="https://f-droid.org/packages/co.electriccoin.zcash.foss/"/>
+<summary>Zashi is a Zcash wallet that keeps your transaction and message history private</summary>
+<published>2025-03-01T11:53:17+00:00</published>
+</entry>
+<entry>
+<id>https://f-droid.org/packages/agrigolo.opendrummer/</id>
+<title>OpenDrummer - Drum Loops</title>
+<updated>2025-03-16T20:43:46+00:00</updated>
+<content type="html">Collection of drum loops in various styles and tempos, designed to enhance your practice by providing solid, high-quality grooves.&lt;br>;All loops are audio files converted from MIDI using premium soundfonts.&lt;br>;The tempo can be adjusted by up to 10% in either direction; however,this alters the pitch, so use this feature with caution.</content>
+<link href="https://f-droid.org/packages/agrigolo.opendrummer/"/>
+<summary>Drum loops in different styles and tempos.</summary>
+<published>2025-03-01T11:52:50+00:00</published>
+</entry>
+</feed>
